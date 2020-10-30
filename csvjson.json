@@ -1,0 +1,4778 @@
+[
+  {
+    "dataSetId": "fbe1fcd0-cd58-424d-8264-0a92e3d27387",
+    "stationType": "subway",
+    "stationName": "Абрамцево",
+    "lineName": "Электричка Москва-Александров",
+    "Название ветки": "31473533-3958-4e30-9ca7-d3d131d34039",
+    "ID направления": "7218184f-99b0-41b4-877a-224cabc7511f"
+  },
+  {
+    "dataSetId": "b3115111-e805-428e-9317-0d7f7cd7d934",
+    "stationType": "subway",
+    "stationName": "Авиамоторная",
+    "lineName": "Некрасовская линия",
+    "Название ветки": "efdc079f-0252-40ed-acf3-0bf67476f983",
+    "ID направления": "f7997692-638f-4360-acac-65431638ae6f"
+  },
+  {
+    "dataSetId": "8d75e060-471a-11e5-9c8f-ed332b49875f",
+    "stationType": "subway",
+    "stationName": "Авиамоторная",
+    "lineName": "Калининская линия",
+    "Название ветки": "8d4a6c28-471a-11e5-ba91-961782854ada",
+    "ID направления": "820a0a00-5145-ea22-766e-149ec5636607"
+  },
+  {
+    "dataSetId": "8d75e060-471a-11e5-9c8f-ed332b49875f",
+    "stationType": "subway",
+    "stationName": "Авиамоторная",
+    "lineName": "Калининская линия",
+    "Название ветки": "8d4a6c28-471a-11e5-ba91-961782854ada",
+    "ID направления": "8d5075be-471a-11e5-949b-d1519b93204f"
+  },
+  {
+    "dataSetId": "b3115111-e805-428e-9317-0d7f7cd7d934",
+    "stationType": "subway",
+    "stationName": "Авиамоторная",
+    "lineName": "Некрасовская линия",
+    "Название ветки": "efdc079f-0252-40ed-acf3-0bf67476f983",
+    "ID направления": "12b0b9cc-d160-4795-8a2f-bfcc18b51701"
+  },
+  {
+    "dataSetId": "8decb73a-471a-11e5-8709-e5cc1f5d8797",
+    "stationType": "subway",
+    "stationName": "Автозаводская",
+    "lineName": "Замоскворецкая линия",
+    "Название ветки": "8d9076b4-471a-11e5-9f41-f71b6003a10d",
+    "ID направления": "8d95379e-471a-11e5-9c4d-a70a757d8e10"
+  },
+  {
+    "dataSetId": "c9a22a68-f069-4488-940a-40f2bf68e816",
+    "stationType": "mcc",
+    "stationName": "Автозаводская",
+    "lineName": "МЦК",
+    "Название ветки": "812d7a2f-b6c7-4924-ad67-8c45e4dfdad3",
+    "ID направления": "c2eca0d1-5866-46d7-9414-82e8f73fe0dd"
+  },
+  {
+    "dataSetId": "c9a22a68-f069-4488-940a-40f2bf68e816",
+    "stationType": "mcc",
+    "stationName": "Автозаводская",
+    "lineName": "МЦК",
+    "Название ветки": "812d7a2f-b6c7-4924-ad67-8c45e4dfdad3",
+    "ID направления": "40d606ae-c6f3-4981-91ba-27bd337db216"
+  },
+  {
+    "dataSetId": "8decb73a-471a-11e5-8709-e5cc1f5d8797",
+    "stationType": "subway",
+    "stationName": "Автозаводская",
+    "lineName": "Замоскворецкая линия",
+    "Название ветки": "8d9076b4-471a-11e5-9f41-f71b6003a10d",
+    "ID направления": "5626ca88-fc11-8df4-0f8b-d3841e177802"
+  },
+  {
+    "dataSetId": "8e88fc30-471a-11e5-a72b-8b85a9ab361b",
+    "stationType": "subway",
+    "stationName": "Академическая",
+    "lineName": "Калужско-Рижская линия",
+    "Название ветки": "8e1e8da0-471a-11e5-91d7-40b6bdf6f348",
+    "ID направления": "8e23b12c-471a-11e5-a985-ab8269731f9f"
+  },
+  {
+    "dataSetId": "8e88fc30-471a-11e5-a72b-8b85a9ab361b",
+    "stationType": "subway",
+    "stationName": "Академическая",
+    "lineName": "Калужско-Рижская линия",
+    "Название ветки": "8e1e8da0-471a-11e5-91d7-40b6bdf6f348",
+    "ID направления": "3a5956c6-3156-5b03-c3d0-60d772da1d7f"
+  },
+  {
+    "dataSetId": "8f17f57a-471a-11e5-9f73-c57d019be3ca",
+    "stationType": "subway",
+    "stationName": "Александровский сад",
+    "lineName": "Филёвская линия",
+    "Название ветки": "ceeb4f7c-eeb6-4891-abda-fc2df5468013",
+    "ID направления": "178a4e77-b499-3195-e8c8-e783abf02823"
+  },
+  {
+    "dataSetId": "8f17f57a-471a-11e5-9f73-c57d019be3ca",
+    "stationType": "subway",
+    "stationName": "Александровский сад",
+    "lineName": "Филёвская линия",
+    "Название ветки": "8ebf8f2a-471a-11e5-8473-298136d71f91",
+    "ID направления": "1f1b61e6-b2de-44db-1dbb-f7caaeff4dd1"
+  },
+  {
+    "dataSetId": "8f17f57a-471a-11e5-9f73-c57d019be3ca",
+    "stationType": "subway",
+    "stationName": "Александровский сад",
+    "lineName": "Филёвская линия",
+    "Название ветки": "8ebf8f2a-471a-11e5-8473-298136d71f91",
+    "ID направления": "8ec46806-471a-11e5-ae78-3fd8b768ff2c"
+  },
+  {
+    "dataSetId": "8f17f57a-471a-11e5-9f73-c57d019be3ca",
+    "stationType": "subway",
+    "stationName": "Александровский сад",
+    "lineName": "Филёвская линия",
+    "Название ветки": "ceeb4f7c-eeb6-4891-abda-fc2df5468013",
+    "ID направления": "471d8788-9048-4e99-a25a-ca9e214430b3"
+  },
+  {
+    "dataSetId": "8e493c6c-471a-11e5-845a-ae61379d070b",
+    "stationType": "subway",
+    "stationName": "Алексеевская",
+    "lineName": "Калужско-Рижская линия",
+    "Название ветки": "8e1e8da0-471a-11e5-91d7-40b6bdf6f348",
+    "ID направления": "3a5956c6-3156-5b03-c3d0-60d772da1d7f"
+  },
+  {
+    "dataSetId": "8e493c6c-471a-11e5-845a-ae61379d070b",
+    "stationType": "subway",
+    "stationName": "Алексеевская",
+    "lineName": "Калужско-Рижская линия",
+    "Название ветки": "8e1e8da0-471a-11e5-91d7-40b6bdf6f348",
+    "ID направления": "8e23b12c-471a-11e5-a985-ab8269731f9f"
+  },
+  {
+    "dataSetId": "8e1850a2-471a-11e5-842c-2ba3b4ac4370",
+    "stationType": "subway",
+    "stationName": "Алма-Атинская",
+    "lineName": "Замоскворецкая линия",
+    "Название ветки": "8d9076b4-471a-11e5-9f41-f71b6003a10d",
+    "ID направления": "5626ca88-fc11-8df4-0f8b-d3841e177802"
+  },
+  {
+    "dataSetId": "8e1850a2-471a-11e5-842c-2ba3b4ac4370",
+    "stationType": "subway",
+    "stationName": "Алма-Атинская",
+    "lineName": "Замоскворецкая линия",
+    "Название ветки": "8d9076b4-471a-11e5-9f41-f71b6003a10d",
+    "ID направления": "8d95379e-471a-11e5-9c4d-a70a757d8e10"
+  },
+  {
+    "dataSetId": "8f48f1ac-471a-11e5-bb5c-928ee1d342c3",
+    "stationType": "subway",
+    "stationName": "Алтуфьево",
+    "lineName": "Серпуховско-Тимирязевская линия",
+    "Название ветки": "8f3ebfe8-471a-11e5-bf6f-39c67f1b8346",
+    "ID направления": "97347e3e-3e14-5beb-b6e7-44f293276b3c"
+  },
+  {
+    "dataSetId": "8f48f1ac-471a-11e5-bb5c-928ee1d342c3",
+    "stationType": "subway",
+    "stationName": "Алтуфьево",
+    "lineName": "Серпуховско-Тимирязевская линия",
+    "Название ветки": "8f3ebfe8-471a-11e5-bf6f-39c67f1b8346",
+    "ID направления": "8f43d956-471a-11e5-ad3d-98f66d46e101"
+  },
+  {
+    "dataSetId": "814124f4-a559-4596-9b04-931a5fef2422",
+    "stationType": "mcc",
+    "stationName": "Андроновка",
+    "lineName": "МЦК",
+    "Название ветки": "812d7a2f-b6c7-4924-ad67-8c45e4dfdad3",
+    "ID направления": "c2eca0d1-5866-46d7-9414-82e8f73fe0dd"
+  },
+  {
+    "dataSetId": "814124f4-a559-4596-9b04-931a5fef2422",
+    "stationType": "mcc",
+    "stationName": "Андроновка",
+    "lineName": "МЦК",
+    "Название ветки": "812d7a2f-b6c7-4924-ad67-8c45e4dfdad3",
+    "ID направления": "40d606ae-c6f3-4981-91ba-27bd337db216"
+  },
+  {
+    "dataSetId": "8fcba58e-471a-11e5-93c6-46e2e1822de3",
+    "stationType": "subway",
+    "stationName": "Аннино",
+    "lineName": "Серпуховско-Тимирязевская линия",
+    "Название ветки": "8f3ebfe8-471a-11e5-bf6f-39c67f1b8346",
+    "ID направления": "97347e3e-3e14-5beb-b6e7-44f293276b3c"
+  },
+  {
+    "dataSetId": "8fcba58e-471a-11e5-93c6-46e2e1822de3",
+    "stationType": "subway",
+    "stationName": "Аннино",
+    "lineName": "Серпуховско-Тимирязевская линия",
+    "Название ветки": "8f3ebfe8-471a-11e5-bf6f-39c67f1b8346",
+    "ID направления": "8f43d956-471a-11e5-ad3d-98f66d46e101"
+  },
+  {
+    "dataSetId": "901868d8-471a-11e5-ac1b-cb428c40e164",
+    "stationType": "subway",
+    "stationName": "Арбатская",
+    "lineName": "Арбатско-Покровская линия",
+    "Название ветки": "8fd77c4c-471a-11e5-9c19-aed022f77575",
+    "ID направления": "8fdc553c-471a-11e5-8f0b-6def8571b2e8"
+  },
+  {
+    "dataSetId": "в",
+    "stationType": "subway",
+    "stationName": "Арбатская",
+    "lineName": "Филёвская линия",
+    "Название ветки": "ceeb4f7c-eeb6-4891-abda-fc2df5468013",
+    "ID направления": "471d8788-9048-4e99-a25a-ca9e214430b3"
+  },
+  {
+    "dataSetId": "8f11696c-471a-11e5-a1e4-bb785d051ecb",
+    "stationType": "subway",
+    "stationName": "Арбатская",
+    "lineName": "Филёвская линия",
+    "Название ветки": "8ebf8f2a-471a-11e5-8473-298136d71f91",
+    "ID направления": "1f1b61e6-b2de-44db-1dbb-f7caaeff4dd1"
+  },
+  {
+    "dataSetId": "8f11696c-471a-11e5-a1e4-bb785d051ecb",
+    "stationType": "subway",
+    "stationName": "Арбатская",
+    "lineName": "Филёвская линия",
+    "Название ветки": "ceeb4f7c-eeb6-4891-abda-fc2df5468013",
+    "ID направления": "178a4e77-b499-3195-e8c8-e783abf02823"
+  },
+  {
+    "dataSetId": "901868d8-471a-11e5-ac1b-cb428c40e164",
+    "stationType": "subway",
+    "stationName": "Арбатская",
+    "lineName": "Арбатско-Покровская линия",
+    "Название ветки": "8fd77c4c-471a-11e5-9c19-aed022f77575",
+    "ID направления": "26e6acfc-127d-fbfa-9f0e-2a2f25643d6b"
+  },
+  {
+    "dataSetId": "8f11696c-471a-11e5-a1e4-bb785d051ecb",
+    "stationType": "subway",
+    "stationName": "Арбатская",
+    "lineName": "Филёвская линия",
+    "Название ветки": "8ebf8f2a-471a-11e5-8473-298136d71f91",
+    "ID направления": "8ec46806-471a-11e5-ae78-3fd8b768ff2c"
+  },
+  {
+    "dataSetId": "ba4ca5ed-1884-4e6d-9fe5-0a26702dacd9",
+    "stationType": "subway",
+    "stationName": "Ашукинская",
+    "lineName": "Электричка Москва-Александров",
+    "Название ветки": "31473533-3958-4e30-9ca7-d3d131d34039",
+    "ID направления": "7218184f-99b0-41b4-877a-224cabc7511f"
+  },
+  {
+    "dataSetId": "8db2fb94-471a-11e5-a5b2-29de4e27613b",
+    "stationType": "subway",
+    "stationName": "Аэропорт",
+    "lineName": "Замоскворецкая линия",
+    "Название ветки": "8d9076b4-471a-11e5-9f41-f71b6003a10d",
+    "ID направления": "8d95379e-471a-11e5-9c4d-a70a757d8e10"
+  },
+  {
+    "dataSetId": "8db2fb94-471a-11e5-a5b2-29de4e27613b",
+    "stationType": "subway",
+    "stationName": "Аэропорт",
+    "lineName": "Замоскворецкая линия",
+    "Название ветки": "8d9076b4-471a-11e5-9f41-f71b6003a10d",
+    "ID направления": "5626ca88-fc11-8df4-0f8b-d3841e177802"
+  },
+  {
+    "dataSetId": "8e2f2d18-471a-11e5-8c70-ac67b5878e80",
+    "stationType": "subway",
+    "stationName": "Бабушкинская",
+    "lineName": "Калужско-Рижская линия",
+    "Название ветки": "8e1e8da0-471a-11e5-91d7-40b6bdf6f348",
+    "ID направления": "8e23b12c-471a-11e5-a985-ab8269731f9f"
+  },
+  {
+    "dataSetId": "8e2f2d18-471a-11e5-8c70-ac67b5878e80",
+    "stationType": "subway",
+    "stationName": "Бабушкинская",
+    "lineName": "Калужско-Рижская линия",
+    "Название ветки": "8e1e8da0-471a-11e5-91d7-40b6bdf6f348",
+    "ID направления": "3a5956c6-3156-5b03-c3d0-60d772da1d7f"
+  },
+  {
+    "dataSetId": "8edcca22-471a-11e5-9acc-b873878cb15b",
+    "stationType": "subway",
+    "stationName": "Багратионовская",
+    "lineName": "Филёвская линия",
+    "Название ветки": "8ebf8f2a-471a-11e5-8473-298136d71f91",
+    "ID направления": "8ec46806-471a-11e5-ae78-3fd8b768ff2c"
+  },
+  {
+    "dataSetId": "8edcca22-471a-11e5-9acc-b873878cb15b",
+    "stationType": "subway",
+    "stationName": "Багратионовская",
+    "lineName": "Филёвская линия",
+    "Название ветки": "8ebf8f2a-471a-11e5-8473-298136d71f91",
+    "ID направления": "1f1b61e6-b2de-44db-1dbb-f7caaeff4dd1"
+  },
+  {
+    "dataSetId": "9f72f725-a46a-4367-b6ff-75e407ac68bb",
+    "stationType": "mcc",
+    "stationName": "Балтийская",
+    "lineName": "МЦК",
+    "Название ветки": "812d7a2f-b6c7-4924-ad67-8c45e4dfdad3",
+    "ID направления": "40d606ae-c6f3-4981-91ba-27bd337db216"
+  },
+  {
+    "dataSetId": "9f72f725-a46a-4367-b6ff-75e407ac68bb",
+    "stationType": "mcc",
+    "stationName": "Балтийская",
+    "lineName": "МЦК",
+    "Название ветки": "812d7a2f-b6c7-4924-ad67-8c45e4dfdad3",
+    "ID направления": "c2eca0d1-5866-46d7-9414-82e8f73fe0dd"
+  },
+  {
+    "dataSetId": "9093d842-471a-11e5-908a-105a9904b60c",
+    "stationType": "subway",
+    "stationName": "Баррикадная",
+    "lineName": "Таганско-Краснопресненская линия",
+    "Название ветки": "905c4c06-471a-11e5-b22f-5b1f00be12d1",
+    "ID направления": "09b196c8-2d04-ba4b-b7a4-430071e55f9f"
+  },
+  {
+    "dataSetId": "9093d842-471a-11e5-908a-105a9904b60c",
+    "stationType": "subway",
+    "stationName": "Баррикадная",
+    "lineName": "Таганско-Краснопресненская линия",
+    "Название ветки": "905c4c06-471a-11e5-b22f-5b1f00be12d1",
+    "ID направления": "90614df0-471a-11e5-b25a-ba8676ed3b60"
+  },
+  {
+    "dataSetId": "9005523e-471a-11e5-a6b5-066cb81ffc1a",
+    "stationType": "subway",
+    "stationName": "Бауманская",
+    "lineName": "Арбатско-Покровская линия",
+    "Название ветки": "8fd77c4c-471a-11e5-9c19-aed022f77575",
+    "ID направления": "26e6acfc-127d-fbfa-9f0e-2a2f25643d6b"
+  },
+  {
+    "dataSetId": "9005523e-471a-11e5-a6b5-066cb81ffc1a",
+    "stationType": "subway",
+    "stationName": "Бауманская",
+    "lineName": "Арбатско-Покровская линия",
+    "Название ветки": "8fd77c4c-471a-11e5-9c19-aed022f77575",
+    "ID направления": "8fdc553c-471a-11e5-8f0b-6def8571b2e8"
+  },
+  {
+    "dataSetId": "9087ff0e-471a-11e5-86a5-83ec298757ca",
+    "stationType": "subway",
+    "stationName": "Беговая",
+    "lineName": "Таганско-Краснопресненская линия",
+    "Название ветки": "905c4c06-471a-11e5-b22f-5b1f00be12d1",
+    "ID направления": "90614df0-471a-11e5-b25a-ba8676ed3b60"
+  },
+  {
+    "dataSetId": "9087ff0e-471a-11e5-86a5-83ec298757ca",
+    "stationType": "subway",
+    "stationName": "Беговая",
+    "lineName": "Таганско-Краснопресненская линия",
+    "Название ветки": "905c4c06-471a-11e5-b22f-5b1f00be12d1",
+    "ID направления": "09b196c8-2d04-ba4b-b7a4-430071e55f9f"
+  },
+  {
+    "dataSetId": "19902b6e-d83a-4d1a-ac91-0bbad8c00d29",
+    "stationType": "mcc",
+    "stationName": "Белокаменная",
+    "lineName": "МЦК",
+    "Название ветки": "812d7a2f-b6c7-4924-ad67-8c45e4dfdad3",
+    "ID направления": "40d606ae-c6f3-4981-91ba-27bd337db216"
+  },
+  {
+    "dataSetId": "19902b6e-d83a-4d1a-ac91-0bbad8c00d29",
+    "stationType": "mcc",
+    "stationName": "Белокаменная",
+    "lineName": "МЦК",
+    "Название ветки": "812d7a2f-b6c7-4924-ad67-8c45e4dfdad3",
+    "ID направления": "c2eca0d1-5866-46d7-9414-82e8f73fe0dd"
+  },
+  {
+    "dataSetId": "82cabef3-d8fb-4903-a3c1-8f3a3eb41e08",
+    "stationType": "subway",
+    "stationName": "Беломорская",
+    "lineName": "Замоскворецкая линия",
+    "Название ветки": "8d9076b4-471a-11e5-9f41-f71b6003a10d",
+    "ID направления": "8d95379e-471a-11e5-9c4d-a70a757d8e10"
+  },
+  {
+    "dataSetId": "82cabef3-d8fb-4903-a3c1-8f3a3eb41e08",
+    "stationType": "subway",
+    "stationName": "Беломорская",
+    "lineName": "Замоскворецкая линия",
+    "Название ветки": "8d9076b4-471a-11e5-9f41-f71b6003a10d",
+    "ID направления": "5626ca88-fc11-8df4-0f8b-d3841e177802"
+  },
+  {
+    "dataSetId": "8dbf9b06-471a-11e5-99da-b19297174b70",
+    "stationType": "subway",
+    "stationName": "Белорусская",
+    "lineName": "Замоскворецкая линия",
+    "Название ветки": "8d9076b4-471a-11e5-9f41-f71b6003a10d",
+    "ID направления": "5626ca88-fc11-8df4-0f8b-d3841e177802"
+  },
+  {
+    "dataSetId": "90fb3a78-471a-11e5-bd57-10741d330d67",
+    "stationType": "subway",
+    "stationName": "Белорусская",
+    "lineName": "Кольцевая линия",
+    "Название ветки": "90cc019a-471a-11e5-a77d-4d1a70b68fca",
+    "ID направления": "90e7fc74-471a-11e5-acac-299daf05db4c"
+  },
+  {
+    "dataSetId": "90fb3a78-471a-11e5-bd57-10741d330d67",
+    "stationType": "subway",
+    "stationName": "Белорусская",
+    "lineName": "Кольцевая линия",
+    "Название ветки": "90cc019a-471a-11e5-a77d-4d1a70b68fca",
+    "ID направления": "adec8ae8-3740-629a-cc0c-857096c0a10b"
+  },
+  {
+    "dataSetId": "8dbf9b06-471a-11e5-99da-b19297174b70",
+    "stationType": "subway",
+    "stationName": "Белорусская",
+    "lineName": "Замоскворецкая линия",
+    "Название ветки": "8d9076b4-471a-11e5-9f41-f71b6003a10d",
+    "ID направления": "8d95379e-471a-11e5-9c4d-a70a757d8e10"
+  },
+  {
+    "dataSetId": "8ea14a38-471a-11e5-a9c2-c1eca8b4bd91",
+    "stationType": "subway",
+    "stationName": "Беляево",
+    "lineName": "Калужско-Рижская линия",
+    "Название ветки": "8e1e8da0-471a-11e5-91d7-40b6bdf6f348",
+    "ID направления": "3a5956c6-3156-5b03-c3d0-60d772da1d7f"
+  },
+  {
+    "dataSetId": "8ea14a38-471a-11e5-a9c2-c1eca8b4bd91",
+    "stationType": "subway",
+    "stationName": "Беляево",
+    "lineName": "Калужско-Рижская линия",
+    "Название ветки": "8e1e8da0-471a-11e5-91d7-40b6bdf6f348",
+    "ID направления": "8e23b12c-471a-11e5-a985-ab8269731f9f"
+  },
+  {
+    "dataSetId": "8f4fd922-471a-11e5-a41c-8d496e8b353f",
+    "stationType": "subway",
+    "stationName": "Бибирево",
+    "lineName": "Серпуховско-Тимирязевская линия",
+    "Название ветки": "8f3ebfe8-471a-11e5-bf6f-39c67f1b8346",
+    "ID направления": "97347e3e-3e14-5beb-b6e7-44f293276b3c"
+  },
+  {
+    "dataSetId": "8f4fd922-471a-11e5-a41c-8d496e8b353f",
+    "stationType": "subway",
+    "stationName": "Бибирево",
+    "lineName": "Серпуховско-Тимирязевская линия",
+    "Название ветки": "8f3ebfe8-471a-11e5-bf6f-39c67f1b8346",
+    "ID направления": "8f43d956-471a-11e5-ad3d-98f66d46e101"
+  },
+  {
+    "dataSetId": "9189ccac-471a-11e5-9dee-3fcb05fd5c15",
+    "stationType": "subway",
+    "stationName": "Библиотека имени Ленина",
+    "lineName": "Сокольническая линия",
+    "Название ветки": "913e8b8e-471a-11e5-bb05-091bc1fc53a1",
+    "ID направления": "c1fabf36-77c2-3be0-d3e2-186e28e7beba"
+  },
+  {
+    "dataSetId": "9189ccac-471a-11e5-9dee-3fcb05fd5c15",
+    "stationType": "subway",
+    "stationName": "Библиотека имени Ленина",
+    "lineName": "Сокольническая линия",
+    "Название ветки": "913e8b8e-471a-11e5-bb05-091bc1fc53a1",
+    "ID направления": "91436c12-471a-11e5-a3c8-e5afa364d7cf"
+  },
+  {
+    "dataSetId": "248c535e-52e5-4d2e-9478-6417169d5bb9",
+    "stationType": "subway",
+    "stationName": "Битцевский парк",
+    "lineName": "Бутовская линия",
+    "Название ветки": "925bf7d6-471a-11e5-b809-dd225ae65f46",
+    "ID направления": "253f8506-679c-d269-ad5f-d6517e2d2177"
+  },
+  {
+    "dataSetId": "248c535e-52e5-4d2e-9478-6417169d5bb9",
+    "stationType": "subway",
+    "stationName": "Битцевский парк",
+    "lineName": "Бутовская линия",
+    "Название ветки": "925bf7d6-471a-11e5-b809-dd225ae65f46",
+    "ID направления": "92603e22-471a-11e5-a616-6335f60b9920"
+  },
+  {
+    "dataSetId": "9247045c-471a-11e5-b7c9-0c1d85015a9e",
+    "stationType": "subway",
+    "stationName": "Борисово",
+    "lineName": "Люблинско-Дмитровская линия",
+    "Название ветки": "91c9dd2e-471a-11e5-81d1-51d545884878",
+    "ID направления": "7eea0f10-ee85-ec1b-9b79-56aa7ec2fff5"
+  },
+  {
+    "dataSetId": "9247045c-471a-11e5-b7c9-0c1d85015a9e",
+    "stationType": "subway",
+    "stationName": "Борисово",
+    "lineName": "Люблинско-Дмитровская линия",
+    "Название ветки": "91c9dd2e-471a-11e5-81d1-51d545884878",
+    "ID направления": "91ce2082-471a-11e5-b30f-975bbc42b8bd"
+  },
+  {
+    "dataSetId": "8f87a136-471a-11e5-9954-1a6f3a420aef",
+    "stationType": "subway",
+    "stationName": "Боровицкая",
+    "lineName": "Серпуховско-Тимирязевская линия",
+    "Название ветки": "8f3ebfe8-471a-11e5-bf6f-39c67f1b8346",
+    "ID направления": "8f43d956-471a-11e5-ad3d-98f66d46e101"
+  },
+  {
+    "dataSetId": "8f87a136-471a-11e5-9954-1a6f3a420aef",
+    "stationType": "subway",
+    "stationName": "Боровицкая",
+    "lineName": "Серпуховско-Тимирязевская линия",
+    "Название ветки": "8f3ebfe8-471a-11e5-bf6f-39c67f1b8346",
+    "ID направления": "97347e3e-3e14-5beb-b6e7-44f293276b3c"
+  },
+  {
+    "dataSetId": "6991a139-8391-4018-89fa-9e49e3747e90",
+    "stationType": "subway",
+    "stationName": "Боровское шоссе",
+    "lineName": "Солнцевская линия",
+    "Название ветки": "92578142-471a-11e5-8bc7-00c742ecd372",
+    "ID направления": "916f3177-83f3-0538-5fa9-05c734f64fd7"
+  },
+  {
+    "dataSetId": "6991a139-8391-4018-89fa-9e49e3747e90",
+    "stationType": "subway",
+    "stationName": "Боровское шоссе",
+    "lineName": "Солнцевская линия",
+    "Название ветки": "92578142-471a-11e5-8bc7-00c742ecd372",
+    "ID направления": "55045d01-78a4-4ab7-a72d-ed5caab64169"
+  },
+  {
+    "dataSetId": "8e3ca6be-471a-11e5-9ac6-fd01317d72bb",
+    "stationType": "subway",
+    "stationName": "Ботанический сад",
+    "lineName": "Калужско-Рижская линия",
+    "Название ветки": "8e1e8da0-471a-11e5-91d7-40b6bdf6f348",
+    "ID направления": "8e23b12c-471a-11e5-a985-ab8269731f9f"
+  },
+  {
+    "dataSetId": "8e3ca6be-471a-11e5-9ac6-fd01317d72bb",
+    "stationType": "subway",
+    "stationName": "Ботанический сад",
+    "lineName": "Калужско-Рижская линия",
+    "Название ветки": "8e1e8da0-471a-11e5-91d7-40b6bdf6f348",
+    "ID направления": "3a5956c6-3156-5b03-c3d0-60d772da1d7f"
+  },
+  {
+    "dataSetId": "7c3b56ca-71e6-4a0c-a99d-a859e9ff6a26",
+    "stationType": "mcc",
+    "stationName": "Ботанический сад",
+    "lineName": "МЦК",
+    "Название ветки": "812d7a2f-b6c7-4924-ad67-8c45e4dfdad3",
+    "ID направления": "c2eca0d1-5866-46d7-9414-82e8f73fe0dd"
+  },
+  {
+    "dataSetId": "7c3b56ca-71e6-4a0c-a99d-a859e9ff6a26",
+    "stationType": "mcc",
+    "stationName": "Ботанический сад",
+    "lineName": "МЦК",
+    "Название ветки": "812d7a2f-b6c7-4924-ad67-8c45e4dfdad3",
+    "ID направления": "40d606ae-c6f3-4981-91ba-27bd337db216"
+  },
+  {
+    "dataSetId": "92122aca-471a-11e5-8b7c-75f4b19d5cc3",
+    "stationType": "subway",
+    "stationName": "Братиславская",
+    "lineName": "Люблинско-Дмитровская линия",
+    "Название ветки": "91c9dd2e-471a-11e5-81d1-51d545884878",
+    "ID направления": "7eea0f10-ee85-ec1b-9b79-56aa7ec2fff5"
+  },
+  {
+    "dataSetId": "92122aca-471a-11e5-8b7c-75f4b19d5cc3",
+    "stationType": "subway",
+    "stationName": "Братиславская",
+    "lineName": "Люблинско-Дмитровская линия",
+    "Название ветки": "91c9dd2e-471a-11e5-81d1-51d545884878",
+    "ID направления": "91ce2082-471a-11e5-b30f-975bbc42b8bd"
+  },
+  {
+    "dataSetId": "9270f172-471a-11e5-8087-72a18e22efeb",
+    "stationType": "subway",
+    "stationName": "Бульвар адмирала Ушакова",
+    "lineName": "Бутовская линия",
+    "Название ветки": "925bf7d6-471a-11e5-b809-dd225ae65f46",
+    "ID направления": "253f8506-679c-d269-ad5f-d6517e2d2177"
+  },
+  {
+    "dataSetId": "9270f172-471a-11e5-8087-72a18e22efeb",
+    "stationType": "subway",
+    "stationName": "Бульвар адмирала Ушакова",
+    "lineName": "Бутовская линия",
+    "Название ветки": "925bf7d6-471a-11e5-b809-dd225ae65f46",
+    "ID направления": "92603e22-471a-11e5-a616-6335f60b9920"
+  },
+  {
+    "dataSetId": "8fd170a4-471a-11e5-bdfb-03af20ddd3a0",
+    "stationType": "subway",
+    "stationName": "Бульвар Дмитрия Донского",
+    "lineName": "Серпуховско-Тимирязевская линия",
+    "Название ветки": "8f3ebfe8-471a-11e5-bf6f-39c67f1b8346",
+    "ID направления": "8f43d956-471a-11e5-ad3d-98f66d46e101"
+  },
+  {
+    "dataSetId": "8fd170a4-471a-11e5-bdfb-03af20ddd3a0",
+    "stationType": "subway",
+    "stationName": "Бульвар Дмитрия Донского",
+    "lineName": "Серпуховско-Тимирязевская линия",
+    "Название ветки": "8f3ebfe8-471a-11e5-bf6f-39c67f1b8346",
+    "ID направления": "97347e3e-3e14-5beb-b6e7-44f293276b3c"
+  },
+  {
+    "dataSetId": "03e8e5d7-2dd3-4700-a083-0cd777919d53",
+    "stationType": "mcc",
+    "stationName": "Бульвар Рокоссовского",
+    "lineName": "МЦК",
+    "Название ветки": "812d7a2f-b6c7-4924-ad67-8c45e4dfdad3",
+    "ID направления": "c2eca0d1-5866-46d7-9414-82e8f73fe0dd"
+  },
+  {
+    "dataSetId": "9148533a-471a-11e5-a8c0-25544e1d953c",
+    "stationType": "subway",
+    "stationName": "Бульвар Рокоссовского",
+    "lineName": "Сокольническая линия",
+    "Название ветки": "913e8b8e-471a-11e5-bb05-091bc1fc53a1",
+    "ID направления": "c1fabf36-77c2-3be0-d3e2-186e28e7beba"
+  },
+  {
+    "dataSetId": "9148533a-471a-11e5-a8c0-25544e1d953c",
+    "stationType": "subway",
+    "stationName": "Бульвар Рокоссовского",
+    "lineName": "Сокольническая линия",
+    "Название ветки": "913e8b8e-471a-11e5-bb05-091bc1fc53a1",
+    "ID направления": "91436c12-471a-11e5-a3c8-e5afa364d7cf"
+  },
+  {
+    "dataSetId": "03e8e5d7-2dd3-4700-a083-0cd777919d53",
+    "stationType": "mcc",
+    "stationName": "Бульвар Рокоссовского",
+    "lineName": "МЦК",
+    "Название ветки": "812d7a2f-b6c7-4924-ad67-8c45e4dfdad3",
+    "ID направления": "40d606ae-c6f3-4981-91ba-27bd337db216"
+  },
+  {
+    "dataSetId": "927cf53a-471a-11e5-ab0e-76151d170981",
+    "stationType": "subway",
+    "stationName": "Бунинская аллея",
+    "lineName": "Бутовская линия",
+    "Название ветки": "925bf7d6-471a-11e5-b809-dd225ae65f46",
+    "ID направления": "253f8506-679c-d269-ad5f-d6517e2d2177"
+  },
+  {
+    "dataSetId": "927cf53a-471a-11e5-ab0e-76151d170981",
+    "stationType": "subway",
+    "stationName": "Бунинская аллея",
+    "lineName": "Бутовская линия",
+    "Название ветки": "925bf7d6-471a-11e5-b809-dd225ae65f46",
+    "ID направления": "92603e22-471a-11e5-a616-6335f60b9920"
+  },
+  {
+    "dataSetId": "1f7794b5-5646-40a3-a731-29ef412c182b",
+    "stationType": "subway",
+    "stationName": "Бутырская",
+    "lineName": "Люблинско-Дмитровская линия",
+    "Название ветки": "91c9dd2e-471a-11e5-81d1-51d545884878",
+    "ID направления": "7eea0f10-ee85-ec1b-9b79-56aa7ec2fff5"
+  },
+  {
+    "dataSetId": "1f7794b5-5646-40a3-a731-29ef412c182b",
+    "stationType": "subway",
+    "stationName": "Бутырская",
+    "lineName": "Люблинско-Дмитровская линия",
+    "Название ветки": "91c9dd2e-471a-11e5-81d1-51d545884878",
+    "ID направления": "91ce2082-471a-11e5-b30f-975bbc42b8bd"
+  },
+  {
+    "dataSetId": "928e6ebe-471a-11e5-a0cd-bcc2dee8fb99",
+    "stationType": "subway",
+    "stationName": "Варшавская",
+    "lineName": "Каховская линия",
+    "Название ветки": "9282d55e-471a-11e5-bbf2-a122b17644ad",
+    "ID направления": "830c094b-0f06-0d18-d6f3-4ca310373151"
+  },
+  {
+    "dataSetId": "928e6ebe-471a-11e5-a0cd-bcc2dee8fb99",
+    "stationType": "subway",
+    "stationName": "Варшавская",
+    "lineName": "Каховская линия",
+    "Название ветки": "9282d55e-471a-11e5-bbf2-a122b17644ad",
+    "ID направления": "92871b3c-471a-11e5-b1fb-de8cfdd7b3ce"
+  },
+  {
+    "dataSetId": "8e42ef42-471a-11e5-ad06-3b094591fd79",
+    "stationType": "subway",
+    "stationName": "ВДНХ",
+    "lineName": "Калужско-Рижская линия",
+    "Название ветки": "8e1e8da0-471a-11e5-91d7-40b6bdf6f348",
+    "ID направления": "8e23b12c-471a-11e5-a985-ab8269731f9f"
+  },
+  {
+    "dataSetId": "8e42ef42-471a-11e5-ad06-3b094591fd79",
+    "stationType": "subway",
+    "stationName": "ВДНХ",
+    "lineName": "Калужско-Рижская линия",
+    "Название ветки": "8e1e8da0-471a-11e5-91d7-40b6bdf6f348",
+    "ID направления": "3a5956c6-3156-5b03-c3d0-60d772da1d7f"
+  },
+  {
+    "dataSetId": "9d1773dc-294e-4c4f-bfe2-9a17119c0405",
+    "stationType": "mcc",
+    "stationName": "Верхние Котлы",
+    "lineName": "МЦК",
+    "Название ветки": "812d7a2f-b6c7-4924-ad67-8c45e4dfdad3",
+    "ID направления": "c2eca0d1-5866-46d7-9414-82e8f73fe0dd"
+  },
+  {
+    "dataSetId": "9d1773dc-294e-4c4f-bfe2-9a17119c0405",
+    "stationType": "mcc",
+    "stationName": "Верхние Котлы",
+    "lineName": "МЦК",
+    "Название ветки": "812d7a2f-b6c7-4924-ad67-8c45e4dfdad3",
+    "ID направления": "40d606ae-c6f3-4981-91ba-27bd337db216"
+  },
+  {
+    "dataSetId": "a5b2bc2f-a792-4702-9da4-aaf76f786e70",
+    "stationType": "subway",
+    "stationName": "Верхние Лихоборы",
+    "lineName": "Люблинско-Дмитровская линия",
+    "Название ветки": "91c9dd2e-471a-11e5-81d1-51d545884878",
+    "ID направления": "91ce2082-471a-11e5-b30f-975bbc42b8bd"
+  },
+  {
+    "dataSetId": "a5b2bc2f-a792-4702-9da4-aaf76f786e70",
+    "stationType": "subway",
+    "stationName": "Верхние Лихоборы",
+    "lineName": "Люблинско-Дмитровская линия",
+    "Название ветки": "91c9dd2e-471a-11e5-81d1-51d545884878",
+    "ID направления": "7eea0f10-ee85-ec1b-9b79-56aa7ec2fff5"
+  },
+  {
+    "dataSetId": "8f5c5d28-471a-11e5-b611-bdf0fd551746",
+    "stationType": "subway",
+    "stationName": "Владыкино",
+    "lineName": "Серпуховско-Тимирязевская линия",
+    "Название ветки": "8f3ebfe8-471a-11e5-bf6f-39c67f1b8346",
+    "ID направления": "97347e3e-3e14-5beb-b6e7-44f293276b3c"
+  },
+  {
+    "dataSetId": "ae5546b7-2c24-47cb-9b97-656fac2f5b01",
+    "stationType": "mcc",
+    "stationName": "Владыкино",
+    "lineName": "МЦК",
+    "Название ветки": "812d7a2f-b6c7-4924-ad67-8c45e4dfdad3",
+    "ID направления": "40d606ae-c6f3-4981-91ba-27bd337db216"
+  },
+  {
+    "dataSetId": "ae5546b7-2c24-47cb-9b97-656fac2f5b01",
+    "stationType": "mcc",
+    "stationName": "Владыкино",
+    "lineName": "МЦК",
+    "Название ветки": "812d7a2f-b6c7-4924-ad67-8c45e4dfdad3",
+    "ID направления": "c2eca0d1-5866-46d7-9414-82e8f73fe0dd"
+  },
+  {
+    "dataSetId": "8f5c5d28-471a-11e5-b611-bdf0fd551746",
+    "stationType": "subway",
+    "stationName": "Владыкино",
+    "lineName": "Серпуховско-Тимирязевская линия",
+    "Название ветки": "8f3ebfe8-471a-11e5-bf6f-39c67f1b8346",
+    "ID направления": "8f43d956-471a-11e5-ad3d-98f66d46e101"
+  },
+  {
+    "dataSetId": "8d9ffcba-471a-11e5-ad7c-f4ca1bbff725",
+    "stationType": "subway",
+    "stationName": "Водный стадион",
+    "lineName": "Замоскворецкая линия",
+    "Название ветки": "8d9076b4-471a-11e5-9f41-f71b6003a10d",
+    "ID направления": "8d95379e-471a-11e5-9c4d-a70a757d8e10"
+  },
+  {
+    "dataSetId": "8d9ffcba-471a-11e5-ad7c-f4ca1bbff725",
+    "stationType": "subway",
+    "stationName": "Водный стадион",
+    "lineName": "Замоскворецкая линия",
+    "Название ветки": "8d9076b4-471a-11e5-9f41-f71b6003a10d",
+    "ID направления": "5626ca88-fc11-8df4-0f8b-d3841e177802"
+  },
+  {
+    "dataSetId": "8da679aa-471a-11e5-880d-1bfaad63fb99",
+    "stationType": "subway",
+    "stationName": "Войковская",
+    "lineName": "Замоскворецкая линия",
+    "Название ветки": "8d9076b4-471a-11e5-9f41-f71b6003a10d",
+    "ID направления": "5626ca88-fc11-8df4-0f8b-d3841e177802"
+  },
+  {
+    "dataSetId": "8da679aa-471a-11e5-880d-1bfaad63fb99",
+    "stationType": "subway",
+    "stationName": "Войковская",
+    "lineName": "Замоскворецкая линия",
+    "Название ветки": "8d9076b4-471a-11e5-9f41-f71b6003a10d",
+    "ID направления": "8d95379e-471a-11e5-9c4d-a70a757d8e10"
+  },
+  {
+    "dataSetId": "90b2dd0a-471a-11e5-8c2c-98d83b44b3d3",
+    "stationType": "subway",
+    "stationName": "Волгоградский проспект",
+    "lineName": "Таганско-Краснопресненская линия",
+    "Название ветки": "905c4c06-471a-11e5-b22f-5b1f00be12d1",
+    "ID направления": "90614df0-471a-11e5-b25a-ba8676ed3b60"
+  },
+  {
+    "dataSetId": "90b2dd0a-471a-11e5-8c2c-98d83b44b3d3",
+    "stationType": "subway",
+    "stationName": "Волгоградский проспект",
+    "lineName": "Таганско-Краснопресненская линия",
+    "Название ветки": "905c4c06-471a-11e5-b22f-5b1f00be12d1",
+    "ID направления": "09b196c8-2d04-ba4b-b7a4-430071e55f9f"
+  },
+  {
+    "dataSetId": "92064494-471a-11e5-968c-ff0f8b8f4853",
+    "stationType": "subway",
+    "stationName": "Волжская",
+    "lineName": "Люблинско-Дмитровская линия",
+    "Название ветки": "91c9dd2e-471a-11e5-81d1-51d545884878",
+    "ID направления": "7eea0f10-ee85-ec1b-9b79-56aa7ec2fff5"
+  },
+  {
+    "dataSetId": "92064494-471a-11e5-968c-ff0f8b8f4853",
+    "stationType": "subway",
+    "stationName": "Волжская",
+    "lineName": "Люблинско-Дмитровская линия",
+    "Название ветки": "91c9dd2e-471a-11e5-81d1-51d545884878",
+    "ID направления": "91ce2082-471a-11e5-b30f-975bbc42b8bd"
+  },
+  {
+    "dataSetId": "5c149bf9-a342-4b0c-a694-476e37bd472e",
+    "stationType": "subway",
+    "stationName": "Волоколамская",
+    "lineName": "Арбатско-Покровская линия",
+    "Название ветки": "8fd77c4c-471a-11e5-9c19-aed022f77575",
+    "ID направления": "26e6acfc-127d-fbfa-9f0e-2a2f25643d6b"
+  },
+  {
+    "dataSetId": "5c149bf9-a342-4b0c-a694-476e37bd472e",
+    "stationType": "subway",
+    "stationName": "Волоколамская",
+    "lineName": "Арбатско-Покровская линия",
+    "Название ветки": "8fd77c4c-471a-11e5-9c19-aed022f77575",
+    "ID направления": "8fdc553c-471a-11e5-8f0b-6def8571b2e8"
+  },
+  {
+    "dataSetId": "91a89b3c-471a-11e5-981c-fa2986d64638",
+    "stationType": "subway",
+    "stationName": "Воробьёвы горы",
+    "lineName": "Сокольническая линия",
+    "Название ветки": "913e8b8e-471a-11e5-bb05-091bc1fc53a1",
+    "ID направления": "91436c12-471a-11e5-a3c8-e5afa364d7cf"
+  },
+  {
+    "dataSetId": "91a89b3c-471a-11e5-981c-fa2986d64638",
+    "stationType": "subway",
+    "stationName": "Воробьёвы горы",
+    "lineName": "Сокольническая линия",
+    "Название ветки": "913e8b8e-471a-11e5-bb05-091bc1fc53a1",
+    "ID направления": "c1fabf36-77c2-3be0-d3e2-186e28e7beba"
+  },
+  {
+    "dataSetId": "8efc2304-471a-11e5-bc30-fc642c65d868",
+    "stationType": "subway",
+    "stationName": "Выставочная",
+    "lineName": "Филёвская линия",
+    "Название ветки": "ceeb4f7c-eeb6-4891-abda-fc2df5468013",
+    "ID направления": "178a4e77-b499-3195-e8c8-e783abf02823"
+  },
+  {
+    "dataSetId": "8efc2304-471a-11e5-bc30-fc642c65d868",
+    "stationType": "subway",
+    "stationName": "Выставочная",
+    "lineName": "Филёвская линия",
+    "Название ветки": "ceeb4f7c-eeb6-4891-abda-fc2df5468013",
+    "ID направления": "471d8788-9048-4e99-a25a-ca9e214430b3"
+  },
+  {
+    "dataSetId": "92a9a80a-471a-11e5-ade6-71bf5817897b",
+    "stationType": "subway",
+    "stationName": "Выставочный центр",
+    "lineName": "Тимирязевская - ул. Сергея Эйзенштейна (монорельс)",
+    "Название ветки": "929a9e14-471a-11e5-9770-fa1e4b184fa0",
+    "ID направления": "929ef770-471a-11e5-8a20-ae1b29b80635"
+  },
+  {
+    "dataSetId": "92a9a80a-471a-11e5-ade6-71bf5817897b",
+    "stationType": "subway",
+    "stationName": "Выставочный центр",
+    "lineName": "Тимирязевская - ул. Сергея Эйзенштейна (монорельс)",
+    "Название ветки": "929a9e14-471a-11e5-9770-fa1e4b184fa0",
+    "ID направления": "204b0202-08d0-24cb-c686-bfc45091e5be"
+  },
+  {
+    "dataSetId": "90c55cf0-471a-11e5-8d60-805b3ddb1149",
+    "stationType": "subway",
+    "stationName": "Выхино",
+    "lineName": "Таганско-Краснопресненская линия",
+    "Название ветки": "905c4c06-471a-11e5-b22f-5b1f00be12d1",
+    "ID направления": "09b196c8-2d04-ba4b-b7a4-430071e55f9f"
+  },
+  {
+    "dataSetId": "90c55cf0-471a-11e5-8d60-805b3ddb1149",
+    "stationType": "subway",
+    "stationName": "Выхино",
+    "lineName": "Таганско-Краснопресненская линия",
+    "Название ветки": "905c4c06-471a-11e5-b22f-5b1f00be12d1",
+    "ID направления": "90614df0-471a-11e5-b25a-ba8676ed3b60"
+  },
+  {
+    "dataSetId": "1c83d466-8cc8-41ca-8b92-6b4ffcb0c883",
+    "stationType": "subway",
+    "stationName": "Говорово",
+    "lineName": "Солнцевская линия",
+    "Название ветки": "92578142-471a-11e5-8bc7-00c742ecd372",
+    "ID направления": "55045d01-78a4-4ab7-a72d-ed5caab64169"
+  },
+  {
+    "dataSetId": "1c83d466-8cc8-41ca-8b92-6b4ffcb0c883",
+    "stationType": "subway",
+    "stationName": "Говорово",
+    "lineName": "Солнцевская линия",
+    "Название ветки": "92578142-471a-11e5-8bc7-00c742ecd372",
+    "ID направления": "916f3177-83f3-0538-5fa9-05c734f64fd7"
+  },
+  {
+    "dataSetId": "d5350c43-2879-4241-bb9b-44b8c7cf1ef3",
+    "stationType": "mcc",
+    "stationName": "Деловой центр",
+    "lineName": "МЦК",
+    "Название ветки": "812d7a2f-b6c7-4924-ad67-8c45e4dfdad3",
+    "ID направления": "c2eca0d1-5866-46d7-9414-82e8f73fe0dd"
+  },
+  {
+    "dataSetId": "d5350c43-2879-4241-bb9b-44b8c7cf1ef3",
+    "stationType": "mcc",
+    "stationName": "Деловой центр",
+    "lineName": "МЦК",
+    "Название ветки": "812d7a2f-b6c7-4924-ad67-8c45e4dfdad3",
+    "ID направления": "40d606ae-c6f3-4981-91ba-27bd337db216"
+  },
+  {
+    "dataSetId": "99de2868-bdf4-414c-a503-f80cee38f051",
+    "stationType": "subway",
+    "stationName": "Деловой центр",
+    "lineName": "Большая кольцевая линия",
+    "Название ветки": "f5dfb41b-0bd9-4aa1-b14b-386de49b5c36",
+    "ID направления": "60c40a6e-e4f4-44f8-b651-1b39417c7009"
+  },
+  {
+    "dataSetId": "99de2868-bdf4-414c-a503-f80cee38f051",
+    "stationType": "subway",
+    "stationName": "Деловой центр",
+    "lineName": "Большая кольцевая линия",
+    "Название ветки": "f5dfb41b-0bd9-4aa1-b14b-386de49b5c36",
+    "ID направления": "f15f59c0-6e3c-42d8-b6aa-22663e515d50"
+  },
+  {
+    "dataSetId": "8db948e6-471a-11e5-854c-1cd621e8f020",
+    "stationType": "subway",
+    "stationName": "Динамо",
+    "lineName": "Замоскворецкая линия",
+    "Название ветки": "8d9076b4-471a-11e5-9f41-f71b6003a10d",
+    "ID направления": "8d95379e-471a-11e5-9c4d-a70a757d8e10"
+  },
+  {
+    "dataSetId": "8db948e6-471a-11e5-854c-1cd621e8f020",
+    "stationType": "subway",
+    "stationName": "Динамо",
+    "lineName": "Замоскворецкая линия",
+    "Название ветки": "8d9076b4-471a-11e5-9f41-f71b6003a10d",
+    "ID направления": "5626ca88-fc11-8df4-0f8b-d3841e177802"
+  },
+  {
+    "dataSetId": "8f6ee3b2-471a-11e5-a79c-68bd76e87f50",
+    "stationType": "subway",
+    "stationName": "Дмитровская",
+    "lineName": "Серпуховско-Тимирязевская линия",
+    "Название ветки": "8f3ebfe8-471a-11e5-bf6f-39c67f1b8346",
+    "ID направления": "8f43d956-471a-11e5-ad3d-98f66d46e101"
+  },
+  {
+    "dataSetId": "8f6ee3b2-471a-11e5-a79c-68bd76e87f50",
+    "stationType": "subway",
+    "stationName": "Дмитровская",
+    "lineName": "Серпуховско-Тимирязевская линия",
+    "Название ветки": "8f3ebfe8-471a-11e5-bf6f-39c67f1b8346",
+    "ID направления": "97347e3e-3e14-5beb-b6e7-44f293276b3c"
+  },
+  {
+    "dataSetId": "912ae4da-471a-11e5-aa5a-071bf9d3d0c8",
+    "stationType": "subway",
+    "stationName": "Добрынинская",
+    "lineName": "Кольцевая линия",
+    "Название ветки": "90cc019a-471a-11e5-a77d-4d1a70b68fca",
+    "ID направления": "adec8ae8-3740-629a-cc0c-857096c0a10b"
+  },
+  {
+    "dataSetId": "912ae4da-471a-11e5-aa5a-071bf9d3d0c8",
+    "stationType": "subway",
+    "stationName": "Добрынинская",
+    "lineName": "Кольцевая линия",
+    "Название ветки": "90cc019a-471a-11e5-a77d-4d1a70b68fca",
+    "ID направления": "90e7fc74-471a-11e5-acac-299daf05db4c"
+  },
+  {
+    "dataSetId": "8e11eac8-471a-11e5-8cb2-1a9ac649f0b7",
+    "stationType": "subway",
+    "stationName": "Домодедовская",
+    "lineName": "Замоскворецкая линия",
+    "Название ветки": "8d9076b4-471a-11e5-9f41-f71b6003a10d",
+    "ID направления": "8d95379e-471a-11e5-9c4d-a70a757d8e10"
+  },
+  {
+    "dataSetId": "8e11eac8-471a-11e5-8cb2-1a9ac649f0b7",
+    "stationType": "subway",
+    "stationName": "Домодедовская",
+    "lineName": "Замоскворецкая линия",
+    "Название ветки": "8d9076b4-471a-11e5-9f41-f71b6003a10d",
+    "ID направления": "5626ca88-fc11-8df4-0f8b-d3841e177802"
+  },
+  {
+    "dataSetId": "91d7d9e2-471a-11e5-bbf2-9815c06117e3",
+    "stationType": "subway",
+    "stationName": "Достоевская",
+    "lineName": "Люблинско-Дмитровская линия",
+    "Название ветки": "91c9dd2e-471a-11e5-81d1-51d545884878",
+    "ID направления": "91ce2082-471a-11e5-b30f-975bbc42b8bd"
+  },
+  {
+    "dataSetId": "91d7d9e2-471a-11e5-bbf2-9815c06117e3",
+    "stationType": "subway",
+    "stationName": "Достоевская",
+    "lineName": "Люблинско-Дмитровская линия",
+    "Название ветки": "91c9dd2e-471a-11e5-81d1-51d545884878",
+    "ID направления": "7eea0f10-ee85-ec1b-9b79-56aa7ec2fff5"
+  },
+  {
+    "dataSetId": "91f471d8-471a-11e5-93c5-787c825a48d4",
+    "stationType": "subway",
+    "stationName": "Дубровка",
+    "lineName": "Люблинско-Дмитровская линия",
+    "Название ветки": "91c9dd2e-471a-11e5-81d1-51d545884878",
+    "ID направления": "7eea0f10-ee85-ec1b-9b79-56aa7ec2fff5"
+  },
+  {
+    "dataSetId": "91f471d8-471a-11e5-93c5-787c825a48d4",
+    "stationType": "subway",
+    "stationName": "Дубровка",
+    "lineName": "Люблинско-Дмитровская линия",
+    "Название ветки": "91c9dd2e-471a-11e5-81d1-51d545884878",
+    "ID направления": "91ce2082-471a-11e5-b30f-975bbc42b8bd"
+  },
+  {
+    "dataSetId": "51a09629-21db-4364-80a5-15da416d51c0",
+    "stationType": "mcc",
+    "stationName": "Дубровка",
+    "lineName": "МЦК",
+    "Название ветки": "812d7a2f-b6c7-4924-ad67-8c45e4dfdad3",
+    "ID направления": "40d606ae-c6f3-4981-91ba-27bd337db216"
+  },
+  {
+    "dataSetId": "51a09629-21db-4364-80a5-15da416d51c0",
+    "stationType": "mcc",
+    "stationName": "Дубровка",
+    "lineName": "МЦК",
+    "Название ветки": "812d7a2f-b6c7-4924-ad67-8c45e4dfdad3",
+    "ID направления": "c2eca0d1-5866-46d7-9414-82e8f73fe0dd"
+  },
+  {
+    "dataSetId": "43c7bf8e-9b47-497e-93e3-06f3993e7659",
+    "stationType": "subway",
+    "stationName": "Жулебино",
+    "lineName": "Таганско-Краснопресненская линия",
+    "Название ветки": "905c4c06-471a-11e5-b22f-5b1f00be12d1",
+    "ID направления": "90614df0-471a-11e5-b25a-ba8676ed3b60"
+  },
+  {
+    "dataSetId": "43c7bf8e-9b47-497e-93e3-06f3993e7659",
+    "stationType": "subway",
+    "stationName": "Жулебино",
+    "lineName": "Таганско-Краснопресненская линия",
+    "Название ветки": "905c4c06-471a-11e5-b22f-5b1f00be12d1",
+    "ID направления": "09b196c8-2d04-ba4b-b7a4-430071e55f9f"
+  },
+  {
+    "dataSetId": "bca5593d-d2be-42d7-b321-4183688a7f71",
+    "stationType": "subway",
+    "stationName": "Заветы Ильича",
+    "lineName": "Электричка Москва-Александров",
+    "Название ветки": "31473533-3958-4e30-9ca7-d3d131d34039",
+    "ID направления": "7218184f-99b0-41b4-877a-224cabc7511f"
+  },
+  {
+    "dataSetId": "1885ddd1-3ec1-487f-8ab7-c36547365f6a",
+    "stationType": "subway",
+    "stationName": "Зеленоградская",
+    "lineName": "Электричка Москва-Александров",
+    "Название ветки": "31473533-3958-4e30-9ca7-d3d131d34039",
+    "ID направления": "7218184f-99b0-41b4-877a-224cabc7511f"
+  },
+  {
+    "dataSetId": "7ad67ea1-26f3-463e-b282-b37b1bf0583a",
+    "stationType": "mcc",
+    "stationName": "ЗИЛ",
+    "lineName": "МЦК",
+    "Название ветки": "812d7a2f-b6c7-4924-ad67-8c45e4dfdad3",
+    "ID направления": "c2eca0d1-5866-46d7-9414-82e8f73fe0dd"
+  },
+  {
+    "dataSetId": "7ad67ea1-26f3-463e-b282-b37b1bf0583a",
+    "stationType": "mcc",
+    "stationName": "ЗИЛ",
+    "lineName": "МЦК",
+    "Название ветки": "812d7a2f-b6c7-4924-ad67-8c45e4dfdad3",
+    "ID направления": "40d606ae-c6f3-4981-91ba-27bd337db216"
+  },
+  {
+    "dataSetId": "e40b1b58-f996-43d6-84ad-6e93e466897c",
+    "stationType": "mcc",
+    "stationName": "Зорге",
+    "lineName": "МЦК",
+    "Название ветки": "812d7a2f-b6c7-4924-ad67-8c45e4dfdad3",
+    "ID направления": "40d606ae-c6f3-4981-91ba-27bd337db216"
+  },
+  {
+    "dataSetId": "e40b1b58-f996-43d6-84ad-6e93e466897c",
+    "stationType": "mcc",
+    "stationName": "Зорге",
+    "lineName": "МЦК",
+    "Название ветки": "812d7a2f-b6c7-4924-ad67-8c45e4dfdad3",
+    "ID направления": "c2eca0d1-5866-46d7-9414-82e8f73fe0dd"
+  },
+  {
+    "dataSetId": "92519336-471a-11e5-b215-2b87c2085f1c",
+    "stationType": "subway",
+    "stationName": "Зябликово",
+    "lineName": "Люблинско-Дмитровская линия",
+    "Название ветки": "91c9dd2e-471a-11e5-81d1-51d545884878",
+    "ID направления": "7eea0f10-ee85-ec1b-9b79-56aa7ec2fff5"
+  },
+  {
+    "dataSetId": "92519336-471a-11e5-b215-2b87c2085f1c",
+    "stationType": "subway",
+    "stationName": "Зябликово",
+    "lineName": "Люблинско-Дмитровская линия",
+    "Название ветки": "91c9dd2e-471a-11e5-81d1-51d545884878",
+    "ID направления": "91ce2082-471a-11e5-b30f-975bbc42b8bd"
+  },
+  {
+    "dataSetId": "32cda0f9-e8ea-42f0-80a3-9f79576fa9b7",
+    "stationType": "mcc",
+    "stationName": "Измайлово",
+    "lineName": "МЦК",
+    "Название ветки": "812d7a2f-b6c7-4924-ad67-8c45e4dfdad3",
+    "ID направления": "c2eca0d1-5866-46d7-9414-82e8f73fe0dd"
+  },
+  {
+    "dataSetId": "32cda0f9-e8ea-42f0-80a3-9f79576fa9b7",
+    "stationType": "mcc",
+    "stationName": "Измайлово",
+    "lineName": "МЦК",
+    "Название ветки": "812d7a2f-b6c7-4924-ad67-8c45e4dfdad3",
+    "ID направления": "40d606ae-c6f3-4981-91ba-27bd337db216"
+  },
+  {
+    "dataSetId": "8fed8b7c-471a-11e5-a38f-9cc779261834",
+    "stationType": "subway",
+    "stationName": "Измайловская",
+    "lineName": "Арбатско-Покровская линия",
+    "Название ветки": "8fd77c4c-471a-11e5-9c19-aed022f77575",
+    "ID направления": "8fdc553c-471a-11e5-8f0b-6def8571b2e8"
+  },
+  {
+    "dataSetId": "8fed8b7c-471a-11e5-a38f-9cc779261834",
+    "stationType": "subway",
+    "stationName": "Измайловская",
+    "lineName": "Арбатско-Покровская линия",
+    "Название ветки": "8fd77c4c-471a-11e5-9c19-aed022f77575",
+    "ID направления": "26e6acfc-127d-fbfa-9f0e-2a2f25643d6b"
+  },
+  {
+    "dataSetId": "58068d32-8849-4c67-a17c-89ec7cd2b2a8",
+    "stationType": "subway",
+    "stationName": "Калистово",
+    "lineName": "Электричка Москва-Александров",
+    "Название ветки": "31473533-3958-4e30-9ca7-d3d131d34039",
+    "ID направления": "7218184f-99b0-41b4-877a-224cabc7511f"
+  },
+  {
+    "dataSetId": "8e9b86ca-471a-11e5-ab18-1c3e0418c18e",
+    "stationType": "subway",
+    "stationName": "Калужская",
+    "lineName": "Калужско-Рижская линия",
+    "Название ветки": "8e1e8da0-471a-11e5-91d7-40b6bdf6f348",
+    "ID направления": "3a5956c6-3156-5b03-c3d0-60d772da1d7f"
+  },
+  {
+    "dataSetId": "8e9b86ca-471a-11e5-ab18-1c3e0418c18e",
+    "stationType": "subway",
+    "stationName": "Калужская",
+    "lineName": "Калужско-Рижская линия",
+    "Название ветки": "8e1e8da0-471a-11e5-91d7-40b6bdf6f348",
+    "ID направления": "8e23b12c-471a-11e5-a985-ab8269731f9f"
+  },
+  {
+    "dataSetId": "8dff0d7c-471a-11e5-a3c8-50afa331a401",
+    "stationType": "subway",
+    "stationName": "Кантемировская",
+    "lineName": "Замоскворецкая линия",
+    "Название ветки": "8d9076b4-471a-11e5-9f41-f71b6003a10d",
+    "ID направления": "5626ca88-fc11-8df4-0f8b-d3841e177802"
+  },
+  {
+    "dataSetId": "8dff0d7c-471a-11e5-a3c8-50afa331a401",
+    "stationType": "subway",
+    "stationName": "Кантемировская",
+    "lineName": "Замоскворецкая линия",
+    "Название ветки": "8d9076b4-471a-11e5-9f41-f71b6003a10d",
+    "ID направления": "8d95379e-471a-11e5-9c4d-a70a757d8e10"
+  },
+  {
+    "dataSetId": "9294b80a-471a-11e5-afcc-01db685b4e2d",
+    "stationType": "subway",
+    "stationName": "Каховская",
+    "lineName": "Каховская линия",
+    "Название ветки": "9282d55e-471a-11e5-bbf2-a122b17644ad",
+    "ID направления": "92871b3c-471a-11e5-b1fb-de8cfdd7b3ce"
+  },
+  {
+    "dataSetId": "9294b80a-471a-11e5-afcc-01db685b4e2d",
+    "stationType": "subway",
+    "stationName": "Каховская",
+    "lineName": "Каховская линия",
+    "Название ветки": "9282d55e-471a-11e5-bbf2-a122b17644ad",
+    "ID направления": "830c094b-0f06-0d18-d6f3-4ca310373151"
+  },
+  {
+    "dataSetId": "8df8d9b6-471a-11e5-8ddb-986892de2bda",
+    "stationType": "subway",
+    "stationName": "Каширская",
+    "lineName": "Замоскворецкая линия",
+    "Название ветки": "8d9076b4-471a-11e5-9f41-f71b6003a10d",
+    "ID направления": "8d95379e-471a-11e5-9c4d-a70a757d8e10"
+  },
+  {
+    "dataSetId": "8df8d9b6-471a-11e5-8ddb-986892de2bda",
+    "stationType": "subway",
+    "stationName": "Каширская",
+    "lineName": "Замоскворецкая линия",
+    "Название ветки": "8d9076b4-471a-11e5-9f41-f71b6003a10d",
+    "ID направления": "5626ca88-fc11-8df4-0f8b-d3841e177802"
+  },
+  {
+    "dataSetId": "66a15fbc-93d3-4ddb-916e-7a0cfbad1179",
+    "stationType": "subway",
+    "stationName": "Каширская",
+    "lineName": "Каховская линия",
+    "Название ветки": "9282d55e-471a-11e5-bbf2-a122b17644ad",
+    "ID направления": "92871b3c-471a-11e5-b1fb-de8cfdd7b3ce"
+  },
+  {
+    "dataSetId": "66a15fbc-93d3-4ddb-916e-7a0cfbad1179",
+    "stationType": "subway",
+    "stationName": "Каширская",
+    "lineName": "Каховская линия",
+    "Название ветки": "9282d55e-471a-11e5-bbf2-a122b17644ad",
+    "ID направления": "830c094b-0f06-0d18-d6f3-4ca310373151"
+  },
+  {
+    "dataSetId": "90ecb8ea-471a-11e5-b5ec-1cd552481429",
+    "stationType": "subway",
+    "stationName": "Киевская",
+    "lineName": "Кольцевая линия",
+    "Название ветки": "90cc019a-471a-11e5-a77d-4d1a70b68fca",
+    "ID направления": "adec8ae8-3740-629a-cc0c-857096c0a10b"
+  },
+  {
+    "dataSetId": "2afb046b-f006-40bc-a014-2520a1555f3b",
+    "stationType": "subway",
+    "stationName": "Киевская",
+    "lineName": "Филёвская линия",
+    "Название ветки": "ceeb4f7c-eeb6-4891-abda-fc2df5468013",
+    "ID направления": "471d8788-9048-4e99-a25a-ca9e214430b3"
+  },
+  {
+    "dataSetId": "8f03f656-471a-11e5-8f42-d446c4a437dc",
+    "stationType": "subway",
+    "stationName": "Киевская",
+    "lineName": "Филёвская линия",
+    "Название ветки": "8ebf8f2a-471a-11e5-8473-298136d71f91",
+    "ID направления": "8ec46806-471a-11e5-ae78-3fd8b768ff2c"
+  },
+  {
+    "dataSetId": "2afb046b-f006-40bc-a014-2520a1555f3b",
+    "stationType": "subway",
+    "stationName": "Киевская",
+    "lineName": "Филёвская линия",
+    "Название ветки": "ceeb4f7c-eeb6-4891-abda-fc2df5468013",
+    "ID направления": "178a4e77-b499-3195-e8c8-e783abf02823"
+  },
+  {
+    "dataSetId": "8f03f656-471a-11e5-8f42-d446c4a437dc",
+    "stationType": "subway",
+    "stationName": "Киевская",
+    "lineName": "Филёвская линия",
+    "Название ветки": "8ebf8f2a-471a-11e5-8473-298136d71f91",
+    "ID направления": "1f1b61e6-b2de-44db-1dbb-f7caaeff4dd1"
+  },
+  {
+    "dataSetId": "90ecb8ea-471a-11e5-b5ec-1cd552481429",
+    "stationType": "subway",
+    "stationName": "Киевская",
+    "lineName": "Кольцевая линия",
+    "Название ветки": "90cc019a-471a-11e5-a77d-4d1a70b68fca",
+    "ID направления": "90e7fc74-471a-11e5-acac-299daf05db4c"
+  },
+  {
+    "dataSetId": "902419c6-471a-11e5-b789-8ed56da96828",
+    "stationType": "subway",
+    "stationName": "Киевская",
+    "lineName": "Арбатско-Покровская линия",
+    "Название ветки": "8fd77c4c-471a-11e5-9c19-aed022f77575",
+    "ID направления": "26e6acfc-127d-fbfa-9f0e-2a2f25643d6b"
+  },
+  {
+    "dataSetId": "902419c6-471a-11e5-b789-8ed56da96828",
+    "stationType": "subway",
+    "stationName": "Киевская",
+    "lineName": "Арбатско-Покровская линия",
+    "Название ветки": "8fd77c4c-471a-11e5-9c19-aed022f77575",
+    "ID направления": "8fdc553c-471a-11e5-8f0b-6def8571b2e8"
+  },
+  {
+    "dataSetId": "12a69e93-bb3e-4b2d-a9dd-41a9c9623617",
+    "stationType": "subway",
+    "stationName": "Китай-город",
+    "lineName": "Калужско-Рижская линия",
+    "Название ветки": "8e1e8da0-471a-11e5-91d7-40b6bdf6f348",
+    "ID направления": "3a5956c6-3156-5b03-c3d0-60d772da1d7f"
+  },
+  {
+    "dataSetId": "12a69e93-bb3e-4b2d-a9dd-41a9c9623617",
+    "stationType": "subway",
+    "stationName": "Китай-город",
+    "lineName": "Калужско-Рижская линия",
+    "Название ветки": "8e1e8da0-471a-11e5-91d7-40b6bdf6f348",
+    "ID направления": "8e23b12c-471a-11e5-a985-ab8269731f9f"
+  },
+  {
+    "dataSetId": "8e6dddec-471a-11e5-801e-9ca222dfcac1",
+    "stationType": "subway",
+    "stationName": "Китай-город",
+    "lineName": "Таганско-Краснопресненская линия",
+    "Название ветки": "905c4c06-471a-11e5-b22f-5b1f00be12d1",
+    "ID направления": "90614df0-471a-11e5-b25a-ba8676ed3b60"
+  },
+  {
+    "dataSetId": "8e6dddec-471a-11e5-801e-9ca222dfcac1",
+    "stationType": "subway",
+    "stationName": "Китай-город",
+    "lineName": "Таганско-Краснопресненская линия",
+    "Название ветки": "905c4c06-471a-11e5-b22f-5b1f00be12d1",
+    "ID направления": "09b196c8-2d04-ba4b-b7a4-430071e55f9f"
+  },
+  {
+    "dataSetId": "62c4a893-e20e-42bb-a2c4-9ba9e422321b",
+    "stationType": "subway",
+    "stationName": "Клязьма",
+    "lineName": "Электричка Москва-Александров",
+    "Название ветки": "31473533-3958-4e30-9ca7-d3d131d34039",
+    "ID направления": "7218184f-99b0-41b4-877a-224cabc7511f"
+  },
+  {
+    "dataSetId": "91fa68c2-471a-11e5-bcc4-35d65c221f23",
+    "stationType": "subway",
+    "stationName": "Кожуховская",
+    "lineName": "Люблинско-Дмитровская линия",
+    "Название ветки": "91c9dd2e-471a-11e5-81d1-51d545884878",
+    "ID направления": "7eea0f10-ee85-ec1b-9b79-56aa7ec2fff5"
+  },
+  {
+    "dataSetId": "91fa68c2-471a-11e5-bcc4-35d65c221f23",
+    "stationType": "subway",
+    "stationName": "Кожуховская",
+    "lineName": "Люблинско-Дмитровская линия",
+    "Название ветки": "91c9dd2e-471a-11e5-81d1-51d545884878",
+    "ID направления": "91ce2082-471a-11e5-b30f-975bbc42b8bd"
+  },
+  {
+    "dataSetId": "8df2b9d2-471a-11e5-977e-c06ac9e3c4e2",
+    "stationType": "subway",
+    "stationName": "Коломенская",
+    "lineName": "Замоскворецкая линия",
+    "Название ветки": "8d9076b4-471a-11e5-9f41-f71b6003a10d",
+    "ID направления": "5626ca88-fc11-8df4-0f8b-d3841e177802"
+  },
+  {
+    "dataSetId": "8df2b9d2-471a-11e5-977e-c06ac9e3c4e2",
+    "stationType": "subway",
+    "stationName": "Коломенская",
+    "lineName": "Замоскворецкая линия",
+    "Название ветки": "8d9076b4-471a-11e5-9f41-f71b6003a10d",
+    "ID направления": "8d95379e-471a-11e5-9c4d-a70a757d8e10"
+  },
+  {
+    "dataSetId": "0f23f0b4-2b1b-4058-a2e8-7996ee99cd50",
+    "stationType": "subway",
+    "stationName": "Коммунарка",
+    "lineName": "Сокольническая линия",
+    "Название ветки": "913e8b8e-471a-11e5-bb05-091bc1fc53a1",
+    "ID направления": "c1fabf36-77c2-3be0-d3e2-186e28e7beba"
+  },
+  {
+    "dataSetId": "0f23f0b4-2b1b-4058-a2e8-7996ee99cd50",
+    "stationType": "subway",
+    "stationName": "Коммунарка",
+    "lineName": "Сокольническая линия",
+    "Название ветки": "913e8b8e-471a-11e5-bb05-091bc1fc53a1",
+    "ID направления": "91436c12-471a-11e5-a3c8-e5afa364d7cf"
+  },
+  {
+    "dataSetId": "91698e1a-471a-11e5-bd0c-1510fefeba86",
+    "stationType": "subway",
+    "stationName": "Комсомольская",
+    "lineName": "Сокольническая линия",
+    "Название ветки": "913e8b8e-471a-11e5-bb05-091bc1fc53a1",
+    "ID направления": "c1fabf36-77c2-3be0-d3e2-186e28e7beba"
+  },
+  {
+    "dataSetId": "910fd2bc-471a-11e5-8167-370bc429f229",
+    "stationType": "subway",
+    "stationName": "Комсомольская",
+    "lineName": "Кольцевая линия",
+    "Название ветки": "90cc019a-471a-11e5-a77d-4d1a70b68fca",
+    "ID направления": "90e7fc74-471a-11e5-acac-299daf05db4c"
+  },
+  {
+    "dataSetId": "910fd2bc-471a-11e5-8167-370bc429f229",
+    "stationType": "subway",
+    "stationName": "Комсомольская",
+    "lineName": "Кольцевая линия",
+    "Название ветки": "90cc019a-471a-11e5-a77d-4d1a70b68fca",
+    "ID направления": "adec8ae8-3740-629a-cc0c-857096c0a10b"
+  },
+  {
+    "dataSetId": "91698e1a-471a-11e5-bd0c-1510fefeba86",
+    "stationType": "subway",
+    "stationName": "Комсомольская",
+    "lineName": "Сокольническая линия",
+    "Название ветки": "913e8b8e-471a-11e5-bb05-091bc1fc53a1",
+    "ID направления": "91436c12-471a-11e5-a3c8-e5afa364d7cf"
+  },
+  {
+    "dataSetId": "8ea71300-471a-11e5-930c-8cc439932f8e",
+    "stationType": "subway",
+    "stationName": "Коньково",
+    "lineName": "Калужско-Рижская линия",
+    "Название ветки": "8e1e8da0-471a-11e5-91d7-40b6bdf6f348",
+    "ID направления": "3a5956c6-3156-5b03-c3d0-60d772da1d7f"
+  },
+  {
+    "dataSetId": "8ea71300-471a-11e5-930c-8cc439932f8e",
+    "stationType": "subway",
+    "stationName": "Коньково",
+    "lineName": "Калужско-Рижская линия",
+    "Название ветки": "8e1e8da0-471a-11e5-91d7-40b6bdf6f348",
+    "ID направления": "8e23b12c-471a-11e5-a985-ab8269731f9f"
+  },
+  {
+    "dataSetId": "14be5572-55b2-4e92-b8ef-70a1f3091d7b",
+    "stationType": "mcc",
+    "stationName": "Коптево",
+    "lineName": "МЦК",
+    "Название ветки": "812d7a2f-b6c7-4924-ad67-8c45e4dfdad3",
+    "ID направления": "c2eca0d1-5866-46d7-9414-82e8f73fe0dd"
+  },
+  {
+    "dataSetId": "14be5572-55b2-4e92-b8ef-70a1f3091d7b",
+    "stationType": "mcc",
+    "stationName": "Коптево",
+    "lineName": "МЦК",
+    "Название ветки": "812d7a2f-b6c7-4924-ad67-8c45e4dfdad3",
+    "ID направления": "40d606ae-c6f3-4981-91ba-27bd337db216"
+  },
+  {
+    "dataSetId": "845c774c-8d1c-4b1d-a14f-784b2fbc7ee2",
+    "stationType": "subway",
+    "stationName": "Косино",
+    "lineName": "Некрасовская линия",
+    "Название ветки": "efdc079f-0252-40ed-acf3-0bf67476f983",
+    "ID направления": "f7997692-638f-4360-acac-65431638ae6f"
+  },
+  {
+    "dataSetId": "845c774c-8d1c-4b1d-a14f-784b2fbc7ee2",
+    "stationType": "subway",
+    "stationName": "Косино",
+    "lineName": "Некрасовская линия",
+    "Название ветки": "efdc079f-0252-40ed-acf3-0bf67476f983",
+    "ID направления": "12b0b9cc-d160-4795-8a2f-bfcc18b51701"
+  },
+  {
+    "dataSetId": "d0a3dcf1-94b2-4c8d-b49a-3dc787e268f7",
+    "stationType": "subway",
+    "stationName": "Котельники",
+    "lineName": "Таганско-Краснопресненская линия",
+    "Название ветки": "905c4c06-471a-11e5-b22f-5b1f00be12d1",
+    "ID направления": "09b196c8-2d04-ba4b-b7a4-430071e55f9f"
+  },
+  {
+    "dataSetId": "d0a3dcf1-94b2-4c8d-b49a-3dc787e268f7",
+    "stationType": "subway",
+    "stationName": "Котельники",
+    "lineName": "Таганско-Краснопресненская линия",
+    "Название ветки": "905c4c06-471a-11e5-b22f-5b1f00be12d1",
+    "ID направления": "90614df0-471a-11e5-b25a-ba8676ed3b60"
+  },
+  {
+    "dataSetId": "bcd9e165-aeb9-46e8-9102-1eff9c63e04a",
+    "stationType": "subway",
+    "stationName": "Красногвардейская",
+    "lineName": "Замоскворецкая линия",
+    "Название ветки": "8d9076b4-471a-11e5-9f41-f71b6003a10d",
+    "ID направления": "8d95379e-471a-11e5-9c4d-a70a757d8e10"
+  },
+  {
+    "dataSetId": "bcd9e165-aeb9-46e8-9102-1eff9c63e04a",
+    "stationType": "subway",
+    "stationName": "Красногвардейская",
+    "lineName": "Замоскворецкая линия",
+    "Название ветки": "8d9076b4-471a-11e5-9f41-f71b6003a10d",
+    "ID направления": "5626ca88-fc11-8df4-0f8b-d3841e177802"
+  },
+  {
+    "dataSetId": "90f42d14-471a-11e5-b0a4-c005440e8dbd",
+    "stationType": "subway",
+    "stationName": "Краснопресненская",
+    "lineName": "Кольцевая линия",
+    "Название ветки": "90cc019a-471a-11e5-a77d-4d1a70b68fca",
+    "ID направления": "adec8ae8-3740-629a-cc0c-857096c0a10b"
+  },
+  {
+    "dataSetId": "90f42d14-471a-11e5-b0a4-c005440e8dbd",
+    "stationType": "subway",
+    "stationName": "Краснопресненская",
+    "lineName": "Кольцевая линия",
+    "Название ветки": "90cc019a-471a-11e5-a77d-4d1a70b68fca",
+    "ID направления": "90e7fc74-471a-11e5-acac-299daf05db4c"
+  },
+  {
+    "dataSetId": "91624dd0-471a-11e5-bae2-ea19640f18e5",
+    "stationType": "subway",
+    "stationName": "Красносельская",
+    "lineName": "Сокольническая линия",
+    "Название ветки": "913e8b8e-471a-11e5-bb05-091bc1fc53a1",
+    "ID направления": "c1fabf36-77c2-3be0-d3e2-186e28e7beba"
+  },
+  {
+    "dataSetId": "91624dd0-471a-11e5-bae2-ea19640f18e5",
+    "stationType": "subway",
+    "stationName": "Красносельская",
+    "lineName": "Сокольническая линия",
+    "Название ветки": "913e8b8e-471a-11e5-bb05-091bc1fc53a1",
+    "ID направления": "91436c12-471a-11e5-a3c8-e5afa364d7cf"
+  },
+  {
+    "dataSetId": "916fce1a-471a-11e5-8786-b94b0b4c81fd",
+    "stationType": "subway",
+    "stationName": "Красные ворота",
+    "lineName": "Сокольническая линия",
+    "Название ветки": "913e8b8e-471a-11e5-bb05-091bc1fc53a1",
+    "ID направления": "c1fabf36-77c2-3be0-d3e2-186e28e7beba"
+  },
+  {
+    "dataSetId": "916fce1a-471a-11e5-8786-b94b0b4c81fd",
+    "stationType": "subway",
+    "stationName": "Красные ворота",
+    "lineName": "Сокольническая линия",
+    "Название ветки": "913e8b8e-471a-11e5-bb05-091bc1fc53a1",
+    "ID направления": "91436c12-471a-11e5-a3c8-e5afa364d7cf"
+  },
+  {
+    "dataSetId": "91edd850-471a-11e5-8e53-db8691eafd17",
+    "stationType": "subway",
+    "stationName": "Крестьянская застава",
+    "lineName": "Люблинско-Дмитровская линия",
+    "Название ветки": "91c9dd2e-471a-11e5-81d1-51d545884878",
+    "ID направления": "91ce2082-471a-11e5-b30f-975bbc42b8bd"
+  },
+  {
+    "dataSetId": "91edd850-471a-11e5-8e53-db8691eafd17",
+    "stationType": "subway",
+    "stationName": "Крестьянская застава",
+    "lineName": "Люблинско-Дмитровская линия",
+    "Название ветки": "91c9dd2e-471a-11e5-81d1-51d545884878",
+    "ID направления": "7eea0f10-ee85-ec1b-9b79-56aa7ec2fff5"
+  },
+  {
+    "dataSetId": "918ffc12-471a-11e5-821d-741f435693c1",
+    "stationType": "subway",
+    "stationName": "Кропоткинская",
+    "lineName": "Сокольническая линия",
+    "Название ветки": "913e8b8e-471a-11e5-bb05-091bc1fc53a1",
+    "ID направления": "91436c12-471a-11e5-a3c8-e5afa364d7cf"
+  },
+  {
+    "dataSetId": "918ffc12-471a-11e5-821d-741f435693c1",
+    "stationType": "subway",
+    "stationName": "Кропоткинская",
+    "lineName": "Сокольническая линия",
+    "Название ветки": "913e8b8e-471a-11e5-bb05-091bc1fc53a1",
+    "ID направления": "c1fabf36-77c2-3be0-d3e2-186e28e7beba"
+  },
+  {
+    "dataSetId": "90412be2-471a-11e5-9c44-5b15421e76b4",
+    "stationType": "subway",
+    "stationName": "Крылатское",
+    "lineName": "Арбатско-Покровская линия",
+    "Название ветки": "8fd77c4c-471a-11e5-9c19-aed022f77575",
+    "ID направления": "26e6acfc-127d-fbfa-9f0e-2a2f25643d6b"
+  },
+  {
+    "dataSetId": "90412be2-471a-11e5-9c44-5b15421e76b4",
+    "stationType": "subway",
+    "stationName": "Крылатское",
+    "lineName": "Арбатско-Покровская линия",
+    "Название ветки": "8fd77c4c-471a-11e5-9c19-aed022f77575",
+    "ID направления": "8fdc553c-471a-11e5-8f0b-6def8571b2e8"
+  },
+  {
+    "dataSetId": "f322d4cb-aca0-4528-8538-d47d002ef7ca",
+    "stationType": "mcc",
+    "stationName": "Крымская",
+    "lineName": "МЦК",
+    "Название ветки": "812d7a2f-b6c7-4924-ad67-8c45e4dfdad3",
+    "ID направления": "c2eca0d1-5866-46d7-9414-82e8f73fe0dd"
+  },
+  {
+    "dataSetId": "f322d4cb-aca0-4528-8538-d47d002ef7ca",
+    "stationType": "mcc",
+    "stationName": "Крымская",
+    "lineName": "МЦК",
+    "Название ветки": "812d7a2f-b6c7-4924-ad67-8c45e4dfdad3",
+    "ID направления": "40d606ae-c6f3-4981-91ba-27bd337db216"
+  },
+  {
+    "dataSetId": "909e18a2-471a-11e5-9037-f814ccb63dc6",
+    "stationType": "subway",
+    "stationName": "Кузнецкий мост",
+    "lineName": "Таганско-Краснопресненская линия",
+    "Название ветки": "905c4c06-471a-11e5-b22f-5b1f00be12d1",
+    "ID направления": "09b196c8-2d04-ba4b-b7a4-430071e55f9f"
+  },
+  {
+    "dataSetId": "909e18a2-471a-11e5-9037-f814ccb63dc6",
+    "stationType": "subway",
+    "stationName": "Кузнецкий мост",
+    "lineName": "Таганско-Краснопресненская линия",
+    "Название ветки": "905c4c06-471a-11e5-b22f-5b1f00be12d1",
+    "ID направления": "90614df0-471a-11e5-b25a-ba8676ed3b60"
+  },
+  {
+    "dataSetId": "90b8d78c-471a-11e5-81d6-f9b05a5e9819",
+    "stationType": "subway",
+    "stationName": "Кузьминки",
+    "lineName": "Таганско-Краснопресненская линия",
+    "Название ветки": "905c4c06-471a-11e5-b22f-5b1f00be12d1",
+    "ID направления": "90614df0-471a-11e5-b25a-ba8676ed3b60"
+  },
+  {
+    "dataSetId": "90b8d78c-471a-11e5-81d6-f9b05a5e9819",
+    "stationType": "subway",
+    "stationName": "Кузьминки",
+    "lineName": "Таганско-Краснопресненская линия",
+    "Название ветки": "905c4c06-471a-11e5-b22f-5b1f00be12d1",
+    "ID направления": "09b196c8-2d04-ba4b-b7a4-430071e55f9f"
+  },
+  {
+    "dataSetId": "0408c2ec-8b2c-4057-aa81-a33739e7f905",
+    "stationType": "subway",
+    "stationName": "Кунцевская",
+    "lineName": "Арбатско-Покровская линия",
+    "Название ветки": "8fd77c4c-471a-11e5-9c19-aed022f77575",
+    "ID направления": "8fdc553c-471a-11e5-8f0b-6def8571b2e8"
+  },
+  {
+    "dataSetId": "8ec964a0-471a-11e5-aa3f-2bdd6daf373e",
+    "stationType": "subway",
+    "stationName": "Кунцевская",
+    "lineName": "Филёвская линия",
+    "Название ветки": "8ebf8f2a-471a-11e5-8473-298136d71f91",
+    "ID направления": "1f1b61e6-b2de-44db-1dbb-f7caaeff4dd1"
+  },
+  {
+    "dataSetId": "0408c2ec-8b2c-4057-aa81-a33739e7f905",
+    "stationType": "subway",
+    "stationName": "Кунцевская",
+    "lineName": "Арбатско-Покровская линия",
+    "Название ветки": "8fd77c4c-471a-11e5-9c19-aed022f77575",
+    "ID направления": "26e6acfc-127d-fbfa-9f0e-2a2f25643d6b"
+  },
+  {
+    "dataSetId": "8ec964a0-471a-11e5-aa3f-2bdd6daf373e",
+    "stationType": "subway",
+    "stationName": "Кунцевская",
+    "lineName": "Филёвская линия",
+    "Название ветки": "8ebf8f2a-471a-11e5-8473-298136d71f91",
+    "ID направления": "8ec46806-471a-11e5-ae78-3fd8b768ff2c"
+  },
+  {
+    "dataSetId": "900b8078-471a-11e5-a4cb-96905f9ce89c",
+    "stationType": "subway",
+    "stationName": "Курская",
+    "lineName": "Арбатско-Покровская линия",
+    "Название ветки": "8fd77c4c-471a-11e5-9c19-aed022f77575",
+    "ID направления": "26e6acfc-127d-fbfa-9f0e-2a2f25643d6b"
+  },
+  {
+    "dataSetId": "91164b88-471a-11e5-a539-9c44d7e6d60c",
+    "stationType": "subway",
+    "stationName": "Курская",
+    "lineName": "Кольцевая линия",
+    "Название ветки": "90cc019a-471a-11e5-a77d-4d1a70b68fca",
+    "ID направления": "adec8ae8-3740-629a-cc0c-857096c0a10b"
+  },
+  {
+    "dataSetId": "900b8078-471a-11e5-a4cb-96905f9ce89c",
+    "stationType": "subway",
+    "stationName": "Курская",
+    "lineName": "Арбатско-Покровская линия",
+    "Название ветки": "8fd77c4c-471a-11e5-9c19-aed022f77575",
+    "ID направления": "8fdc553c-471a-11e5-8f0b-6def8571b2e8"
+  },
+  {
+    "dataSetId": "91164b88-471a-11e5-a539-9c44d7e6d60c",
+    "stationType": "subway",
+    "stationName": "Курская",
+    "lineName": "Кольцевая линия",
+    "Название ветки": "90cc019a-471a-11e5-a77d-4d1a70b68fca",
+    "ID направления": "90e7fc74-471a-11e5-acac-299daf05db4c"
+  },
+  {
+    "dataSetId": "8ee94a4a-471a-11e5-9654-938b37c1a9b1",
+    "stationType": "subway",
+    "stationName": "Кутузовская",
+    "lineName": "Филёвская линия",
+    "Название ветки": "8ebf8f2a-471a-11e5-8473-298136d71f91",
+    "ID направления": "8ec46806-471a-11e5-ae78-3fd8b768ff2c"
+  },
+  {
+    "dataSetId": "8ee94a4a-471a-11e5-9654-938b37c1a9b1",
+    "stationType": "subway",
+    "stationName": "Кутузовская",
+    "lineName": "Филёвская линия",
+    "Название ветки": "8ebf8f2a-471a-11e5-8473-298136d71f91",
+    "ID направления": "1f1b61e6-b2de-44db-1dbb-f7caaeff4dd1"
+  },
+  {
+    "dataSetId": "3bc9691f-83b1-4cd8-8f13-5ca0bb0111d1",
+    "stationType": "mcc",
+    "stationName": "Кутузовская",
+    "lineName": "МЦК",
+    "Название ветки": "812d7a2f-b6c7-4924-ad67-8c45e4dfdad3",
+    "ID направления": "40d606ae-c6f3-4981-91ba-27bd337db216"
+  },
+  {
+    "dataSetId": "3bc9691f-83b1-4cd8-8f13-5ca0bb0111d1",
+    "stationType": "mcc",
+    "stationName": "Кутузовская",
+    "lineName": "МЦК",
+    "Название ветки": "812d7a2f-b6c7-4924-ad67-8c45e4dfdad3",
+    "ID направления": "c2eca0d1-5866-46d7-9414-82e8f73fe0dd"
+  },
+  {
+    "dataSetId": "8e82d044-471a-11e5-8096-7042e6da8bea",
+    "stationType": "subway",
+    "stationName": "Ленинский проспект",
+    "lineName": "Калужско-Рижская линия",
+    "Название ветки": "8e1e8da0-471a-11e5-91d7-40b6bdf6f348",
+    "ID направления": "8e23b12c-471a-11e5-a985-ab8269731f9f"
+  },
+  {
+    "dataSetId": "8e82d044-471a-11e5-8096-7042e6da8bea",
+    "stationType": "subway",
+    "stationName": "Ленинский проспект",
+    "lineName": "Калужско-Рижская линия",
+    "Название ветки": "8e1e8da0-471a-11e5-91d7-40b6bdf6f348",
+    "ID направления": "3a5956c6-3156-5b03-c3d0-60d772da1d7f"
+  },
+  {
+    "dataSetId": "419ba589-428f-41f1-b95b-2e57a4757e79",
+    "stationType": "subway",
+    "stationName": "Лермонтовский проспект",
+    "lineName": "Таганско-Краснопресненская линия",
+    "Название ветки": "905c4c06-471a-11e5-b22f-5b1f00be12d1",
+    "ID направления": "09b196c8-2d04-ba4b-b7a4-430071e55f9f"
+  },
+  {
+    "dataSetId": "419ba589-428f-41f1-b95b-2e57a4757e79",
+    "stationType": "subway",
+    "stationName": "Лермонтовский проспект",
+    "lineName": "Таганско-Краснопресненская линия",
+    "Название ветки": "905c4c06-471a-11e5-b22f-5b1f00be12d1",
+    "ID направления": "90614df0-471a-11e5-b25a-ba8676ed3b60"
+  },
+  {
+    "dataSetId": "eb5e0fca-886d-4e3d-af54-f4066bf78525",
+    "stationType": "subway",
+    "stationName": "Лесопарковая",
+    "lineName": "Бутовская линия",
+    "Название ветки": "925bf7d6-471a-11e5-b809-dd225ae65f46",
+    "ID направления": "253f8506-679c-d269-ad5f-d6517e2d2177"
+  },
+  {
+    "dataSetId": "eb5e0fca-886d-4e3d-af54-f4066bf78525",
+    "stationType": "subway",
+    "stationName": "Лесопарковая",
+    "lineName": "Бутовская линия",
+    "Название ветки": "925bf7d6-471a-11e5-b809-dd225ae65f46",
+    "ID направления": "92603e22-471a-11e5-a616-6335f60b9920"
+  },
+  {
+    "dataSetId": "80c28f80-fa03-4dc4-9e7b-23516067ce7a",
+    "stationType": "subway",
+    "stationName": "Лефортово",
+    "lineName": "Некрасовская линия",
+    "Название ветки": "efdc079f-0252-40ed-acf3-0bf67476f983",
+    "ID направления": "f7997692-638f-4360-acac-65431638ae6f"
+  },
+  {
+    "dataSetId": "80c28f80-fa03-4dc4-9e7b-23516067ce7a",
+    "stationType": "subway",
+    "stationName": "Лефортово",
+    "lineName": "Некрасовская линия",
+    "Название ветки": "efdc079f-0252-40ed-acf3-0bf67476f983",
+    "ID направления": "12b0b9cc-d160-4795-8a2f-bfcc18b51701"
+  },
+  {
+    "dataSetId": "231b5cdc-0980-45f9-9d92-d1669d4b3341",
+    "stationType": "mcc",
+    "stationName": "Лихоборы",
+    "lineName": "МЦК",
+    "Название ветки": "812d7a2f-b6c7-4924-ad67-8c45e4dfdad3",
+    "ID направления": "c2eca0d1-5866-46d7-9414-82e8f73fe0dd"
+  },
+  {
+    "dataSetId": "231b5cdc-0980-45f9-9d92-d1669d4b3341",
+    "stationType": "mcc",
+    "stationName": "Лихоборы",
+    "lineName": "МЦК",
+    "Название ветки": "812d7a2f-b6c7-4924-ad67-8c45e4dfdad3",
+    "ID направления": "40d606ae-c6f3-4981-91ba-27bd337db216"
+  },
+  {
+    "dataSetId": "74df4d9f-9acf-4d78-9394-a8b90c234356",
+    "stationType": "mcc",
+    "stationName": "Локомотив",
+    "lineName": "МЦК",
+    "Название ветки": "812d7a2f-b6c7-4924-ad67-8c45e4dfdad3",
+    "ID направления": "c2eca0d1-5866-46d7-9414-82e8f73fe0dd"
+  },
+  {
+    "dataSetId": "74df4d9f-9acf-4d78-9394-a8b90c234356",
+    "stationType": "mcc",
+    "stationName": "Локомотив",
+    "lineName": "МЦК",
+    "Название ветки": "812d7a2f-b6c7-4924-ad67-8c45e4dfdad3",
+    "ID направления": "40d606ae-c6f3-4981-91ba-27bd337db216"
+  },
+  {
+    "dataSetId": "881090c6-4d3d-4495-bb27-81bb37592c06",
+    "stationType": "subway",
+    "stationName": "Ломоносовский проспект",
+    "lineName": "Солнцевская линия",
+    "Название ветки": "92578142-471a-11e5-8bc7-00c742ecd372",
+    "ID направления": "916f3177-83f3-0538-5fa9-05c734f64fd7"
+  },
+  {
+    "dataSetId": "881090c6-4d3d-4495-bb27-81bb37592c06",
+    "stationType": "subway",
+    "stationName": "Ломоносовский проспект",
+    "lineName": "Солнцевская линия",
+    "Название ветки": "92578142-471a-11e5-8bc7-00c742ecd372",
+    "ID направления": "55045d01-78a4-4ab7-a72d-ed5caab64169"
+  },
+  {
+    "dataSetId": "af5ddff2-ac56-4631-b971-9261b5aeebf0",
+    "stationType": "subway",
+    "stationName": "Лосиноостровская",
+    "lineName": "Электричка Москва-Александров",
+    "Название ветки": "31473533-3958-4e30-9ca7-d3d131d34039",
+    "ID направления": "7218184f-99b0-41b4-877a-224cabc7511f"
+  },
+  {
+    "dataSetId": "b3c861d4-5d95-4a8c-8d24-cfc74be90506",
+    "stationType": "subway",
+    "stationName": "Лось",
+    "lineName": "Электричка Москва-Александров",
+    "Название ветки": "31473533-3958-4e30-9ca7-d3d131d34039",
+    "ID направления": "7218184f-99b0-41b4-877a-224cabc7511f"
+  },
+  {
+    "dataSetId": "917cd916-471a-11e5-9cfa-2e76f930a580",
+    "stationType": "subway",
+    "stationName": "Лубянка",
+    "lineName": "Сокольническая линия",
+    "Название ветки": "913e8b8e-471a-11e5-bb05-091bc1fc53a1",
+    "ID направления": "c1fabf36-77c2-3be0-d3e2-186e28e7beba"
+  },
+  {
+    "dataSetId": "917cd916-471a-11e5-9cfa-2e76f930a580",
+    "stationType": "subway",
+    "stationName": "Лубянка",
+    "lineName": "Сокольническая линия",
+    "Название ветки": "913e8b8e-471a-11e5-bb05-091bc1fc53a1",
+    "ID направления": "91436c12-471a-11e5-a3c8-e5afa364d7cf"
+  },
+  {
+    "dataSetId": "e8d59ea0-63e5-4f3c-a1f2-a3ff44163e52",
+    "stationType": "mcc",
+    "stationName": "Лужники",
+    "lineName": "МЦК",
+    "Название ветки": "812d7a2f-b6c7-4924-ad67-8c45e4dfdad3",
+    "ID направления": "c2eca0d1-5866-46d7-9414-82e8f73fe0dd"
+  },
+  {
+    "dataSetId": "e8d59ea0-63e5-4f3c-a1f2-a3ff44163e52",
+    "stationType": "mcc",
+    "stationName": "Лужники",
+    "lineName": "МЦК",
+    "Название ветки": "812d7a2f-b6c7-4924-ad67-8c45e4dfdad3",
+    "ID направления": "40d606ae-c6f3-4981-91ba-27bd337db216"
+  },
+  {
+    "dataSetId": "e4f69ef2-6957-429d-848f-8f908dddaa48",
+    "stationType": "subway",
+    "stationName": "Лухмановская",
+    "lineName": "Некрасовская линия",
+    "Название ветки": "efdc079f-0252-40ed-acf3-0bf67476f983",
+    "ID направления": "12b0b9cc-d160-4795-8a2f-bfcc18b51701"
+  },
+  {
+    "dataSetId": "e4f69ef2-6957-429d-848f-8f908dddaa48",
+    "stationType": "subway",
+    "stationName": "Лухмановская",
+    "lineName": "Некрасовская линия",
+    "Название ветки": "efdc079f-0252-40ed-acf3-0bf67476f983",
+    "ID направления": "f7997692-638f-4360-acac-65431638ae6f"
+  },
+  {
+    "dataSetId": "920c3156-471a-11e5-afea-519ffaa6c452",
+    "stationType": "subway",
+    "stationName": "Люблино",
+    "lineName": "Люблинско-Дмитровская линия",
+    "Название ветки": "91c9dd2e-471a-11e5-81d1-51d545884878",
+    "ID направления": "91ce2082-471a-11e5-b30f-975bbc42b8bd"
+  },
+  {
+    "dataSetId": "920c3156-471a-11e5-afea-519ffaa6c452",
+    "stationType": "subway",
+    "stationName": "Люблино",
+    "lineName": "Люблинско-Дмитровская линия",
+    "Название ветки": "91c9dd2e-471a-11e5-81d1-51d545884878",
+    "ID направления": "7eea0f10-ee85-ec1b-9b79-56aa7ec2fff5"
+  },
+  {
+    "dataSetId": "74a7f90b-adc3-4559-8a54-be193b26ac93",
+    "stationType": "subway",
+    "stationName": "Маленковская",
+    "lineName": "Электричка Москва-Александров",
+    "Название ветки": "31473533-3958-4e30-9ca7-d3d131d34039",
+    "ID направления": "7218184f-99b0-41b4-877a-224cabc7511f"
+  },
+  {
+    "dataSetId": "ed6962cc-c37c-41d7-93e5-b86ae1075582",
+    "stationType": "subway",
+    "stationName": "Мамонтовская",
+    "lineName": "Электричка Москва-Александров",
+    "Название ветки": "31473533-3958-4e30-9ca7-d3d131d34039",
+    "ID направления": "7218184f-99b0-41b4-877a-224cabc7511f"
+  },
+  {
+    "dataSetId": "8d840dfc-471a-11e5-b4e2-0a84b4bb2568",
+    "stationType": "subway",
+    "stationName": "Марксистская",
+    "lineName": "Калининская линия",
+    "Название ветки": "8d4a6c28-471a-11e5-ba91-961782854ada",
+    "ID направления": "820a0a00-5145-ea22-766e-149ec5636607"
+  },
+  {
+    "dataSetId": "8d840dfc-471a-11e5-b4e2-0a84b4bb2568",
+    "stationType": "subway",
+    "stationName": "Марксистская",
+    "lineName": "Калининская линия",
+    "Название ветки": "8d4a6c28-471a-11e5-ba91-961782854ada",
+    "ID направления": "8d5075be-471a-11e5-949b-d1519b93204f"
+  },
+  {
+    "dataSetId": "91d28668-471a-11e5-98ea-1e1013978e9f",
+    "stationType": "subway",
+    "stationName": "Марьина Роща",
+    "lineName": "Люблинско-Дмитровская линия",
+    "Название ветки": "91c9dd2e-471a-11e5-81d1-51d545884878",
+    "ID направления": "7eea0f10-ee85-ec1b-9b79-56aa7ec2fff5"
+  },
+  {
+    "dataSetId": "91d28668-471a-11e5-98ea-1e1013978e9f",
+    "stationType": "subway",
+    "stationName": "Марьина Роща",
+    "lineName": "Люблинско-Дмитровская линия",
+    "Название ветки": "91c9dd2e-471a-11e5-81d1-51d545884878",
+    "ID направления": "91ce2082-471a-11e5-b30f-975bbc42b8bd"
+  },
+  {
+    "dataSetId": "92413b9e-471a-11e5-b412-0671f6980704",
+    "stationType": "subway",
+    "stationName": "Марьино",
+    "lineName": "Люблинско-Дмитровская линия",
+    "Название ветки": "91c9dd2e-471a-11e5-81d1-51d545884878",
+    "ID направления": "7eea0f10-ee85-ec1b-9b79-56aa7ec2fff5"
+  },
+  {
+    "dataSetId": "92413b9e-471a-11e5-b412-0671f6980704",
+    "stationType": "subway",
+    "stationName": "Марьино",
+    "lineName": "Люблинско-Дмитровская линия",
+    "Название ветки": "91c9dd2e-471a-11e5-81d1-51d545884878",
+    "ID направления": "91ce2082-471a-11e5-b30f-975bbc42b8bd"
+  },
+  {
+    "dataSetId": "8dc5b252-471a-11e5-96e3-48b3f75c632f",
+    "stationType": "subway",
+    "stationName": "Маяковская",
+    "lineName": "Замоскворецкая линия",
+    "Название ветки": "8d9076b4-471a-11e5-9f41-f71b6003a10d",
+    "ID направления": "5626ca88-fc11-8df4-0f8b-d3841e177802"
+  },
+  {
+    "dataSetId": "8dc5b252-471a-11e5-96e3-48b3f75c632f",
+    "stationType": "subway",
+    "stationName": "Маяковская",
+    "lineName": "Замоскворецкая линия",
+    "Название ветки": "8d9076b4-471a-11e5-9f41-f71b6003a10d",
+    "ID направления": "8d95379e-471a-11e5-9c4d-a70a757d8e10"
+  },
+  {
+    "dataSetId": "8e28b2f8-471a-11e5-956c-c7eee7128996",
+    "stationType": "subway",
+    "stationName": "Медведково",
+    "lineName": "Калужско-Рижская линия",
+    "Название ветки": "8e1e8da0-471a-11e5-91d7-40b6bdf6f348",
+    "ID направления": "8e23b12c-471a-11e5-a985-ab8269731f9f"
+  },
+  {
+    "dataSetId": "8e28b2f8-471a-11e5-956c-c7eee7128996",
+    "stationType": "subway",
+    "stationName": "Медведково",
+    "lineName": "Калужско-Рижская линия",
+    "Название ветки": "8e1e8da0-471a-11e5-91d7-40b6bdf6f348",
+    "ID направления": "3a5956c6-3156-5b03-c3d0-60d772da1d7f"
+  },
+  {
+    "dataSetId": "8ef5f420-471a-11e5-a903-854e57ffa52a",
+    "stationType": "subway",
+    "stationName": "Международная",
+    "lineName": "Филёвская линия",
+    "Название ветки": "ceeb4f7c-eeb6-4891-abda-fc2df5468013",
+    "ID направления": "178a4e77-b499-3195-e8c8-e783abf02823"
+  },
+  {
+    "dataSetId": "8ef5f420-471a-11e5-a903-854e57ffa52a",
+    "stationType": "subway",
+    "stationName": "Международная",
+    "lineName": "Филёвская линия",
+    "Название ветки": "ceeb4f7c-eeb6-4891-abda-fc2df5468013",
+    "ID направления": "471d8788-9048-4e99-a25a-ca9e214430b3"
+  },
+  {
+    "dataSetId": "8f7523b2-471a-11e5-a53c-8fab2d3501c8",
+    "stationType": "subway",
+    "stationName": "Менделеевская",
+    "lineName": "Серпуховско-Тимирязевская линия",
+    "Название ветки": "8f3ebfe8-471a-11e5-bf6f-39c67f1b8346",
+    "ID направления": "97347e3e-3e14-5beb-b6e7-44f293276b3c"
+  },
+  {
+    "dataSetId": "8f7523b2-471a-11e5-a53c-8fab2d3501c8",
+    "stationType": "subway",
+    "stationName": "Менделеевская",
+    "lineName": "Серпуховско-Тимирязевская линия",
+    "Название ветки": "8f3ebfe8-471a-11e5-bf6f-39c67f1b8346",
+    "ID направления": "8f43d956-471a-11e5-ad3d-98f66d46e101"
+  },
+  {
+    "dataSetId": "eacbb9ad-94b4-4601-a973-0065092be31c",
+    "stationType": "subway",
+    "stationName": "Минская",
+    "lineName": "Солнцевская линия",
+    "Название ветки": "92578142-471a-11e5-8bc7-00c742ecd372",
+    "ID направления": "55045d01-78a4-4ab7-a72d-ed5caab64169"
+  },
+  {
+    "dataSetId": "eacbb9ad-94b4-4601-a973-0065092be31c",
+    "stationType": "subway",
+    "stationName": "Минская",
+    "lineName": "Солнцевская линия",
+    "Название ветки": "92578142-471a-11e5-8bc7-00c742ecd372",
+    "ID направления": "916f3177-83f3-0538-5fa9-05c734f64fd7"
+  },
+  {
+    "dataSetId": "90553b32-471a-11e5-9590-e99963e7fa17",
+    "stationType": "subway",
+    "stationName": "Митино",
+    "lineName": "Арбатско-Покровская линия",
+    "Название ветки": "8fd77c4c-471a-11e5-9c19-aed022f77575",
+    "ID направления": "26e6acfc-127d-fbfa-9f0e-2a2f25643d6b"
+  },
+  {
+    "dataSetId": "90553b32-471a-11e5-9590-e99963e7fa17",
+    "stationType": "subway",
+    "stationName": "Митино",
+    "lineName": "Арбатско-Покровская линия",
+    "Название ветки": "8fd77c4c-471a-11e5-9c19-aed022f77575",
+    "ID направления": "8fdc553c-471a-11e5-8f0b-6def8571b2e8"
+  },
+  {
+    "dataSetId": "6bc6d187-097c-44ec-aec5-6b77ebff3ddf",
+    "stationType": "subway",
+    "stationName": "Мичуринский проспект",
+    "lineName": "Солнцевская линия",
+    "Название ветки": "92578142-471a-11e5-8bc7-00c742ecd372",
+    "ID направления": "55045d01-78a4-4ab7-a72d-ed5caab64169"
+  },
+  {
+    "dataSetId": "6bc6d187-097c-44ec-aec5-6b77ebff3ddf",
+    "stationType": "subway",
+    "stationName": "Мичуринский проспект",
+    "lineName": "Солнцевская линия",
+    "Название ветки": "92578142-471a-11e5-8bc7-00c742ecd372",
+    "ID направления": "916f3177-83f3-0538-5fa9-05c734f64fd7"
+  },
+  {
+    "dataSetId": "903a61cc-471a-11e5-9cce-7c62fe50265b",
+    "stationType": "subway",
+    "stationName": "Молодёжная",
+    "lineName": "Арбатско-Покровская линия",
+    "Название ветки": "8fd77c4c-471a-11e5-9c19-aed022f77575",
+    "ID направления": "26e6acfc-127d-fbfa-9f0e-2a2f25643d6b"
+  },
+  {
+    "dataSetId": "903a61cc-471a-11e5-9cce-7c62fe50265b",
+    "stationType": "subway",
+    "stationName": "Молодёжная",
+    "lineName": "Арбатско-Покровская линия",
+    "Название ветки": "8fd77c4c-471a-11e5-9c19-aed022f77575",
+    "ID направления": "8fdc553c-471a-11e5-8f0b-6def8571b2e8"
+  },
+  {
+    "dataSetId": "9a7325a0-590c-4ba1-99d9-f23416e9426f",
+    "stationType": "subway",
+    "stationName": "Москва-3",
+    "lineName": "Электричка Москва-Александров",
+    "Название ветки": "31473533-3958-4e30-9ca7-d3d131d34039",
+    "ID направления": "7218184f-99b0-41b4-877a-224cabc7511f"
+  },
+  {
+    "dataSetId": "34d90064-effe-43cf-984b-d85b18e2f789",
+    "stationType": "subway",
+    "stationName": "Москва Ярославская",
+    "lineName": "Электричка Москва-Александров",
+    "Название ветки": "31473533-3958-4e30-9ca7-d3d131d34039",
+    "ID направления": "7218184f-99b0-41b4-877a-224cabc7511f"
+  },
+  {
+    "dataSetId": "4628974f-da3d-4375-abb8-709a7b2c4ec0",
+    "stationType": "subway",
+    "stationName": "Мытищи",
+    "lineName": "Электричка Москва-Александров",
+    "Название ветки": "31473533-3958-4e30-9ca7-d3d131d34039",
+    "ID направления": "7218184f-99b0-41b4-877a-224cabc7511f"
+  },
+  {
+    "dataSetId": "904e973c-471a-11e5-b0ba-bf89fed87c3e",
+    "stationType": "subway",
+    "stationName": "Мякинино",
+    "lineName": "Арбатско-Покровская линия",
+    "Название ветки": "8fd77c4c-471a-11e5-9c19-aed022f77575",
+    "ID направления": "26e6acfc-127d-fbfa-9f0e-2a2f25643d6b"
+  },
+  {
+    "dataSetId": "904e973c-471a-11e5-b0ba-bf89fed87c3e",
+    "stationType": "subway",
+    "stationName": "Мякинино",
+    "lineName": "Арбатско-Покровская линия",
+    "Название ветки": "8fd77c4c-471a-11e5-9c19-aed022f77575",
+    "ID направления": "8fdc553c-471a-11e5-8f0b-6def8571b2e8"
+  },
+  {
+    "dataSetId": "8fa0aa50-471a-11e5-95c8-9a38d3a3e806",
+    "stationType": "subway",
+    "stationName": "Нагатинская",
+    "lineName": "Серпуховско-Тимирязевская линия",
+    "Название ветки": "8f3ebfe8-471a-11e5-bf6f-39c67f1b8346",
+    "ID направления": "8f43d956-471a-11e5-ad3d-98f66d46e101"
+  },
+  {
+    "dataSetId": "8fa0aa50-471a-11e5-95c8-9a38d3a3e806",
+    "stationType": "subway",
+    "stationName": "Нагатинская",
+    "lineName": "Серпуховско-Тимирязевская линия",
+    "Название ветки": "8f3ebfe8-471a-11e5-bf6f-39c67f1b8346",
+    "ID направления": "97347e3e-3e14-5beb-b6e7-44f293276b3c"
+  },
+  {
+    "dataSetId": "8fa6ac02-471a-11e5-81f1-e6813e39d4ad",
+    "stationType": "subway",
+    "stationName": "Нагорная",
+    "lineName": "Серпуховско-Тимирязевская линия",
+    "Название ветки": "8f3ebfe8-471a-11e5-bf6f-39c67f1b8346",
+    "ID направления": "8f43d956-471a-11e5-ad3d-98f66d46e101"
+  },
+  {
+    "dataSetId": "8fa6ac02-471a-11e5-81f1-e6813e39d4ad",
+    "stationType": "subway",
+    "stationName": "Нагорная",
+    "lineName": "Серпуховско-Тимирязевская линия",
+    "Название ветки": "8f3ebfe8-471a-11e5-bf6f-39c67f1b8346",
+    "ID направления": "97347e3e-3e14-5beb-b6e7-44f293276b3c"
+  },
+  {
+    "dataSetId": "8facf332-471a-11e5-b06f-ed44b4935b39",
+    "stationType": "subway",
+    "stationName": "Нахимовский проспект",
+    "lineName": "Серпуховско-Тимирязевская линия",
+    "Название ветки": "8f3ebfe8-471a-11e5-bf6f-39c67f1b8346",
+    "ID направления": "8f43d956-471a-11e5-ad3d-98f66d46e101"
+  },
+  {
+    "dataSetId": "8facf332-471a-11e5-b06f-ed44b4935b39",
+    "stationType": "subway",
+    "stationName": "Нахимовский проспект",
+    "lineName": "Серпуховско-Тимирязевская линия",
+    "Название ветки": "8f3ebfe8-471a-11e5-bf6f-39c67f1b8346",
+    "ID направления": "97347e3e-3e14-5beb-b6e7-44f293276b3c"
+  },
+  {
+    "dataSetId": "4c004efc-1ac1-4f9a-8e8a-67fef7af0964",
+    "stationType": "subway",
+    "stationName": "Некрасовка",
+    "lineName": "Некрасовская линия",
+    "Название ветки": "efdc079f-0252-40ed-acf3-0bf67476f983",
+    "ID направления": "12b0b9cc-d160-4795-8a2f-bfcc18b51701"
+  },
+  {
+    "dataSetId": "4c004efc-1ac1-4f9a-8e8a-67fef7af0964",
+    "stationType": "subway",
+    "stationName": "Некрасовка",
+    "lineName": "Некрасовская линия",
+    "Название ветки": "efdc079f-0252-40ed-acf3-0bf67476f983",
+    "ID направления": "f7997692-638f-4360-acac-65431638ae6f"
+  },
+  {
+    "dataSetId": "c38098b6-fb13-4d95-b601-5c57e8ee7fda",
+    "stationType": "subway",
+    "stationName": "Нижегородская",
+    "lineName": "Некрасовская линия",
+    "Название ветки": "efdc079f-0252-40ed-acf3-0bf67476f983",
+    "ID направления": "12b0b9cc-d160-4795-8a2f-bfcc18b51701"
+  },
+  {
+    "dataSetId": "c38098b6-fb13-4d95-b601-5c57e8ee7fda",
+    "stationType": "subway",
+    "stationName": "Нижегородская",
+    "lineName": "Некрасовская линия",
+    "Название ветки": "efdc079f-0252-40ed-acf3-0bf67476f983",
+    "ID направления": "f7997692-638f-4360-acac-65431638ae6f"
+  },
+  {
+    "dataSetId": "3664780e-7f3f-4652-94b2-229d5a4f9469",
+    "stationType": "mcc",
+    "stationName": "Нижегородская",
+    "lineName": "МЦК",
+    "Название ветки": "812d7a2f-b6c7-4924-ad67-8c45e4dfdad3",
+    "ID направления": "c2eca0d1-5866-46d7-9414-82e8f73fe0dd"
+  },
+  {
+    "dataSetId": "3664780e-7f3f-4652-94b2-229d5a4f9469",
+    "stationType": "mcc",
+    "stationName": "Нижегородская",
+    "lineName": "МЦК",
+    "Название ветки": "812d7a2f-b6c7-4924-ad67-8c45e4dfdad3",
+    "ID направления": "40d606ae-c6f3-4981-91ba-27bd337db216"
+  },
+  {
+    "dataSetId": "8d623c5e-471a-11e5-ab6e-fb7263b9cb1c",
+    "stationType": "subway",
+    "stationName": "Новогиреево",
+    "lineName": "Калининская линия",
+    "Название ветки": "8d4a6c28-471a-11e5-ba91-961782854ada",
+    "ID направления": "820a0a00-5145-ea22-766e-149ec5636607"
+  },
+  {
+    "dataSetId": "8d623c5e-471a-11e5-ab6e-fb7263b9cb1c",
+    "stationType": "subway",
+    "stationName": "Новогиреево",
+    "lineName": "Калининская линия",
+    "Название ветки": "8d4a6c28-471a-11e5-ba91-961782854ada",
+    "ID направления": "8d5075be-471a-11e5-949b-d1519b93204f"
+  },
+  {
+    "dataSetId": "8d58b80a-471a-11e5-9cc3-1a839c21e9f2",
+    "stationType": "subway",
+    "stationName": "Новокосино",
+    "lineName": "Калининская линия",
+    "Название ветки": "8d4a6c28-471a-11e5-ba91-961782854ada",
+    "ID направления": "820a0a00-5145-ea22-766e-149ec5636607"
+  },
+  {
+    "dataSetId": "8d58b80a-471a-11e5-9cc3-1a839c21e9f2",
+    "stationType": "subway",
+    "stationName": "Новокосино",
+    "lineName": "Калининская линия",
+    "Название ветки": "8d4a6c28-471a-11e5-ba91-961782854ada",
+    "ID направления": "8d5075be-471a-11e5-949b-d1519b93204f"
+  },
+  {
+    "dataSetId": "8ddc3dd8-471a-11e5-89d6-e82276f7a3d5",
+    "stationType": "subway",
+    "stationName": "Новокузнецкая",
+    "lineName": "Замоскворецкая линия",
+    "Название ветки": "8d9076b4-471a-11e5-9f41-f71b6003a10d",
+    "ID направления": "5626ca88-fc11-8df4-0f8b-d3841e177802"
+  },
+  {
+    "dataSetId": "8ddc3dd8-471a-11e5-89d6-e82276f7a3d5",
+    "stationType": "subway",
+    "stationName": "Новокузнецкая",
+    "lineName": "Замоскворецкая линия",
+    "Название ветки": "8d9076b4-471a-11e5-9f41-f71b6003a10d",
+    "ID направления": "8d95379e-471a-11e5-9c4d-a70a757d8e10"
+  },
+  {
+    "dataSetId": "98da0335-95ab-448a-b35e-4a899a9905df",
+    "stationType": "subway",
+    "stationName": "Новопеределкино",
+    "lineName": "Солнцевская линия",
+    "Название ветки": "92578142-471a-11e5-8bc7-00c742ecd372",
+    "ID направления": "916f3177-83f3-0538-5fa9-05c734f64fd7"
+  },
+  {
+    "dataSetId": "98da0335-95ab-448a-b35e-4a899a9905df",
+    "stationType": "subway",
+    "stationName": "Новопеределкино",
+    "lineName": "Солнцевская линия",
+    "Название ветки": "92578142-471a-11e5-8bc7-00c742ecd372",
+    "ID направления": "55045d01-78a4-4ab7-a72d-ed5caab64169"
+  },
+  {
+    "dataSetId": "9102632a-471a-11e5-94d2-3f005a8393f8",
+    "stationType": "subway",
+    "stationName": "Новослободская",
+    "lineName": "Кольцевая линия",
+    "Название ветки": "90cc019a-471a-11e5-a77d-4d1a70b68fca",
+    "ID направления": "90e7fc74-471a-11e5-acac-299daf05db4c"
+  },
+  {
+    "dataSetId": "9102632a-471a-11e5-94d2-3f005a8393f8",
+    "stationType": "subway",
+    "stationName": "Новослободская",
+    "lineName": "Кольцевая линия",
+    "Название ветки": "90cc019a-471a-11e5-a77d-4d1a70b68fca",
+    "ID направления": "adec8ae8-3740-629a-cc0c-857096c0a10b"
+  },
+  {
+    "dataSetId": "3d7b1c1e-2c8e-4b8d-9dee-0769ee86a6e2",
+    "stationType": "mcc",
+    "stationName": "Новохохловская",
+    "lineName": "МЦК",
+    "Название ветки": "812d7a2f-b6c7-4924-ad67-8c45e4dfdad3",
+    "ID направления": "c2eca0d1-5866-46d7-9414-82e8f73fe0dd"
+  },
+  {
+    "dataSetId": "3d7b1c1e-2c8e-4b8d-9dee-0769ee86a6e2",
+    "stationType": "mcc",
+    "stationName": "Новохохловская",
+    "lineName": "МЦК",
+    "Название ветки": "812d7a2f-b6c7-4924-ad67-8c45e4dfdad3",
+    "ID направления": "40d606ae-c6f3-4981-91ba-27bd337db216"
+  },
+  {
+    "dataSetId": "8eb8cf3c-471a-11e5-8868-ddac4dd0fe2c",
+    "stationType": "subway",
+    "stationName": "Новоясеневская",
+    "lineName": "Калужско-Рижская линия",
+    "Название ветки": "8e1e8da0-471a-11e5-91d7-40b6bdf6f348",
+    "ID направления": "8e23b12c-471a-11e5-a985-ab8269731f9f"
+  },
+  {
+    "dataSetId": "8eb8cf3c-471a-11e5-8868-ddac4dd0fe2c",
+    "stationType": "subway",
+    "stationName": "Новоясеневская",
+    "lineName": "Калужско-Рижская линия",
+    "Название ветки": "8e1e8da0-471a-11e5-91d7-40b6bdf6f348",
+    "ID направления": "3a5956c6-3156-5b03-c3d0-60d772da1d7f"
+  },
+  {
+    "dataSetId": "8e95ae30-471a-11e5-90d7-26cf6e630b6f",
+    "stationType": "subway",
+    "stationName": "Новые Черёмушки",
+    "lineName": "Калужско-Рижская линия",
+    "Название ветки": "8e1e8da0-471a-11e5-91d7-40b6bdf6f348",
+    "ID направления": "8e23b12c-471a-11e5-a985-ab8269731f9f"
+  },
+  {
+    "dataSetId": "8e95ae30-471a-11e5-90d7-26cf6e630b6f",
+    "stationType": "subway",
+    "stationName": "Новые Черёмушки",
+    "lineName": "Калужско-Рижская линия",
+    "Название ветки": "8e1e8da0-471a-11e5-91d7-40b6bdf6f348",
+    "ID направления": "3a5956c6-3156-5b03-c3d0-60d772da1d7f"
+  },
+  {
+    "dataSetId": "acb9c0b8-19fa-4155-9578-fbf002a0365f",
+    "stationType": "subway",
+    "stationName": "Озерная",
+    "lineName": "Солнцевская линия",
+    "Название ветки": "92578142-471a-11e5-8bc7-00c742ecd372",
+    "ID направления": "916f3177-83f3-0538-5fa9-05c734f64fd7"
+  },
+  {
+    "dataSetId": "acb9c0b8-19fa-4155-9578-fbf002a0365f",
+    "stationType": "subway",
+    "stationName": "Озерная",
+    "lineName": "Солнцевская линия",
+    "Название ветки": "92578142-471a-11e5-8bc7-00c742ecd372",
+    "ID направления": "55045d01-78a4-4ab7-a72d-ed5caab64169"
+  },
+  {
+    "dataSetId": "73863949-c9ee-4782-bd66-6ee85a10c582",
+    "stationType": "mcc",
+    "stationName": "Окружная",
+    "lineName": "МЦК",
+    "Название ветки": "812d7a2f-b6c7-4924-ad67-8c45e4dfdad3",
+    "ID направления": "c2eca0d1-5866-46d7-9414-82e8f73fe0dd"
+  },
+  {
+    "dataSetId": "73863949-c9ee-4782-bd66-6ee85a10c582",
+    "stationType": "mcc",
+    "stationName": "Окружная",
+    "lineName": "МЦК",
+    "Название ветки": "812d7a2f-b6c7-4924-ad67-8c45e4dfdad3",
+    "ID направления": "40d606ae-c6f3-4981-91ba-27bd337db216"
+  },
+  {
+    "dataSetId": "68f16c28-7dc4-42a2-8ec3-697ea361d02e",
+    "stationType": "subway",
+    "stationName": "Окружная",
+    "lineName": "Люблинско-Дмитровская линия",
+    "Название ветки": "91c9dd2e-471a-11e5-81d1-51d545884878",
+    "ID направления": "7eea0f10-ee85-ec1b-9b79-56aa7ec2fff5"
+  },
+  {
+    "dataSetId": "73863949-c9ee-4782-bd66-6ee85a10c582",
+    "stationType": "mcc",
+    "stationName": "Окружная",
+    "lineName": "МЦК",
+    "Название ветки": "812d7a2f-b6c7-4924-ad67-8c45e4dfdad3",
+    "ID направления": "40d606ae-c6f3-4981-91ba-27bd337db216"
+  },
+  {
+    "dataSetId": "73863949-c9ee-4782-bd66-6ee85a10c582",
+    "stationType": "mcc",
+    "stationName": "Окружная",
+    "lineName": "МЦК",
+    "Название ветки": "812d7a2f-b6c7-4924-ad67-8c45e4dfdad3",
+    "ID направления": "c2eca0d1-5866-46d7-9414-82e8f73fe0dd"
+  },
+  {
+    "dataSetId": "68f16c28-7dc4-42a2-8ec3-697ea361d02e",
+    "stationType": "subway",
+    "stationName": "Окружная",
+    "lineName": "Люблинско-Дмитровская линия",
+    "Название ветки": "91c9dd2e-471a-11e5-81d1-51d545884878",
+    "ID направления": "91ce2082-471a-11e5-b30f-975bbc42b8bd"
+  },
+  {
+    "dataSetId": "69970937-24c1-46ed-8d79-c1223797bded",
+    "stationType": "subway",
+    "stationName": "Окская",
+    "lineName": "Некрасовская линия",
+    "Название ветки": "efdc079f-0252-40ed-acf3-0bf67476f983",
+    "ID направления": "f7997692-638f-4360-acac-65431638ae6f"
+  },
+  {
+    "dataSetId": "69970937-24c1-46ed-8d79-c1223797bded",
+    "stationType": "subway",
+    "stationName": "Окская",
+    "lineName": "Некрасовская линия",
+    "Название ветки": "efdc079f-0252-40ed-acf3-0bf67476f983",
+    "ID направления": "12b0b9cc-d160-4795-8a2f-bfcc18b51701"
+  },
+  {
+    "dataSetId": "91316f08-471a-11e5-903b-324dc6a1e6b0",
+    "stationType": "subway",
+    "stationName": "Октябрьская",
+    "lineName": "Кольцевая линия",
+    "Название ветки": "90cc019a-471a-11e5-a77d-4d1a70b68fca",
+    "ID направления": "adec8ae8-3740-629a-cc0c-857096c0a10b"
+  },
+  {
+    "dataSetId": "8e76b098-471a-11e5-a345-064379faf290",
+    "stationType": "subway",
+    "stationName": "Октябрьская",
+    "lineName": "Калужско-Рижская линия",
+    "Название ветки": "8e1e8da0-471a-11e5-91d7-40b6bdf6f348",
+    "ID направления": "3a5956c6-3156-5b03-c3d0-60d772da1d7f"
+  },
+  {
+    "dataSetId": "91316f08-471a-11e5-903b-324dc6a1e6b0",
+    "stationType": "subway",
+    "stationName": "Октябрьская",
+    "lineName": "Кольцевая линия",
+    "Название ветки": "90cc019a-471a-11e5-a77d-4d1a70b68fca",
+    "ID направления": "90e7fc74-471a-11e5-acac-299daf05db4c"
+  },
+  {
+    "dataSetId": "8e76b098-471a-11e5-a345-064379faf290",
+    "stationType": "subway",
+    "stationName": "Октябрьская",
+    "lineName": "Калужско-Рижская линия",
+    "Название ветки": "8e1e8da0-471a-11e5-91d7-40b6bdf6f348",
+    "ID направления": "8e23b12c-471a-11e5-a985-ab8269731f9f"
+  },
+  {
+    "dataSetId": "f8dfb706-96b8-42d7-a6ee-5ed663d174b5",
+    "stationType": "subway",
+    "stationName": "Октябрьское Поле",
+    "lineName": "Таганско-Краснопресненская линия",
+    "Название ветки": "905c4c06-471a-11e5-b22f-5b1f00be12d1",
+    "ID направления": "09b196c8-2d04-ba4b-b7a4-430071e55f9f"
+  },
+  {
+    "dataSetId": "f8dfb706-96b8-42d7-a6ee-5ed663d174b5",
+    "stationType": "subway",
+    "stationName": "Октябрьское Поле",
+    "lineName": "Таганско-Краснопресненская линия",
+    "Название ветки": "905c4c06-471a-11e5-b22f-5b1f00be12d1",
+    "ID направления": "90614df0-471a-11e5-b25a-ba8676ed3b60"
+  },
+  {
+    "dataSetId": "c9bbfecc-cfd4-4ecf-9e21-18a911181b93",
+    "stationType": "subway",
+    "stationName": "Ольховая",
+    "lineName": "Сокольническая линия",
+    "Название ветки": "913e8b8e-471a-11e5-bb05-091bc1fc53a1",
+    "ID направления": "91436c12-471a-11e5-a3c8-e5afa364d7cf"
+  },
+  {
+    "dataSetId": "c9bbfecc-cfd4-4ecf-9e21-18a911181b93",
+    "stationType": "subway",
+    "stationName": "Ольховая",
+    "lineName": "Сокольническая линия",
+    "Название ветки": "913e8b8e-471a-11e5-bb05-091bc1fc53a1",
+    "ID направления": "c1fabf36-77c2-3be0-d3e2-186e28e7beba"
+  },
+  {
+    "dataSetId": "8e0bb504-471a-11e5-a2d5-ec0f16aababe",
+    "stationType": "subway",
+    "stationName": "Орехово",
+    "lineName": "Замоскворецкая линия",
+    "Название ветки": "8d9076b4-471a-11e5-9f41-f71b6003a10d",
+    "ID направления": "8d95379e-471a-11e5-9c4d-a70a757d8e10"
+  },
+  {
+    "dataSetId": "8e0bb504-471a-11e5-a2d5-ec0f16aababe",
+    "stationType": "subway",
+    "stationName": "Орехово",
+    "lineName": "Замоскворецкая линия",
+    "Название ветки": "8d9076b4-471a-11e5-9f41-f71b6003a10d",
+    "ID направления": "5626ca88-fc11-8df4-0f8b-d3841e177802"
+  },
+  {
+    "dataSetId": "8f568740-471a-11e5-9593-3fcd4aca1916",
+    "stationType": "subway",
+    "stationName": "Отрадное",
+    "lineName": "Серпуховско-Тимирязевская линия",
+    "Название ветки": "8f3ebfe8-471a-11e5-bf6f-39c67f1b8346",
+    "ID направления": "97347e3e-3e14-5beb-b6e7-44f293276b3c"
+  },
+  {
+    "dataSetId": "8f568740-471a-11e5-9593-3fcd4aca1916",
+    "stationType": "subway",
+    "stationName": "Отрадное",
+    "lineName": "Серпуховско-Тимирязевская линия",
+    "Название ветки": "8f3ebfe8-471a-11e5-bf6f-39c67f1b8346",
+    "ID направления": "8f43d956-471a-11e5-ad3d-98f66d46e101"
+  },
+  {
+    "dataSetId": "91834f26-471a-11e5-9e94-0e1a42e894d8",
+    "stationType": "subway",
+    "stationName": "Охотный ряд",
+    "lineName": "Сокольническая линия",
+    "Название ветки": "913e8b8e-471a-11e5-bb05-091bc1fc53a1",
+    "ID направления": "c1fabf36-77c2-3be0-d3e2-186e28e7beba"
+  },
+  {
+    "dataSetId": "91834f26-471a-11e5-9e94-0e1a42e894d8",
+    "stationType": "subway",
+    "stationName": "Охотный ряд",
+    "lineName": "Сокольническая линия",
+    "Название ветки": "913e8b8e-471a-11e5-bb05-091bc1fc53a1",
+    "ID направления": "91436c12-471a-11e5-a3c8-e5afa364d7cf"
+  },
+  {
+    "dataSetId": "8de6acf0-471a-11e5-836c-7d209cd8750f",
+    "stationType": "subway",
+    "stationName": "Павелецкая",
+    "lineName": "Замоскворецкая линия",
+    "Название ветки": "8d9076b4-471a-11e5-9f41-f71b6003a10d",
+    "ID направления": "5626ca88-fc11-8df4-0f8b-d3841e177802"
+  },
+  {
+    "dataSetId": "91240d86-471a-11e5-8c6e-ccab36b6b1fd",
+    "stationType": "subway",
+    "stationName": "Павелецкая",
+    "lineName": "Кольцевая линия",
+    "Название ветки": "90cc019a-471a-11e5-a77d-4d1a70b68fca",
+    "ID направления": "90e7fc74-471a-11e5-acac-299daf05db4c"
+  },
+  {
+    "dataSetId": "91240d86-471a-11e5-8c6e-ccab36b6b1fd",
+    "stationType": "subway",
+    "stationName": "Павелецкая",
+    "lineName": "Кольцевая линия",
+    "Название ветки": "90cc019a-471a-11e5-a77d-4d1a70b68fca",
+    "ID направления": "adec8ae8-3740-629a-cc0c-857096c0a10b"
+  },
+  {
+    "dataSetId": "8de6acf0-471a-11e5-836c-7d209cd8750f",
+    "stationType": "subway",
+    "stationName": "Павелецкая",
+    "lineName": "Замоскворецкая линия",
+    "Название ветки": "8d9076b4-471a-11e5-9f41-f71b6003a10d",
+    "ID направления": "8d95379e-471a-11e5-9c4d-a70a757d8e10"
+  },
+  {
+    "dataSetId": "b843befa-53a6-42b3-afa1-86830c18c4b8",
+    "stationType": "mcc",
+    "stationName": "Панфиловская",
+    "lineName": "МЦК",
+    "Название ветки": "812d7a2f-b6c7-4924-ad67-8c45e4dfdad3",
+    "ID направления": "c2eca0d1-5866-46d7-9414-82e8f73fe0dd"
+  },
+  {
+    "dataSetId": "b843befa-53a6-42b3-afa1-86830c18c4b8",
+    "stationType": "mcc",
+    "stationName": "Панфиловская",
+    "lineName": "МЦК",
+    "Название ветки": "812d7a2f-b6c7-4924-ad67-8c45e4dfdad3",
+    "ID направления": "40d606ae-c6f3-4981-91ba-27bd337db216"
+  },
+  {
+    "dataSetId": "9195f43c-471a-11e5-848c-19c28adb4f3d",
+    "stationType": "subway",
+    "stationName": "Парк культуры",
+    "lineName": "Сокольническая линия",
+    "Название ветки": "913e8b8e-471a-11e5-bb05-091bc1fc53a1",
+    "ID направления": "c1fabf36-77c2-3be0-d3e2-186e28e7beba"
+  },
+  {
+    "dataSetId": "9195f43c-471a-11e5-848c-19c28adb4f3d",
+    "stationType": "subway",
+    "stationName": "Парк культуры",
+    "lineName": "Сокольническая линия",
+    "Название ветки": "913e8b8e-471a-11e5-bb05-091bc1fc53a1",
+    "ID направления": "91436c12-471a-11e5-a3c8-e5afa364d7cf"
+  },
+  {
+    "dataSetId": "9137fcba-471a-11e5-a186-527c5a205513",
+    "stationType": "subway",
+    "stationName": "Парк культуры",
+    "lineName": "Кольцевая линия",
+    "Название ветки": "90cc019a-471a-11e5-a77d-4d1a70b68fca",
+    "ID направления": "90e7fc74-471a-11e5-acac-299daf05db4c"
+  },
+  {
+    "dataSetId": "9137fcba-471a-11e5-a186-527c5a205513",
+    "stationType": "subway",
+    "stationName": "Парк культуры",
+    "lineName": "Кольцевая линия",
+    "Название ветки": "90cc019a-471a-11e5-a77d-4d1a70b68fca",
+    "ID направления": "adec8ae8-3740-629a-cc0c-857096c0a10b"
+  },
+  {
+    "dataSetId": "9137fcba-471a-11e5-a186-527c5a205513",
+    "stationType": "subway",
+    "stationName": "Парк культуры",
+    "lineName": "Кольцевая линия",
+    "Название ветки": "90cc019a-471a-11e5-a77d-4d1a70b68fca",
+    "ID направления": "90e7fc74-471a-11e5-acac-299daf05db4c"
+  },
+  {
+    "dataSetId": "9137fcba-471a-11e5-a186-527c5a205513",
+    "stationType": "subway",
+    "stationName": "Парк культуры",
+    "lineName": "Кольцевая линия",
+    "Название ветки": "90cc019a-471a-11e5-a77d-4d1a70b68fca",
+    "ID направления": "adec8ae8-3740-629a-cc0c-857096c0a10b"
+  },
+  {
+    "dataSetId": "902aee86-471a-11e5-be67-5e35653779bc",
+    "stationType": "subway",
+    "stationName": "Парк Победы",
+    "lineName": "Арбатско-Покровская линия",
+    "Название ветки": "8fd77c4c-471a-11e5-9c19-aed022f77575",
+    "ID направления": "8fdc553c-471a-11e5-8f0b-6def8571b2e8"
+  },
+  {
+    "dataSetId": "41595a7a-e57a-454a-a2f7-4fa472e503ee",
+    "stationType": "subway",
+    "stationName": "Парк Победы",
+    "lineName": "Солнцевская линия",
+    "Название ветки": "92578142-471a-11e5-8bc7-00c742ecd372",
+    "ID направления": "916f3177-83f3-0538-5fa9-05c734f64fd7"
+  },
+  {
+    "dataSetId": "41595a7a-e57a-454a-a2f7-4fa472e503ee",
+    "stationType": "subway",
+    "stationName": "Парк Победы",
+    "lineName": "Солнцевская линия",
+    "Название ветки": "92578142-471a-11e5-8bc7-00c742ecd372",
+    "ID направления": "55045d01-78a4-4ab7-a72d-ed5caab64169"
+  },
+  {
+    "dataSetId": "902aee86-471a-11e5-be67-5e35653779bc",
+    "stationType": "subway",
+    "stationName": "Парк Победы",
+    "lineName": "Арбатско-Покровская линия",
+    "Название ветки": "8fd77c4c-471a-11e5-9c19-aed022f77575",
+    "ID направления": "26e6acfc-127d-fbfa-9f0e-2a2f25643d6b"
+  },
+  {
+    "dataSetId": "8ff35ef8-471a-11e5-b58f-d9873b2d97a0",
+    "stationType": "subway",
+    "stationName": "Партизанская",
+    "lineName": "Арбатско-Покровская линия",
+    "Название ветки": "8fd77c4c-471a-11e5-9c19-aed022f77575",
+    "ID направления": "8fdc553c-471a-11e5-8f0b-6def8571b2e8"
+  },
+  {
+    "dataSetId": "8ff35ef8-471a-11e5-b58f-d9873b2d97a0",
+    "stationType": "subway",
+    "stationName": "Партизанская",
+    "lineName": "Арбатско-Покровская линия",
+    "Название ветки": "8fd77c4c-471a-11e5-9c19-aed022f77575",
+    "ID направления": "26e6acfc-127d-fbfa-9f0e-2a2f25643d6b"
+  },
+  {
+    "dataSetId": "8fe7734a-471a-11e5-9691-a305092d2f10",
+    "stationType": "subway",
+    "stationName": "Первомайская",
+    "lineName": "Арбатско-Покровская линия",
+    "Название ветки": "8fd77c4c-471a-11e5-9c19-aed022f77575",
+    "ID направления": "26e6acfc-127d-fbfa-9f0e-2a2f25643d6b"
+  },
+  {
+    "dataSetId": "8fe7734a-471a-11e5-9691-a305092d2f10",
+    "stationType": "subway",
+    "stationName": "Первомайская",
+    "lineName": "Арбатско-Покровская линия",
+    "Название ветки": "8fd77c4c-471a-11e5-9c19-aed022f77575",
+    "ID направления": "8fdc553c-471a-11e5-8f0b-6def8571b2e8"
+  },
+  {
+    "dataSetId": "4e677ea8-896d-48e8-ac8f-baef56d62afe",
+    "stationType": "subway",
+    "stationName": "Перловская",
+    "lineName": "Электричка Москва-Александров",
+    "Название ветки": "31473533-3958-4e30-9ca7-d3d131d34039",
+    "ID направления": "7218184f-99b0-41b4-877a-224cabc7511f"
+  },
+  {
+    "dataSetId": "8d689310-471a-11e5-addd-7951056f7282",
+    "stationType": "subway",
+    "stationName": "Перово",
+    "lineName": "Калининская линия",
+    "Название ветки": "8d4a6c28-471a-11e5-ba91-961782854ada",
+    "ID направления": "8d5075be-471a-11e5-949b-d1519b93204f"
+  },
+  {
+    "dataSetId": "8d689310-471a-11e5-addd-7951056f7282",
+    "stationType": "subway",
+    "stationName": "Перово",
+    "lineName": "Калининская линия",
+    "Название ветки": "8d4a6c28-471a-11e5-ba91-961782854ada",
+    "ID направления": "820a0a00-5145-ea22-766e-149ec5636607"
+  },
+  {
+    "dataSetId": "ee9abda5-1c1c-47c4-82d6-b5469ddc462e",
+    "stationType": "subway",
+    "stationName": "Петровский парк",
+    "lineName": "Большая кольцевая линия",
+    "Название ветки": "f5dfb41b-0bd9-4aa1-b14b-386de49b5c36",
+    "ID направления": "60c40a6e-e4f4-44f8-b651-1b39417c7009"
+  },
+  {
+    "dataSetId": "ee9abda5-1c1c-47c4-82d6-b5469ddc462e",
+    "stationType": "subway",
+    "stationName": "Петровский парк",
+    "lineName": "Большая кольцевая линия",
+    "Название ветки": "f5dfb41b-0bd9-4aa1-b14b-386de49b5c36",
+    "ID направления": "f15f59c0-6e3c-42d8-b6aa-22663e515d50"
+  },
+  {
+    "dataSetId": "d2eafa52-40e6-4439-8f63-f7957d0bd4a6",
+    "stationType": "subway",
+    "stationName": "Петровский парк",
+    "lineName": "Солнцевская линия",
+    "Название ветки": "92578142-471a-11e5-8bc7-00c742ecd372",
+    "ID направления": "916f3177-83f3-0538-5fa9-05c734f64fd7"
+  },
+  {
+    "dataSetId": "d2eafa52-40e6-4439-8f63-f7957d0bd4a6",
+    "stationType": "subway",
+    "stationName": "Петровский парк",
+    "lineName": "Солнцевская линия",
+    "Название ветки": "92578142-471a-11e5-8bc7-00c742ecd372",
+    "ID направления": "55045d01-78a4-4ab7-a72d-ed5caab64169"
+  },
+  {
+    "dataSetId": "a0d631a5-8d30-4052-a4c2-03eda96e7f9b",
+    "stationType": "subway",
+    "stationName": "Петровско-Разумовская",
+    "lineName": "Люблинско-Дмитровская линия",
+    "Название ветки": "91c9dd2e-471a-11e5-81d1-51d545884878",
+    "ID направления": "91ce2082-471a-11e5-b30f-975bbc42b8bd"
+  },
+  {
+    "dataSetId": "8f62b010-471a-11e5-ae86-90ee9d2371d2",
+    "stationType": "subway",
+    "stationName": "Петровско-Разумовская",
+    "lineName": "Серпуховско-Тимирязевская линия",
+    "Название ветки": "8f3ebfe8-471a-11e5-bf6f-39c67f1b8346",
+    "ID направления": "97347e3e-3e14-5beb-b6e7-44f293276b3c"
+  },
+  {
+    "dataSetId": "8f62b010-471a-11e5-ae86-90ee9d2371d2",
+    "stationType": "subway",
+    "stationName": "Петровско-Разумовская",
+    "lineName": "Серпуховско-Тимирязевская линия",
+    "Название ветки": "8f3ebfe8-471a-11e5-bf6f-39c67f1b8346",
+    "ID направления": "8f43d956-471a-11e5-ad3d-98f66d46e101"
+  },
+  {
+    "dataSetId": "a0d631a5-8d30-4052-a4c2-03eda96e7f9b",
+    "stationType": "subway",
+    "stationName": "Петровско-Разумовская",
+    "lineName": "Люблинско-Дмитровская линия",
+    "Название ветки": "91c9dd2e-471a-11e5-81d1-51d545884878",
+    "ID направления": "7eea0f10-ee85-ec1b-9b79-56aa7ec2fff5"
+  },
+  {
+    "dataSetId": "920053c2-471a-11e5-8580-4275e75aea70",
+    "stationType": "subway",
+    "stationName": "Печатники",
+    "lineName": "Люблинско-Дмитровская линия",
+    "Название ветки": "91c9dd2e-471a-11e5-81d1-51d545884878",
+    "ID направления": "91ce2082-471a-11e5-b30f-975bbc42b8bd"
+  },
+  {
+    "dataSetId": "920053c2-471a-11e5-8580-4275e75aea70",
+    "stationType": "subway",
+    "stationName": "Печатники",
+    "lineName": "Люблинско-Дмитровская линия",
+    "Название ветки": "91c9dd2e-471a-11e5-81d1-51d545884878",
+    "ID направления": "7eea0f10-ee85-ec1b-9b79-56aa7ec2fff5"
+  },
+  {
+    "dataSetId": "8ed0108e-471a-11e5-b98e-077935db0595",
+    "stationType": "subway",
+    "stationName": "Пионерская",
+    "lineName": "Филёвская линия",
+    "Название ветки": "8ebf8f2a-471a-11e5-8473-298136d71f91",
+    "ID направления": "8ec46806-471a-11e5-ae78-3fd8b768ff2c"
+  },
+  {
+    "dataSetId": "8ed0108e-471a-11e5-b98e-077935db0595",
+    "stationType": "subway",
+    "stationName": "Пионерская",
+    "lineName": "Филёвская линия",
+    "Название ветки": "8ebf8f2a-471a-11e5-8473-298136d71f91",
+    "ID направления": "1f1b61e6-b2de-44db-1dbb-f7caaeff4dd1"
+  },
+  {
+    "dataSetId": "90665a7a-471a-11e5-972c-063760852b19",
+    "stationType": "subway",
+    "stationName": "Планерная",
+    "lineName": "Таганско-Краснопресненская линия",
+    "Название ветки": "905c4c06-471a-11e5-b22f-5b1f00be12d1",
+    "ID направления": "90614df0-471a-11e5-b25a-ba8676ed3b60"
+  },
+  {
+    "dataSetId": "90665a7a-471a-11e5-972c-063760852b19",
+    "stationType": "subway",
+    "stationName": "Планерная",
+    "lineName": "Таганско-Краснопресненская линия",
+    "Название ветки": "905c4c06-471a-11e5-b22f-5b1f00be12d1",
+    "ID направления": "09b196c8-2d04-ba4b-b7a4-430071e55f9f"
+  },
+  {
+    "dataSetId": "7e740c06-9b0a-4a24-9856-a9673ef13772",
+    "stationType": "subway",
+    "stationName": "Платформа 43 км",
+    "lineName": "Электричка Москва-Александров",
+    "Название ветки": "31473533-3958-4e30-9ca7-d3d131d34039",
+    "ID направления": "7218184f-99b0-41b4-877a-224cabc7511f"
+  },
+  {
+    "dataSetId": "50b76a6b-7292-4b5b-a5d2-3773fe3edc75",
+    "stationType": "mcc",
+    "stationName": "Площадь Гагарина",
+    "lineName": "МЦК",
+    "Название ветки": "812d7a2f-b6c7-4924-ad67-8c45e4dfdad3",
+    "ID направления": "40d606ae-c6f3-4981-91ba-27bd337db216"
+  },
+  {
+    "dataSetId": "50b76a6b-7292-4b5b-a5d2-3773fe3edc75",
+    "stationType": "mcc",
+    "stationName": "Площадь Гагарина",
+    "lineName": "МЦК",
+    "Название ветки": "812d7a2f-b6c7-4924-ad67-8c45e4dfdad3",
+    "ID направления": "c2eca0d1-5866-46d7-9414-82e8f73fe0dd"
+  },
+  {
+    "dataSetId": "8d7c4306-471a-11e5-ac4c-d3205eae3d5c",
+    "stationType": "subway",
+    "stationName": "Площадь Ильича",
+    "lineName": "Калининская линия",
+    "Название ветки": "8d4a6c28-471a-11e5-ba91-961782854ada",
+    "ID направления": "8d5075be-471a-11e5-949b-d1519b93204f"
+  },
+  {
+    "dataSetId": "8d7c4306-471a-11e5-ac4c-d3205eae3d5c",
+    "stationType": "subway",
+    "stationName": "Площадь Ильича",
+    "lineName": "Калининская линия",
+    "Название ветки": "8d4a6c28-471a-11e5-ba91-961782854ada",
+    "ID направления": "820a0a00-5145-ea22-766e-149ec5636607"
+  },
+  {
+    "dataSetId": "901222e8-471a-11e5-ba88-c711762e7e24",
+    "stationType": "subway",
+    "stationName": "Площадь Революции",
+    "lineName": "Арбатско-Покровская линия",
+    "Название ветки": "8fd77c4c-471a-11e5-9c19-aed022f77575",
+    "ID направления": "8fdc553c-471a-11e5-8f0b-6def8571b2e8"
+  },
+  {
+    "dataSetId": "901222e8-471a-11e5-ba88-c711762e7e24",
+    "stationType": "subway",
+    "stationName": "Площадь Революции",
+    "lineName": "Арбатско-Покровская линия",
+    "Название ветки": "8fd77c4c-471a-11e5-9c19-aed022f77575",
+    "ID направления": "26e6acfc-127d-fbfa-9f0e-2a2f25643d6b"
+  },
+  {
+    "dataSetId": "9080f15a-471a-11e5-934c-50d630b7aec4",
+    "stationType": "subway",
+    "stationName": "Полежаевская",
+    "lineName": "Таганско-Краснопресненская линия",
+    "Название ветки": "905c4c06-471a-11e5-b22f-5b1f00be12d1",
+    "ID направления": "90614df0-471a-11e5-b25a-ba8676ed3b60"
+  },
+  {
+    "dataSetId": "9080f15a-471a-11e5-934c-50d630b7aec4",
+    "stationType": "subway",
+    "stationName": "Полежаевская",
+    "lineName": "Таганско-Краснопресненская линия",
+    "Название ветки": "905c4c06-471a-11e5-b22f-5b1f00be12d1",
+    "ID направления": "09b196c8-2d04-ba4b-b7a4-430071e55f9f"
+  },
+  {
+    "dataSetId": "8f8dcebc-471a-11e5-a934-c55ea3f4f3ec",
+    "stationType": "subway",
+    "stationName": "Полянка",
+    "lineName": "Серпуховско-Тимирязевская линия",
+    "Название ветки": "8f3ebfe8-471a-11e5-bf6f-39c67f1b8346",
+    "ID направления": "97347e3e-3e14-5beb-b6e7-44f293276b3c"
+  },
+  {
+    "dataSetId": "8f8dcebc-471a-11e5-a934-c55ea3f4f3ec",
+    "stationType": "subway",
+    "stationName": "Полянка",
+    "lineName": "Серпуховско-Тимирязевская линия",
+    "Название ветки": "8f3ebfe8-471a-11e5-bf6f-39c67f1b8346",
+    "ID направления": "8f43d956-471a-11e5-ad3d-98f66d46e101"
+  },
+  {
+    "dataSetId": "7fcc35cf-d6a9-4924-9afe-bb960f936d63",
+    "stationType": "subway",
+    "stationName": "Правда",
+    "lineName": "Электричка Москва-Александров",
+    "Название ветки": "31473533-3958-4e30-9ca7-d3d131d34039",
+    "ID направления": "7218184f-99b0-41b4-877a-224cabc7511f"
+  },
+  {
+    "dataSetId": "8fbf54fa-471a-11e5-a9d9-2b629081c103",
+    "stationType": "subway",
+    "stationName": "Пражская",
+    "lineName": "Серпуховско-Тимирязевская линия",
+    "Название ветки": "8f3ebfe8-471a-11e5-bf6f-39c67f1b8346",
+    "ID направления": "8f43d956-471a-11e5-ad3d-98f66d46e101"
+  },
+  {
+    "dataSetId": "8fbf54fa-471a-11e5-a9d9-2b629081c103",
+    "stationType": "subway",
+    "stationName": "Пражская",
+    "lineName": "Серпуховско-Тимирязевская линия",
+    "Название ветки": "8f3ebfe8-471a-11e5-bf6f-39c67f1b8346",
+    "ID направления": "97347e3e-3e14-5beb-b6e7-44f293276b3c"
+  },
+  {
+    "dataSetId": "91555788-471a-11e5-ac18-fa3502211374",
+    "stationType": "subway",
+    "stationName": "Преображенская площадь",
+    "lineName": "Сокольническая линия",
+    "Название ветки": "913e8b8e-471a-11e5-bb05-091bc1fc53a1",
+    "ID направления": "91436c12-471a-11e5-a3c8-e5afa364d7cf"
+  },
+  {
+    "dataSetId": "91555788-471a-11e5-ac18-fa3502211374",
+    "stationType": "subway",
+    "stationName": "Преображенская площадь",
+    "lineName": "Сокольническая линия",
+    "Название ветки": "913e8b8e-471a-11e5-bb05-091bc1fc53a1",
+    "ID направления": "c1fabf36-77c2-3be0-d3e2-186e28e7beba"
+  },
+  {
+    "dataSetId": "814bfde8-09b0-46e0-880a-3a75e3739b99",
+    "stationType": "subway",
+    "stationName": "Прокшино",
+    "lineName": "Сокольническая линия",
+    "Название ветки": "913e8b8e-471a-11e5-bb05-091bc1fc53a1",
+    "ID направления": "91436c12-471a-11e5-a3c8-e5afa364d7cf"
+  },
+  {
+    "dataSetId": "814bfde8-09b0-46e0-880a-3a75e3739b99",
+    "stationType": "subway",
+    "stationName": "Прокшино",
+    "lineName": "Сокольническая линия",
+    "Название ветки": "913e8b8e-471a-11e5-bb05-091bc1fc53a1",
+    "ID направления": "c1fabf36-77c2-3be0-d3e2-186e28e7beba"
+  },
+  {
+    "dataSetId": "90acc2b2-471a-11e5-8a62-490f7c077081",
+    "stationType": "subway",
+    "stationName": "Пролетарская",
+    "lineName": "Таганско-Краснопресненская линия",
+    "Название ветки": "905c4c06-471a-11e5-b22f-5b1f00be12d1",
+    "ID направления": "90614df0-471a-11e5-b25a-ba8676ed3b60"
+  },
+  {
+    "dataSetId": "90acc2b2-471a-11e5-8a62-490f7c077081",
+    "stationType": "subway",
+    "stationName": "Пролетарская",
+    "lineName": "Таганско-Краснопресненская линия",
+    "Название ветки": "905c4c06-471a-11e5-b22f-5b1f00be12d1",
+    "ID направления": "09b196c8-2d04-ba4b-b7a4-430071e55f9f"
+  },
+  {
+    "dataSetId": "91b5dce8-471a-11e5-8d57-120c688e95b1",
+    "stationType": "subway",
+    "stationName": "Проспект Вернадского",
+    "lineName": "Сокольническая линия",
+    "Название ветки": "913e8b8e-471a-11e5-bb05-091bc1fc53a1",
+    "ID направления": "91436c12-471a-11e5-a3c8-e5afa364d7cf"
+  },
+  {
+    "dataSetId": "91b5dce8-471a-11e5-8d57-120c688e95b1",
+    "stationType": "subway",
+    "stationName": "Проспект Вернадского",
+    "lineName": "Сокольническая линия",
+    "Название ветки": "913e8b8e-471a-11e5-bb05-091bc1fc53a1",
+    "ID направления": "c1fabf36-77c2-3be0-d3e2-186e28e7beba"
+  },
+  {
+    "dataSetId": "91094a0a-471a-11e5-9f1b-dda949221b9f",
+    "stationType": "subway",
+    "stationName": "Проспект Мира",
+    "lineName": "Кольцевая линия",
+    "Название ветки": "90cc019a-471a-11e5-a77d-4d1a70b68fca",
+    "ID направления": "adec8ae8-3740-629a-cc0c-857096c0a10b"
+  },
+  {
+    "dataSetId": "8e5b3fac-471a-11e5-b9f3-396c277d931a",
+    "stationType": "subway",
+    "stationName": "Проспект Мира",
+    "lineName": "Калужско-Рижская линия",
+    "Название ветки": "8e1e8da0-471a-11e5-91d7-40b6bdf6f348",
+    "ID направления": "3a5956c6-3156-5b03-c3d0-60d772da1d7f"
+  },
+  {
+    "dataSetId": "8e5b3fac-471a-11e5-b9f3-396c277d931a",
+    "stationType": "subway",
+    "stationName": "Проспект Мира",
+    "lineName": "Калужско-Рижская линия",
+    "Название ветки": "8e1e8da0-471a-11e5-91d7-40b6bdf6f348",
+    "ID направления": "8e23b12c-471a-11e5-a985-ab8269731f9f"
+  },
+  {
+    "dataSetId": "91094a0a-471a-11e5-9f1b-dda949221b9f",
+    "stationType": "subway",
+    "stationName": "Проспект Мира",
+    "lineName": "Кольцевая линия",
+    "Название ветки": "90cc019a-471a-11e5-a77d-4d1a70b68fca",
+    "ID направления": "90e7fc74-471a-11e5-acac-299daf05db4c"
+  },
+  {
+    "dataSetId": "8e8f7024-471a-11e5-b63e-da7b0d7fcc4d",
+    "stationType": "subway",
+    "stationName": "Профсоюзная",
+    "lineName": "Калужско-Рижская линия",
+    "Название ветки": "8e1e8da0-471a-11e5-91d7-40b6bdf6f348",
+    "ID направления": "3a5956c6-3156-5b03-c3d0-60d772da1d7f"
+  },
+  {
+    "dataSetId": "8e8f7024-471a-11e5-b63e-da7b0d7fcc4d",
+    "stationType": "subway",
+    "stationName": "Профсоюзная",
+    "lineName": "Калужско-Рижская линия",
+    "Название ветки": "8e1e8da0-471a-11e5-91d7-40b6bdf6f348",
+    "ID направления": "8e23b12c-471a-11e5-a985-ab8269731f9f"
+  },
+  {
+    "dataSetId": "9098cc44-471a-11e5-86a3-6badfc15431b",
+    "stationType": "subway",
+    "stationName": "Пушкинская",
+    "lineName": "Таганско-Краснопресненская линия",
+    "Название ветки": "905c4c06-471a-11e5-b22f-5b1f00be12d1",
+    "ID направления": "09b196c8-2d04-ba4b-b7a4-430071e55f9f"
+  },
+  {
+    "dataSetId": "9098cc44-471a-11e5-86a3-6badfc15431b",
+    "stationType": "subway",
+    "stationName": "Пушкинская",
+    "lineName": "Таганско-Краснопресненская линия",
+    "Название ветки": "905c4c06-471a-11e5-b22f-5b1f00be12d1",
+    "ID направления": "90614df0-471a-11e5-b25a-ba8676ed3b60"
+  },
+  {
+    "dataSetId": "bb1a7453-2cab-4491-80f3-8999707d9a22",
+    "stationType": "subway",
+    "stationName": "Пятницкое шоссе",
+    "lineName": "Арбатско-Покровская линия",
+    "Название ветки": "8fd77c4c-471a-11e5-9c19-aed022f77575",
+    "ID направления": "26e6acfc-127d-fbfa-9f0e-2a2f25643d6b"
+  },
+  {
+    "dataSetId": "bb1a7453-2cab-4491-80f3-8999707d9a22",
+    "stationType": "subway",
+    "stationName": "Пятницкое шоссе",
+    "lineName": "Арбатско-Покровская линия",
+    "Название ветки": "8fd77c4c-471a-11e5-9c19-aed022f77575",
+    "ID направления": "8fdc553c-471a-11e5-8f0b-6def8571b2e8"
+  },
+  {
+    "dataSetId": "f52dedfc-1c97-4168-976b-47b1e145174f",
+    "stationType": "subway",
+    "stationName": "Радонеж",
+    "lineName": "Электричка Москва-Александров",
+    "Название ветки": "31473533-3958-4e30-9ca7-d3d131d34039",
+    "ID направления": "7218184f-99b0-41b4-877a-224cabc7511f"
+  },
+  {
+    "dataSetId": "e3da455b-61ca-4d4a-a817-c8a4dc4c9b79",
+    "stationType": "subway",
+    "stationName": "Раменки",
+    "lineName": "Солнцевская линия",
+    "Название ветки": "92578142-471a-11e5-8bc7-00c742ecd372",
+    "ID направления": "55045d01-78a4-4ab7-a72d-ed5caab64169"
+  },
+  {
+    "dataSetId": "e3da455b-61ca-4d4a-a817-c8a4dc4c9b79",
+    "stationType": "subway",
+    "stationName": "Раменки",
+    "lineName": "Солнцевская линия",
+    "Название ветки": "92578142-471a-11e5-8bc7-00c742ecd372",
+    "ID направления": "916f3177-83f3-0538-5fa9-05c734f64fd7"
+  },
+  {
+    "dataSetId": "59a78d90-924d-49f9-9492-08ab3a80d39f",
+    "stationType": "subway",
+    "stationName": "Рассказовка",
+    "lineName": "Солнцевская линия",
+    "Название ветки": "92578142-471a-11e5-8bc7-00c742ecd372",
+    "ID направления": "55045d01-78a4-4ab7-a72d-ed5caab64169"
+  },
+  {
+    "dataSetId": "59a78d90-924d-49f9-9492-08ab3a80d39f",
+    "stationType": "subway",
+    "stationName": "Рассказовка",
+    "lineName": "Солнцевская линия",
+    "Название ветки": "92578142-471a-11e5-8bc7-00c742ecd372",
+    "ID направления": "916f3177-83f3-0538-5fa9-05c734f64fd7"
+  },
+  {
+    "dataSetId": "8d99cc28-471a-11e5-81b8-9abd51f06fee",
+    "stationType": "subway",
+    "stationName": "Речной вокзал",
+    "lineName": "Замоскворецкая линия",
+    "Название ветки": "8d9076b4-471a-11e5-9f41-f71b6003a10d",
+    "ID направления": "5626ca88-fc11-8df4-0f8b-d3841e177802"
+  },
+  {
+    "dataSetId": "8d99cc28-471a-11e5-81b8-9abd51f06fee",
+    "stationType": "subway",
+    "stationName": "Речной вокзал",
+    "lineName": "Замоскворецкая линия",
+    "Название ветки": "8d9076b4-471a-11e5-9f41-f71b6003a10d",
+    "ID направления": "8d95379e-471a-11e5-9c4d-a70a757d8e10"
+  },
+  {
+    "dataSetId": "8e53387a-471a-11e5-9f3f-b4bdc665e11b",
+    "stationType": "subway",
+    "stationName": "Рижская",
+    "lineName": "Калужско-Рижская линия",
+    "Название ветки": "8e1e8da0-471a-11e5-91d7-40b6bdf6f348",
+    "ID направления": "8e23b12c-471a-11e5-a985-ab8269731f9f"
+  },
+  {
+    "dataSetId": "8e53387a-471a-11e5-9f3f-b4bdc665e11b",
+    "stationType": "subway",
+    "stationName": "Рижская",
+    "lineName": "Калужско-Рижская линия",
+    "Название ветки": "8e1e8da0-471a-11e5-91d7-40b6bdf6f348",
+    "ID направления": "3a5956c6-3156-5b03-c3d0-60d772da1d7f"
+  },
+  {
+    "dataSetId": "91e78cac-471a-11e5-9b34-ea1fe7e22ce3",
+    "stationType": "subway",
+    "stationName": "Римская",
+    "lineName": "Люблинско-Дмитровская линия",
+    "Название ветки": "91c9dd2e-471a-11e5-81d1-51d545884878",
+    "ID направления": "91ce2082-471a-11e5-b30f-975bbc42b8bd"
+  },
+  {
+    "dataSetId": "91e78cac-471a-11e5-9b34-ea1fe7e22ce3",
+    "stationType": "subway",
+    "stationName": "Римская",
+    "lineName": "Люблинско-Дмитровская линия",
+    "Название ветки": "91c9dd2e-471a-11e5-81d1-51d545884878",
+    "ID направления": "7eea0f10-ee85-ec1b-9b79-56aa7ec2fff5"
+  },
+  {
+    "dataSetId": "c09d0c83-91e9-48b1-9a19-5a4b1d284dec",
+    "stationType": "mcc",
+    "stationName": "Ростокино",
+    "lineName": "МЦК",
+    "Название ветки": "812d7a2f-b6c7-4924-ad67-8c45e4dfdad3",
+    "ID направления": "c2eca0d1-5866-46d7-9414-82e8f73fe0dd"
+  },
+  {
+    "dataSetId": "c09d0c83-91e9-48b1-9a19-5a4b1d284dec",
+    "stationType": "mcc",
+    "stationName": "Ростокино",
+    "lineName": "МЦК",
+    "Название ветки": "812d7a2f-b6c7-4924-ad67-8c45e4dfdad3",
+    "ID направления": "40d606ae-c6f3-4981-91ba-27bd337db216"
+  },
+  {
+    "dataSetId": "58db15eb-9bf5-4d33-9bb7-f1abf952c67c",
+    "stationType": "subway",
+    "stationName": "Румянцево",
+    "lineName": "Сокольническая линия",
+    "Название ветки": "913e8b8e-471a-11e5-bb05-091bc1fc53a1",
+    "ID направления": "91436c12-471a-11e5-a3c8-e5afa364d7cf"
+  },
+  {
+    "dataSetId": "58db15eb-9bf5-4d33-9bb7-f1abf952c67c",
+    "stationType": "subway",
+    "stationName": "Румянцево",
+    "lineName": "Сокольническая линия",
+    "Название ветки": "913e8b8e-471a-11e5-bb05-091bc1fc53a1",
+    "ID направления": "c1fabf36-77c2-3be0-d3e2-186e28e7beba"
+  },
+  {
+    "dataSetId": "90bef2b6-471a-11e5-b2e5-7695e24576ef",
+    "stationType": "subway",
+    "stationName": "Рязанский проспект",
+    "lineName": "Таганско-Краснопресненская линия",
+    "Название ветки": "905c4c06-471a-11e5-b22f-5b1f00be12d1",
+    "ID направления": "90614df0-471a-11e5-b25a-ba8676ed3b60"
+  },
+  {
+    "dataSetId": "90bef2b6-471a-11e5-b2e5-7695e24576ef",
+    "stationType": "subway",
+    "stationName": "Рязанский проспект",
+    "lineName": "Таганско-Краснопресненская линия",
+    "Название ветки": "905c4c06-471a-11e5-b22f-5b1f00be12d1",
+    "ID направления": "09b196c8-2d04-ba4b-b7a4-430071e55f9f"
+  },
+  {
+    "dataSetId": "dc3aec5f-d5c5-4087-89a0-a3dc098188ef",
+    "stationType": "subway",
+    "stationName": "Савёловская",
+    "lineName": "Большая кольцевая линия",
+    "Название ветки": "f5dfb41b-0bd9-4aa1-b14b-386de49b5c36",
+    "ID направления": "60c40a6e-e4f4-44f8-b651-1b39417c7009"
+  },
+  {
+    "dataSetId": "14e271eb-9a8c-4b38-aa59-519a9bb6c4e7",
+    "stationType": "subway",
+    "stationName": "Савёловская",
+    "lineName": "Солнцевская линия",
+    "Название ветки": "92578142-471a-11e5-8bc7-00c742ecd372",
+    "ID направления": "916f3177-83f3-0538-5fa9-05c734f64fd7"
+  },
+  {
+    "dataSetId": "1eaea31f-bfab-41be-acda-beb033e39bfe",
+    "stationType": "subway",
+    "stationName": "Савёловская",
+    "lineName": "Серпуховско-Тимирязевская линия",
+    "Название ветки": "8f3ebfe8-471a-11e5-bf6f-39c67f1b8346",
+    "ID направления": "8f43d956-471a-11e5-ad3d-98f66d46e101"
+  },
+  {
+    "dataSetId": "dc3aec5f-d5c5-4087-89a0-a3dc098188ef",
+    "stationType": "subway",
+    "stationName": "Савёловская",
+    "lineName": "Большая кольцевая линия",
+    "Название ветки": "f5dfb41b-0bd9-4aa1-b14b-386de49b5c36",
+    "ID направления": "f15f59c0-6e3c-42d8-b6aa-22663e515d50"
+  },
+  {
+    "dataSetId": "14e271eb-9a8c-4b38-aa59-519a9bb6c4e7",
+    "stationType": "subway",
+    "stationName": "Савёловская",
+    "lineName": "Солнцевская линия",
+    "Название ветки": "92578142-471a-11e5-8bc7-00c742ecd372",
+    "ID направления": "55045d01-78a4-4ab7-a72d-ed5caab64169"
+  },
+  {
+    "dataSetId": "1eaea31f-bfab-41be-acda-beb033e39bfe",
+    "stationType": "subway",
+    "stationName": "Савёловская",
+    "lineName": "Серпуховско-Тимирязевская линия",
+    "Название ветки": "8f3ebfe8-471a-11e5-bf6f-39c67f1b8346",
+    "ID направления": "97347e3e-3e14-5beb-b6e7-44f293276b3c"
+  },
+  {
+    "dataSetId": "2d936431-bac0-4790-9c0a-0bfd8f13e54d",
+    "stationType": "subway",
+    "stationName": "Саларьево",
+    "lineName": "Сокольническая линия",
+    "Название ветки": "913e8b8e-471a-11e5-bb05-091bc1fc53a1",
+    "ID направления": "c1fabf36-77c2-3be0-d3e2-186e28e7beba"
+  },
+  {
+    "dataSetId": "2d936431-bac0-4790-9c0a-0bfd8f13e54d",
+    "stationType": "subway",
+    "stationName": "Саларьево",
+    "lineName": "Сокольническая линия",
+    "Название ветки": "913e8b8e-471a-11e5-bb05-091bc1fc53a1",
+    "ID направления": "91436c12-471a-11e5-a3c8-e5afa364d7cf"
+  },
+  {
+    "dataSetId": "8e364c42-471a-11e5-94d8-91b782245353",
+    "stationType": "subway",
+    "stationName": "Свиблово",
+    "lineName": "Калужско-Рижская линия",
+    "Название ветки": "8e1e8da0-471a-11e5-91d7-40b6bdf6f348",
+    "ID направления": "3a5956c6-3156-5b03-c3d0-60d772da1d7f"
+  },
+  {
+    "dataSetId": "8e364c42-471a-11e5-94d8-91b782245353",
+    "stationType": "subway",
+    "stationName": "Свиблово",
+    "lineName": "Калужско-Рижская линия",
+    "Название ветки": "8e1e8da0-471a-11e5-91d7-40b6bdf6f348",
+    "ID направления": "8e23b12c-471a-11e5-a985-ab8269731f9f"
+  },
+  {
+    "dataSetId": "8b897dfc-e441-4e69-85ed-38fa926131d0",
+    "stationType": "subway",
+    "stationName": "Севастопольская",
+    "lineName": "Серпуховско-Тимирязевская линия",
+    "Название ветки": "8f3ebfe8-471a-11e5-bf6f-39c67f1b8346",
+    "ID направления": "8f43d956-471a-11e5-ad3d-98f66d46e101"
+  },
+  {
+    "dataSetId": "8b897dfc-e441-4e69-85ed-38fa926131d0",
+    "stationType": "subway",
+    "stationName": "Севастопольская",
+    "lineName": "Серпуховско-Тимирязевская линия",
+    "Название ветки": "8f3ebfe8-471a-11e5-bf6f-39c67f1b8346",
+    "ID направления": "97347e3e-3e14-5beb-b6e7-44f293276b3c"
+  },
+  {
+    "dataSetId": "71094036-198b-448b-ac41-de0f3c685ac0",
+    "stationType": "subway",
+    "stationName": "Северянин",
+    "lineName": "Электричка Москва-Александров",
+    "Название ветки": "31473533-3958-4e30-9ca7-d3d131d34039",
+    "ID направления": "7218184f-99b0-41b4-877a-224cabc7511f"
+  },
+  {
+    "dataSetId": "93f1385f-0259-4082-8583-95e1dc8c6242",
+    "stationType": "subway",
+    "stationName": "Селигерская",
+    "lineName": "Люблинско-Дмитровская линия",
+    "Название ветки": "91c9dd2e-471a-11e5-81d1-51d545884878",
+    "ID направления": "91ce2082-471a-11e5-b30f-975bbc42b8bd"
+  },
+  {
+    "dataSetId": "93f1385f-0259-4082-8583-95e1dc8c6242",
+    "stationType": "subway",
+    "stationName": "Селигерская",
+    "lineName": "Люблинско-Дмитровская линия",
+    "Название ветки": "91c9dd2e-471a-11e5-81d1-51d545884878",
+    "ID направления": "7eea0f10-ee85-ec1b-9b79-56aa7ec2fff5"
+  },
+  {
+    "dataSetId": "8ff9552e-471a-11e5-aa10-d33191d3c698",
+    "stationType": "subway",
+    "stationName": "Семёновская",
+    "lineName": "Арбатско-Покровская линия",
+    "Название ветки": "8fd77c4c-471a-11e5-9c19-aed022f77575",
+    "ID направления": "8fdc553c-471a-11e5-8f0b-6def8571b2e8"
+  },
+  {
+    "dataSetId": "8ff9552e-471a-11e5-aa10-d33191d3c698",
+    "stationType": "subway",
+    "stationName": "Семёновская",
+    "lineName": "Арбатско-Покровская линия",
+    "Название ветки": "8fd77c4c-471a-11e5-9c19-aed022f77575",
+    "ID направления": "26e6acfc-127d-fbfa-9f0e-2a2f25643d6b"
+  },
+  {
+    "dataSetId": "45afa8cf-719c-49d4-9abb-b607085f9395",
+    "stationType": "subway",
+    "stationName": "Семхоз",
+    "lineName": "Электричка Москва-Александров",
+    "Название ветки": "31473533-3958-4e30-9ca7-d3d131d34039",
+    "ID направления": "7218184f-99b0-41b4-877a-224cabc7511f"
+  },
+  {
+    "dataSetId": "63755571-d2a5-4b70-8128-5bd2d5800361",
+    "stationType": "subway",
+    "stationName": "Сергиев Посад",
+    "lineName": "Электричка Москва-Александров",
+    "Название ветки": "31473533-3958-4e30-9ca7-d3d131d34039",
+    "ID направления": "7218184f-99b0-41b4-877a-224cabc7511f"
+  },
+  {
+    "dataSetId": "8f9494cc-471a-11e5-901d-b7728f61ee69",
+    "stationType": "subway",
+    "stationName": "Серпуховская",
+    "lineName": "Серпуховско-Тимирязевская линия",
+    "Название ветки": "8f3ebfe8-471a-11e5-bf6f-39c67f1b8346",
+    "ID направления": "8f43d956-471a-11e5-ad3d-98f66d46e101"
+  },
+  {
+    "dataSetId": "8f9494cc-471a-11e5-901d-b7728f61ee69",
+    "stationType": "subway",
+    "stationName": "Серпуховская",
+    "lineName": "Серпуховско-Тимирязевская линия",
+    "Название ветки": "8f3ebfe8-471a-11e5-bf6f-39c67f1b8346",
+    "ID направления": "97347e3e-3e14-5beb-b6e7-44f293276b3c"
+  },
+  {
+    "dataSetId": "90313872-471a-11e5-bda2-d251e2b81a83",
+    "stationType": "subway",
+    "stationName": "Славянский бульвар",
+    "lineName": "Арбатско-Покровская линия",
+    "Название ветки": "8fd77c4c-471a-11e5-9c19-aed022f77575",
+    "ID направления": "26e6acfc-127d-fbfa-9f0e-2a2f25643d6b"
+  },
+  {
+    "dataSetId": "90313872-471a-11e5-bda2-d251e2b81a83",
+    "stationType": "subway",
+    "stationName": "Славянский бульвар",
+    "lineName": "Арбатско-Покровская линия",
+    "Название ветки": "8fd77c4c-471a-11e5-9c19-aed022f77575",
+    "ID направления": "8fdc553c-471a-11e5-8f0b-6def8571b2e8"
+  },
+  {
+    "dataSetId": "8f0ab5d6-471a-11e5-9b89-21e60e13020e",
+    "stationType": "subway",
+    "stationName": "Смоленская",
+    "lineName": "Филёвская линия",
+    "Название ветки": "8ebf8f2a-471a-11e5-8473-298136d71f91",
+    "ID направления": "1f1b61e6-b2de-44db-1dbb-f7caaeff4dd1"
+  },
+  {
+    "dataSetId": "8f0ab5d6-471a-11e5-9b89-21e60e13020e",
+    "stationType": "subway",
+    "stationName": "Смоленская",
+    "lineName": "Филёвская линия",
+    "Название ветки": "ceeb4f7c-eeb6-4891-abda-fc2df5468013",
+    "ID направления": "178a4e77-b499-3195-e8c8-e783abf02823"
+  },
+  {
+    "dataSetId": "8f0ab5d6-471a-11e5-9b89-21e60e13020e",
+    "stationType": "subway",
+    "stationName": "Смоленская",
+    "lineName": "Филёвская линия",
+    "Название ветки": "8ebf8f2a-471a-11e5-8473-298136d71f91",
+    "ID направления": "8ec46806-471a-11e5-ae78-3fd8b768ff2c"
+  },
+  {
+    "dataSetId": "901e1c9c-471a-11e5-932a-30ea2c4fa857",
+    "stationType": "subway",
+    "stationName": "Смоленская",
+    "lineName": "Арбатско-Покровская линия",
+    "Название ветки": "8fd77c4c-471a-11e5-9c19-aed022f77575",
+    "ID направления": "26e6acfc-127d-fbfa-9f0e-2a2f25643d6b"
+  },
+  {
+    "dataSetId": "8f0ab5d6-471a-11e5-9b89-21e60e13020e",
+    "stationType": "subway",
+    "stationName": "Смоленская",
+    "lineName": "Филёвская линия",
+    "Название ветки": "ceeb4f7c-eeb6-4891-abda-fc2df5468013",
+    "ID направления": "471d8788-9048-4e99-a25a-ca9e214430b3"
+  },
+  {
+    "dataSetId": "901e1c9c-471a-11e5-932a-30ea2c4fa857",
+    "stationType": "subway",
+    "stationName": "Смоленская",
+    "lineName": "Арбатско-Покровская линия",
+    "Название ветки": "8fd77c4c-471a-11e5-9c19-aed022f77575",
+    "ID направления": "8fdc553c-471a-11e5-8f0b-6def8571b2e8"
+  },
+  {
+    "dataSetId": "8dacb4f0-471a-11e5-a651-f7ef444031bf",
+    "stationType": "subway",
+    "stationName": "Сокол",
+    "lineName": "Замоскворецкая линия",
+    "Название ветки": "8d9076b4-471a-11e5-9f41-f71b6003a10d",
+    "ID направления": "8d95379e-471a-11e5-9c4d-a70a757d8e10"
+  },
+  {
+    "dataSetId": "8dacb4f0-471a-11e5-a651-f7ef444031bf",
+    "stationType": "subway",
+    "stationName": "Сокол",
+    "lineName": "Замоскворецкая линия",
+    "Название ветки": "8d9076b4-471a-11e5-9f41-f71b6003a10d",
+    "ID направления": "5626ca88-fc11-8df4-0f8b-d3841e177802"
+  },
+  {
+    "dataSetId": "e42c6baf-214a-48ff-9b92-66516f3d795f",
+    "stationType": "mcc",
+    "stationName": "Соколиная гора",
+    "lineName": "МЦК",
+    "Название ветки": "812d7a2f-b6c7-4924-ad67-8c45e4dfdad3",
+    "ID направления": "40d606ae-c6f3-4981-91ba-27bd337db216"
+  },
+  {
+    "dataSetId": "e42c6baf-214a-48ff-9b92-66516f3d795f",
+    "stationType": "mcc",
+    "stationName": "Соколиная гора",
+    "lineName": "МЦК",
+    "Название ветки": "812d7a2f-b6c7-4924-ad67-8c45e4dfdad3",
+    "ID направления": "c2eca0d1-5866-46d7-9414-82e8f73fe0dd"
+  },
+  {
+    "dataSetId": "915bbb32-471a-11e5-b518-0f91db5bcb59",
+    "stationType": "subway",
+    "stationName": "Сокольники",
+    "lineName": "Сокольническая линия",
+    "Название ветки": "913e8b8e-471a-11e5-bb05-091bc1fc53a1",
+    "ID направления": "91436c12-471a-11e5-a3c8-e5afa364d7cf"
+  },
+  {
+    "dataSetId": "915bbb32-471a-11e5-b518-0f91db5bcb59",
+    "stationType": "subway",
+    "stationName": "Сокольники",
+    "lineName": "Сокольническая линия",
+    "Название ветки": "913e8b8e-471a-11e5-bb05-091bc1fc53a1",
+    "ID направления": "c1fabf36-77c2-3be0-d3e2-186e28e7beba"
+  },
+  {
+    "dataSetId": "4fa3340a-f94d-4e94-9ad1-e8c699331d83",
+    "stationType": "subway",
+    "stationName": "Солнцево",
+    "lineName": "Солнцевская линия",
+    "Название ветки": "92578142-471a-11e5-8bc7-00c742ecd372",
+    "ID направления": "55045d01-78a4-4ab7-a72d-ed5caab64169"
+  },
+  {
+    "dataSetId": "4fa3340a-f94d-4e94-9ad1-e8c699331d83",
+    "stationType": "subway",
+    "stationName": "Солнцево",
+    "lineName": "Солнцевская линия",
+    "Название ветки": "92578142-471a-11e5-8bc7-00c742ecd372",
+    "ID направления": "916f3177-83f3-0538-5fa9-05c734f64fd7"
+  },
+  {
+    "dataSetId": "8281234e-7032-44b0-95fb-2c246648bcf3",
+    "stationType": "subway",
+    "stationName": "Софрино",
+    "lineName": "Электричка Москва-Александров",
+    "Название ветки": "31473533-3958-4e30-9ca7-d3d131d34039",
+    "ID направления": "7218184f-99b0-41b4-877a-224cabc7511f"
+  },
+  {
+    "dataSetId": "10ccaad1-c74d-44d8-9c7a-31e058fb86f1",
+    "stationType": "subway",
+    "stationName": "Спартак",
+    "lineName": "Таганско-Краснопресненская линия",
+    "Название ветки": "905c4c06-471a-11e5-b22f-5b1f00be12d1",
+    "ID направления": "09b196c8-2d04-ba4b-b7a4-430071e55f9f"
+  },
+  {
+    "dataSetId": "10ccaad1-c74d-44d8-9c7a-31e058fb86f1",
+    "stationType": "subway",
+    "stationName": "Спартак",
+    "lineName": "Таганско-Краснопресненская линия",
+    "Название ветки": "905c4c06-471a-11e5-b22f-5b1f00be12d1",
+    "ID направления": "90614df0-471a-11e5-b25a-ba8676ed3b60"
+  },
+  {
+    "dataSetId": "91a23cce-471a-11e5-874d-4ee34dedc7af",
+    "stationType": "subway",
+    "stationName": "Спортивная",
+    "lineName": "Сокольническая линия",
+    "Название ветки": "913e8b8e-471a-11e5-bb05-091bc1fc53a1",
+    "ID направления": "91436c12-471a-11e5-a3c8-e5afa364d7cf"
+  },
+  {
+    "dataSetId": "91a23cce-471a-11e5-874d-4ee34dedc7af",
+    "stationType": "subway",
+    "stationName": "Спортивная",
+    "lineName": "Сокольническая линия",
+    "Название ветки": "913e8b8e-471a-11e5-bb05-091bc1fc53a1",
+    "ID направления": "c1fabf36-77c2-3be0-d3e2-186e28e7beba"
+  },
+  {
+    "dataSetId": "07ab7d85-3d84-47fc-a6cf-2323048b4f65",
+    "stationType": "subway",
+    "stationName": "Сретенский бульвар",
+    "lineName": "Люблинско-Дмитровская линия",
+    "Название ветки": "91c9dd2e-471a-11e5-81d1-51d545884878",
+    "ID направления": "91ce2082-471a-11e5-b30f-975bbc42b8bd"
+  },
+  {
+    "dataSetId": "07ab7d85-3d84-47fc-a6cf-2323048b4f65",
+    "stationType": "subway",
+    "stationName": "Сретенский бульвар",
+    "lineName": "Люблинско-Дмитровская линия",
+    "Название ветки": "91c9dd2e-471a-11e5-81d1-51d545884878",
+    "ID направления": "7eea0f10-ee85-ec1b-9b79-56aa7ec2fff5"
+  },
+  {
+    "dataSetId": "8702116d-04e8-40fe-91cb-96f57123e8cc",
+    "stationType": "subway",
+    "stationName": "Стахановская",
+    "lineName": "Некрасовская линия",
+    "Название ветки": "efdc079f-0252-40ed-acf3-0bf67476f983",
+    "ID направления": "12b0b9cc-d160-4795-8a2f-bfcc18b51701"
+  },
+  {
+    "dataSetId": "8702116d-04e8-40fe-91cb-96f57123e8cc",
+    "stationType": "subway",
+    "stationName": "Стахановская",
+    "lineName": "Некрасовская линия",
+    "Название ветки": "efdc079f-0252-40ed-acf3-0bf67476f983",
+    "ID направления": "f7997692-638f-4360-acac-65431638ae6f"
+  },
+  {
+    "dataSetId": "ae365883-b2c7-44b9-8a14-49162f144a8a",
+    "stationType": "mcc",
+    "stationName": "Стрешнево",
+    "lineName": "МЦК",
+    "Название ветки": "812d7a2f-b6c7-4924-ad67-8c45e4dfdad3",
+    "ID направления": "40d606ae-c6f3-4981-91ba-27bd337db216"
+  },
+  {
+    "dataSetId": "ae365883-b2c7-44b9-8a14-49162f144a8a",
+    "stationType": "mcc",
+    "stationName": "Стрешнево",
+    "lineName": "МЦК",
+    "Название ветки": "812d7a2f-b6c7-4924-ad67-8c45e4dfdad3",
+    "ID направления": "c2eca0d1-5866-46d7-9414-82e8f73fe0dd"
+  },
+  {
+    "dataSetId": "90479fe0-471a-11e5-98d1-b784c06bbd7f",
+    "stationType": "subway",
+    "stationName": "Строгино",
+    "lineName": "Арбатско-Покровская линия",
+    "Название ветки": "8fd77c4c-471a-11e5-9c19-aed022f77575",
+    "ID направления": "8fdc553c-471a-11e5-8f0b-6def8571b2e8"
+  },
+  {
+    "dataSetId": "90479fe0-471a-11e5-98d1-b784c06bbd7f",
+    "stationType": "subway",
+    "stationName": "Строгино",
+    "lineName": "Арбатско-Покровская линия",
+    "Название ветки": "8fd77c4c-471a-11e5-9c19-aed022f77575",
+    "ID направления": "26e6acfc-127d-fbfa-9f0e-2a2f25643d6b"
+  },
+  {
+    "dataSetId": "7b833da5-5195-42ac-b298-1658487a7445",
+    "stationType": "subway",
+    "stationName": "Строитель",
+    "lineName": "Электричка Москва-Александров",
+    "Название ветки": "31473533-3958-4e30-9ca7-d3d131d34039",
+    "ID направления": "7218184f-99b0-41b4-877a-224cabc7511f"
+  },
+  {
+    "dataSetId": "8eef7cda-471a-11e5-9432-37ee9ba17327",
+    "stationType": "subway",
+    "stationName": "Студенческая",
+    "lineName": "Филёвская линия",
+    "Название ветки": "8ebf8f2a-471a-11e5-8473-298136d71f91",
+    "ID направления": "1f1b61e6-b2de-44db-1dbb-f7caaeff4dd1"
+  },
+  {
+    "dataSetId": "8eef7cda-471a-11e5-9432-37ee9ba17327",
+    "stationType": "subway",
+    "stationName": "Студенческая",
+    "lineName": "Филёвская линия",
+    "Название ветки": "8ebf8f2a-471a-11e5-8473-298136d71f91",
+    "ID направления": "8ec46806-471a-11e5-ae78-3fd8b768ff2c"
+  },
+  {
+    "dataSetId": "8e619546-471a-11e5-8958-5d23134a32e7",
+    "stationType": "subway",
+    "stationName": "Сухаревская",
+    "lineName": "Калужско-Рижская линия",
+    "Название ветки": "8e1e8da0-471a-11e5-91d7-40b6bdf6f348",
+    "ID направления": "3a5956c6-3156-5b03-c3d0-60d772da1d7f"
+  },
+  {
+    "dataSetId": "8e619546-471a-11e5-8958-5d23134a32e7",
+    "stationType": "subway",
+    "stationName": "Сухаревская",
+    "lineName": "Калужско-Рижская линия",
+    "Название ветки": "8e1e8da0-471a-11e5-91d7-40b6bdf6f348",
+    "ID направления": "8e23b12c-471a-11e5-a985-ab8269731f9f"
+  },
+  {
+    "dataSetId": "906cd6e8-471a-11e5-84ca-dbd41bfa3356",
+    "stationType": "subway",
+    "stationName": "Сходненская",
+    "lineName": "Таганско-Краснопресненская линия",
+    "Название ветки": "905c4c06-471a-11e5-b22f-5b1f00be12d1",
+    "ID направления": "09b196c8-2d04-ba4b-b7a4-430071e55f9f"
+  },
+  {
+    "dataSetId": "906cd6e8-471a-11e5-84ca-dbd41bfa3356",
+    "stationType": "subway",
+    "stationName": "Сходненская",
+    "lineName": "Таганско-Краснопресненская линия",
+    "Название ветки": "905c4c06-471a-11e5-b22f-5b1f00be12d1",
+    "ID направления": "90614df0-471a-11e5-b25a-ba8676ed3b60"
+  },
+  {
+    "dataSetId": "911cd200-471a-11e5-8c31-23afc3f737bc",
+    "stationType": "subway",
+    "stationName": "Таганская",
+    "lineName": "Кольцевая линия",
+    "Название ветки": "90cc019a-471a-11e5-a77d-4d1a70b68fca",
+    "ID направления": "adec8ae8-3740-629a-cc0c-857096c0a10b"
+  },
+  {
+    "dataSetId": "90a6d8ca-471a-11e5-af7d-c9245ee7883d",
+    "stationType": "subway",
+    "stationName": "Таганская",
+    "lineName": "Таганско-Краснопресненская линия",
+    "Название ветки": "905c4c06-471a-11e5-b22f-5b1f00be12d1",
+    "ID направления": "09b196c8-2d04-ba4b-b7a4-430071e55f9f"
+  },
+  {
+    "dataSetId": "90a6d8ca-471a-11e5-af7d-c9245ee7883d",
+    "stationType": "subway",
+    "stationName": "Таганская",
+    "lineName": "Таганско-Краснопресненская линия",
+    "Название ветки": "905c4c06-471a-11e5-b22f-5b1f00be12d1",
+    "ID направления": "90614df0-471a-11e5-b25a-ba8676ed3b60"
+  },
+  {
+    "dataSetId": "911cd200-471a-11e5-8c31-23afc3f737bc",
+    "stationType": "subway",
+    "stationName": "Таганская",
+    "lineName": "Кольцевая линия",
+    "Название ветки": "90cc019a-471a-11e5-a77d-4d1a70b68fca",
+    "ID направления": "90e7fc74-471a-11e5-acac-299daf05db4c"
+  },
+  {
+    "dataSetId": "de1fc151-e213-4ee5-89ac-903f5424f303",
+    "stationType": "subway",
+    "stationName": "Тайнинская",
+    "lineName": "Электричка Москва-Александров",
+    "Название ветки": "31473533-3958-4e30-9ca7-d3d131d34039",
+    "ID направления": "7218184f-99b0-41b4-877a-224cabc7511f"
+  },
+  {
+    "dataSetId": "4a4759b6-cca7-4b71-9bd6-52ec1fcd512c",
+    "stationType": "subway",
+    "stationName": "Тарасовская",
+    "lineName": "Электричка Москва-Александров",
+    "Название ветки": "31473533-3958-4e30-9ca7-d3d131d34039",
+    "ID направления": "7218184f-99b0-41b4-877a-224cabc7511f"
+  },
+  {
+    "dataSetId": "8dcb879a-471a-11e5-88d7-3d4c59207445",
+    "stationType": "subway",
+    "stationName": "Тверская",
+    "lineName": "Замоскворецкая линия",
+    "Название ветки": "8d9076b4-471a-11e5-9f41-f71b6003a10d",
+    "ID направления": "8d95379e-471a-11e5-9c4d-a70a757d8e10"
+  },
+  {
+    "dataSetId": "8dcb879a-471a-11e5-88d7-3d4c59207445",
+    "stationType": "subway",
+    "stationName": "Тверская",
+    "lineName": "Замоскворецкая линия",
+    "Название ветки": "8d9076b4-471a-11e5-9f41-f71b6003a10d",
+    "ID направления": "5626ca88-fc11-8df4-0f8b-d3841e177802"
+  },
+  {
+    "dataSetId": "8dd1ccfe-471a-11e5-b1dd-1dad522ced54",
+    "stationType": "subway",
+    "stationName": "Театральная",
+    "lineName": "Замоскворецкая линия",
+    "Название ветки": "8d9076b4-471a-11e5-9f41-f71b6003a10d",
+    "ID направления": "8d95379e-471a-11e5-9c4d-a70a757d8e10"
+  },
+  {
+    "dataSetId": "8dd1ccfe-471a-11e5-b1dd-1dad522ced54",
+    "stationType": "subway",
+    "stationName": "Театральная",
+    "lineName": "Замоскворецкая линия",
+    "Название ветки": "8d9076b4-471a-11e5-9f41-f71b6003a10d",
+    "ID направления": "5626ca88-fc11-8df4-0f8b-d3841e177802"
+  },
+  {
+    "dataSetId": "ea39c660-6673-4e08-96e8-e180b45176fe",
+    "stationType": "subway",
+    "stationName": "Текстильщики",
+    "lineName": "Таганско-Краснопресненская линия",
+    "Название ветки": "905c4c06-471a-11e5-b22f-5b1f00be12d1",
+    "ID направления": "09b196c8-2d04-ba4b-b7a4-430071e55f9f"
+  },
+  {
+    "dataSetId": "ea39c660-6673-4e08-96e8-e180b45176fe",
+    "stationType": "subway",
+    "stationName": "Текстильщики",
+    "lineName": "Таганско-Краснопресненская линия",
+    "Название ветки": "905c4c06-471a-11e5-b22f-5b1f00be12d1",
+    "ID направления": "90614df0-471a-11e5-b25a-ba8676ed3b60"
+  },
+  {
+    "dataSetId": "92b5f6aa-471a-11e5-b8ab-28b50f7ff91a",
+    "stationType": "subway",
+    "stationName": "Телецентр",
+    "lineName": "Тимирязевская - ул. Сергея Эйзенштейна (монорельс)",
+    "Название ветки": "929a9e14-471a-11e5-9770-fa1e4b184fa0",
+    "ID направления": "929ef770-471a-11e5-8a20-ae1b29b80635"
+  },
+  {
+    "dataSetId": "92b5f6aa-471a-11e5-b8ab-28b50f7ff91a",
+    "stationType": "subway",
+    "stationName": "Телецентр",
+    "lineName": "Тимирязевская - ул. Сергея Эйзенштейна (монорельс)",
+    "Название ветки": "929a9e14-471a-11e5-9770-fa1e4b184fa0",
+    "ID направления": "204b0202-08d0-24cb-c686-bfc45091e5be"
+  },
+  {
+    "dataSetId": "7e16532c-91be-4313-b483-39e9edafeab3",
+    "stationType": "subway",
+    "stationName": "Технопарк",
+    "lineName": "Замоскворецкая линия",
+    "Название ветки": "8d9076b4-471a-11e5-9f41-f71b6003a10d",
+    "ID направления": "8d95379e-471a-11e5-9c4d-a70a757d8e10"
+  },
+  {
+    "dataSetId": "7e16532c-91be-4313-b483-39e9edafeab3",
+    "stationType": "subway",
+    "stationName": "Технопарк",
+    "lineName": "Замоскворецкая линия",
+    "Название ветки": "8d9076b4-471a-11e5-9f41-f71b6003a10d",
+    "ID направления": "5626ca88-fc11-8df4-0f8b-d3841e177802"
+  },
+  {
+    "dataSetId": "8eaccd7c-471a-11e5-a6cb-f4188e817a83",
+    "stationType": "subway",
+    "stationName": "Тёплый Стан",
+    "lineName": "Калужско-Рижская линия",
+    "Название ветки": "8e1e8da0-471a-11e5-91d7-40b6bdf6f348",
+    "ID направления": "3a5956c6-3156-5b03-c3d0-60d772da1d7f"
+  },
+  {
+    "dataSetId": "8eaccd7c-471a-11e5-a6cb-f4188e817a83",
+    "stationType": "subway",
+    "stationName": "Тёплый Стан",
+    "lineName": "Калужско-Рижская линия",
+    "Название ветки": "8e1e8da0-471a-11e5-91d7-40b6bdf6f348",
+    "ID направления": "8e23b12c-471a-11e5-a985-ab8269731f9f"
+  },
+  {
+    "dataSetId": "8f688c42-471a-11e5-bd1e-8934c3650929",
+    "stationType": "subway",
+    "stationName": "Тимирязевская",
+    "lineName": "Серпуховско-Тимирязевская линия",
+    "Название ветки": "8f3ebfe8-471a-11e5-bf6f-39c67f1b8346",
+    "ID направления": "97347e3e-3e14-5beb-b6e7-44f293276b3c"
+  },
+  {
+    "dataSetId": "8f688c42-471a-11e5-bd1e-8934c3650929",
+    "stationType": "subway",
+    "stationName": "Тимирязевская",
+    "lineName": "Серпуховско-Тимирязевская линия",
+    "Название ветки": "8f3ebfe8-471a-11e5-bf6f-39c67f1b8346",
+    "ID направления": "8f43d956-471a-11e5-ad3d-98f66d46e101"
+  },
+  {
+    "dataSetId": "92c1ff72-471a-11e5-859e-c5ec9fa9c890",
+    "stationType": "subway",
+    "stationName": "Тимирязевская",
+    "lineName": "Тимирязевская - ул. Сергея Эйзенштейна (монорельс)",
+    "Название ветки": "929a9e14-471a-11e5-9770-fa1e4b184fa0",
+    "ID направления": "929ef770-471a-11e5-8a20-ae1b29b80635"
+  },
+  {
+    "dataSetId": "92c1ff72-471a-11e5-859e-c5ec9fa9c890",
+    "stationType": "subway",
+    "stationName": "Тимирязевская",
+    "lineName": "Тимирязевская - ул. Сергея Эйзенштейна (монорельс)",
+    "Название ветки": "929a9e14-471a-11e5-9770-fa1e4b184fa0",
+    "ID направления": "204b0202-08d0-24cb-c686-bfc45091e5be"
+  },
+  {
+    "dataSetId": "8d8a5324-471a-11e5-8c2c-65177b82eb0b",
+    "stationType": "subway",
+    "stationName": "Третьяковская",
+    "lineName": "Калужско-Рижская линия",
+    "Название ветки": "8e1e8da0-471a-11e5-91d7-40b6bdf6f348",
+    "ID направления": "3a5956c6-3156-5b03-c3d0-60d772da1d7f"
+  },
+  {
+    "dataSetId": "f9107975-5d97-4dd4-bb40-2a9b49aca3f5",
+    "stationType": "subway",
+    "stationName": "Третьяковская",
+    "lineName": "Калининская линия",
+    "Название ветки": "8d4a6c28-471a-11e5-ba91-961782854ada",
+    "ID направления": "8d5075be-471a-11e5-949b-d1519b93204f"
+  },
+  {
+    "dataSetId": "f9107975-5d97-4dd4-bb40-2a9b49aca3f5",
+    "stationType": "subway",
+    "stationName": "Третьяковская",
+    "lineName": "Калининская линия",
+    "Название ветки": "8d4a6c28-471a-11e5-ba91-961782854ada",
+    "ID направления": "820a0a00-5145-ea22-766e-149ec5636607"
+  },
+  {
+    "dataSetId": "8d8a5324-471a-11e5-8c2c-65177b82eb0b",
+    "stationType": "subway",
+    "stationName": "Третьяковская",
+    "lineName": "Калужско-Рижская линия",
+    "Название ветки": "8e1e8da0-471a-11e5-91d7-40b6bdf6f348",
+    "ID направления": "8e23b12c-471a-11e5-a985-ab8269731f9f"
+  },
+  {
+    "dataSetId": "91c29a0a-471a-11e5-af99-e18a7346063f",
+    "stationType": "subway",
+    "stationName": "Тропарево",
+    "lineName": "Сокольническая линия",
+    "Название ветки": "913e8b8e-471a-11e5-bb05-091bc1fc53a1",
+    "ID направления": "91436c12-471a-11e5-a3c8-e5afa364d7cf"
+  },
+  {
+    "dataSetId": "91c29a0a-471a-11e5-af99-e18a7346063f",
+    "stationType": "subway",
+    "stationName": "Тропарево",
+    "lineName": "Сокольническая линия",
+    "Название ветки": "913e8b8e-471a-11e5-bb05-091bc1fc53a1",
+    "ID направления": "c1fabf36-77c2-3be0-d3e2-186e28e7beba"
+  },
+  {
+    "dataSetId": "91dcf864-471a-11e5-a27e-d137bfc86b75",
+    "stationType": "subway",
+    "stationName": "Трубная",
+    "lineName": "Люблинско-Дмитровская линия",
+    "Название ветки": "91c9dd2e-471a-11e5-81d1-51d545884878",
+    "ID направления": "91ce2082-471a-11e5-b30f-975bbc42b8bd"
+  },
+  {
+    "dataSetId": "91dcf864-471a-11e5-a27e-d137bfc86b75",
+    "stationType": "subway",
+    "stationName": "Трубная",
+    "lineName": "Люблинско-Дмитровская линия",
+    "Название ветки": "91c9dd2e-471a-11e5-81d1-51d545884878",
+    "ID направления": "7eea0f10-ee85-ec1b-9b79-56aa7ec2fff5"
+  },
+  {
+    "dataSetId": "8f9ad58a-471a-11e5-b1e6-26c56e41ca4f",
+    "stationType": "subway",
+    "stationName": "Тульская",
+    "lineName": "Серпуховско-Тимирязевская линия",
+    "Название ветки": "8f3ebfe8-471a-11e5-bf6f-39c67f1b8346",
+    "ID направления": "97347e3e-3e14-5beb-b6e7-44f293276b3c"
+  },
+  {
+    "dataSetId": "8f9ad58a-471a-11e5-b1e6-26c56e41ca4f",
+    "stationType": "subway",
+    "stationName": "Тульская",
+    "lineName": "Серпуховско-Тимирязевская линия",
+    "Название ветки": "8f3ebfe8-471a-11e5-bf6f-39c67f1b8346",
+    "ID направления": "8f43d956-471a-11e5-ad3d-98f66d46e101"
+  },
+  {
+    "dataSetId": "8e67ba2a-471a-11e5-9ab5-13dba97b539c",
+    "stationType": "subway",
+    "stationName": "Тургеневская",
+    "lineName": "Калужско-Рижская линия",
+    "Название ветки": "8e1e8da0-471a-11e5-91d7-40b6bdf6f348",
+    "ID направления": "3a5956c6-3156-5b03-c3d0-60d772da1d7f"
+  },
+  {
+    "dataSetId": "8e67ba2a-471a-11e5-9ab5-13dba97b539c",
+    "stationType": "subway",
+    "stationName": "Тургеневская",
+    "lineName": "Калужско-Рижская линия",
+    "Название ветки": "8e1e8da0-471a-11e5-91d7-40b6bdf6f348",
+    "ID направления": "8e23b12c-471a-11e5-a985-ab8269731f9f"
+  },
+  {
+    "dataSetId": "9073a234-471a-11e5-a987-23c518824332",
+    "stationType": "subway",
+    "stationName": "Тушинская",
+    "lineName": "Таганско-Краснопресненская линия",
+    "Название ветки": "905c4c06-471a-11e5-b22f-5b1f00be12d1",
+    "ID направления": "09b196c8-2d04-ba4b-b7a4-430071e55f9f"
+  },
+  {
+    "dataSetId": "9073a234-471a-11e5-a987-23c518824332",
+    "stationType": "subway",
+    "stationName": "Тушинская",
+    "lineName": "Таганско-Краснопресненская линия",
+    "Название ветки": "905c4c06-471a-11e5-b22f-5b1f00be12d1",
+    "ID направления": "90614df0-471a-11e5-b25a-ba8676ed3b60"
+  },
+  {
+    "dataSetId": "5b4285fd-8c41-4141-afb1-45f4e64b58ca",
+    "stationType": "mcc",
+    "stationName": "Угрешская",
+    "lineName": "МЦК",
+    "Название ветки": "812d7a2f-b6c7-4924-ad67-8c45e4dfdad3",
+    "ID направления": "c2eca0d1-5866-46d7-9414-82e8f73fe0dd"
+  },
+  {
+    "dataSetId": "5b4285fd-8c41-4141-afb1-45f4e64b58ca",
+    "stationType": "mcc",
+    "stationName": "Угрешская",
+    "lineName": "МЦК",
+    "Название ветки": "812d7a2f-b6c7-4924-ad67-8c45e4dfdad3",
+    "ID направления": "40d606ae-c6f3-4981-91ba-27bd337db216"
+  },
+  {
+    "dataSetId": "908ed3ce-471a-11e5-a608-4689c0e25894",
+    "stationType": "subway",
+    "stationName": "Улица 1905 года",
+    "lineName": "Таганско-Краснопресненская линия",
+    "Название ветки": "905c4c06-471a-11e5-b22f-5b1f00be12d1",
+    "ID направления": "09b196c8-2d04-ba4b-b7a4-430071e55f9f"
+  },
+  {
+    "dataSetId": "908ed3ce-471a-11e5-a608-4689c0e25894",
+    "stationType": "subway",
+    "stationName": "Улица 1905 года",
+    "lineName": "Таганско-Краснопресненская линия",
+    "Название ветки": "905c4c06-471a-11e5-b22f-5b1f00be12d1",
+    "ID направления": "90614df0-471a-11e5-b25a-ba8676ed3b60"
+  },
+  {
+    "dataSetId": "92af92d8-471a-11e5-b61a-e862e276dc3a",
+    "stationType": "subway",
+    "stationName": "Улица Академика Королёва",
+    "lineName": "Тимирязевская - ул. Сергея Эйзенштейна (монорельс)",
+    "Название ветки": "929a9e14-471a-11e5-9770-fa1e4b184fa0",
+    "ID направления": "204b0202-08d0-24cb-c686-bfc45091e5be"
+  },
+  {
+    "dataSetId": "92af92d8-471a-11e5-b61a-e862e276dc3a",
+    "stationType": "subway",
+    "stationName": "Улица Академика Королёва",
+    "lineName": "Тимирязевская - ул. Сергея Эйзенштейна (монорельс)",
+    "Название ветки": "929a9e14-471a-11e5-9770-fa1e4b184fa0",
+    "ID направления": "929ef770-471a-11e5-8a20-ae1b29b80635"
+  },
+  {
+    "dataSetId": "8fc596ee-471a-11e5-9262-32f056e79625",
+    "stationType": "subway",
+    "stationName": "Улица Академика Янгеля",
+    "lineName": "Серпуховско-Тимирязевская линия",
+    "Название ветки": "8f3ebfe8-471a-11e5-bf6f-39c67f1b8346",
+    "ID направления": "97347e3e-3e14-5beb-b6e7-44f293276b3c"
+  },
+  {
+    "dataSetId": "8fc596ee-471a-11e5-9262-32f056e79625",
+    "stationType": "subway",
+    "stationName": "Улица Академика Янгеля",
+    "lineName": "Серпуховско-Тимирязевская линия",
+    "Название ветки": "8f3ebfe8-471a-11e5-bf6f-39c67f1b8346",
+    "ID направления": "8f43d956-471a-11e5-ad3d-98f66d46e101"
+  },
+  {
+    "dataSetId": "9276d3e4-471a-11e5-bd6b-fb546a5844b5",
+    "stationType": "subway",
+    "stationName": "Улица Горчакова",
+    "lineName": "Бутовская линия",
+    "Название ветки": "925bf7d6-471a-11e5-b809-dd225ae65f46",
+    "ID направления": "92603e22-471a-11e5-a616-6335f60b9920"
+  },
+  {
+    "dataSetId": "9276d3e4-471a-11e5-bd6b-fb546a5844b5",
+    "stationType": "subway",
+    "stationName": "Улица Горчакова",
+    "lineName": "Бутовская линия",
+    "Название ветки": "925bf7d6-471a-11e5-b809-dd225ae65f46",
+    "ID направления": "253f8506-679c-d269-ad5f-d6517e2d2177"
+  },
+  {
+    "dataSetId": "704d206b-a38c-4cfe-8478-79c35d508872",
+    "stationType": "subway",
+    "stationName": "Улица Дмитриевского",
+    "lineName": "Некрасовская линия",
+    "Название ветки": "efdc079f-0252-40ed-acf3-0bf67476f983",
+    "ID направления": "12b0b9cc-d160-4795-8a2f-bfcc18b51701"
+  },
+  {
+    "dataSetId": "704d206b-a38c-4cfe-8478-79c35d508872",
+    "stationType": "subway",
+    "stationName": "Улица Дмитриевского",
+    "lineName": "Некрасовская линия",
+    "Название ветки": "efdc079f-0252-40ed-acf3-0bf67476f983",
+    "ID направления": "f7997692-638f-4360-acac-65431638ae6f"
+  },
+  {
+    "dataSetId": "92bc1c38-471a-11e5-8be5-12958be1a653",
+    "stationType": "subway",
+    "stationName": "Улица Милашенкова",
+    "lineName": "Тимирязевская - ул. Сергея Эйзенштейна (монорельс)",
+    "Название ветки": "929a9e14-471a-11e5-9770-fa1e4b184fa0",
+    "ID направления": "204b0202-08d0-24cb-c686-bfc45091e5be"
+  },
+  {
+    "dataSetId": "92bc1c38-471a-11e5-8be5-12958be1a653",
+    "stationType": "subway",
+    "stationName": "Улица Милашенкова",
+    "lineName": "Тимирязевская - ул. Сергея Эйзенштейна (монорельс)",
+    "Название ветки": "929a9e14-471a-11e5-9770-fa1e4b184fa0",
+    "ID направления": "929ef770-471a-11e5-8a20-ae1b29b80635"
+  },
+  {
+    "dataSetId": "92a34d48-471a-11e5-a3cd-96fdc42ea985",
+    "stationType": "subway",
+    "stationName": "Улица Сергея Эйзенштейна",
+    "lineName": "Тимирязевская - ул. Сергея Эйзенштейна (монорельс)",
+    "Название ветки": "929a9e14-471a-11e5-9770-fa1e4b184fa0",
+    "ID направления": "929ef770-471a-11e5-8a20-ae1b29b80635"
+  },
+  {
+    "dataSetId": "92a34d48-471a-11e5-a3cd-96fdc42ea985",
+    "stationType": "subway",
+    "stationName": "Улица Сергея Эйзенштейна",
+    "lineName": "Тимирязевская - ул. Сергея Эйзенштейна (монорельс)",
+    "Название ветки": "929a9e14-471a-11e5-9770-fa1e4b184fa0",
+    "ID направления": "204b0202-08d0-24cb-c686-bfc45091e5be"
+  },
+  {
+    "dataSetId": "926afb1e-471a-11e5-864b-67ddfa8672d1",
+    "stationType": "subway",
+    "stationName": "Улица Скобелевская",
+    "lineName": "Бутовская линия",
+    "Название ветки": "925bf7d6-471a-11e5-b809-dd225ae65f46",
+    "ID направления": "92603e22-471a-11e5-a616-6335f60b9920"
+  },
+  {
+    "dataSetId": "926afb1e-471a-11e5-864b-67ddfa8672d1",
+    "stationType": "subway",
+    "stationName": "Улица Скобелевская",
+    "lineName": "Бутовская линия",
+    "Название ветки": "925bf7d6-471a-11e5-b809-dd225ae65f46",
+    "ID направления": "253f8506-679c-d269-ad5f-d6517e2d2177"
+  },
+  {
+    "dataSetId": "9264c78a-471a-11e5-951c-25f6c5f68c6f",
+    "stationType": "subway",
+    "stationName": "Улица Старокачаловская",
+    "lineName": "Бутовская линия",
+    "Название ветки": "925bf7d6-471a-11e5-b809-dd225ae65f46",
+    "ID направления": "253f8506-679c-d269-ad5f-d6517e2d2177"
+  },
+  {
+    "dataSetId": "9264c78a-471a-11e5-951c-25f6c5f68c6f",
+    "stationType": "subway",
+    "stationName": "Улица Старокачаловская",
+    "lineName": "Бутовская линия",
+    "Название ветки": "925bf7d6-471a-11e5-b809-dd225ae65f46",
+    "ID направления": "92603e22-471a-11e5-a616-6335f60b9920"
+  },
+  {
+    "dataSetId": "91af038c-471a-11e5-9419-99209b2b449c",
+    "stationType": "subway",
+    "stationName": "Университет",
+    "lineName": "Сокольническая линия",
+    "Название ветки": "913e8b8e-471a-11e5-bb05-091bc1fc53a1",
+    "ID направления": "c1fabf36-77c2-3be0-d3e2-186e28e7beba"
+  },
+  {
+    "dataSetId": "91af038c-471a-11e5-9419-99209b2b449c",
+    "stationType": "subway",
+    "stationName": "Университет",
+    "lineName": "Сокольническая линия",
+    "Название ветки": "913e8b8e-471a-11e5-bb05-091bc1fc53a1",
+    "ID направления": "91436c12-471a-11e5-a3c8-e5afa364d7cf"
+  },
+  {
+    "dataSetId": "66140634-66d4-4c8b-95e5-da2b59683939",
+    "stationType": "subway",
+    "stationName": "Филатов Луг",
+    "lineName": "Сокольническая линия",
+    "Название ветки": "913e8b8e-471a-11e5-bb05-091bc1fc53a1",
+    "ID направления": "c1fabf36-77c2-3be0-d3e2-186e28e7beba"
+  },
+  {
+    "dataSetId": "66140634-66d4-4c8b-95e5-da2b59683939",
+    "stationType": "subway",
+    "stationName": "Филатов Луг",
+    "lineName": "Сокольническая линия",
+    "Название ветки": "913e8b8e-471a-11e5-bb05-091bc1fc53a1",
+    "ID направления": "91436c12-471a-11e5-a3c8-e5afa364d7cf"
+  },
+  {
+    "dataSetId": "8ed6877a-471a-11e5-8b73-4d6bcd55f24c",
+    "stationType": "subway",
+    "stationName": "Филёвский парк",
+    "lineName": "Филёвская линия",
+    "Название ветки": "8ebf8f2a-471a-11e5-8473-298136d71f91",
+    "ID направления": "8ec46806-471a-11e5-ae78-3fd8b768ff2c"
+  },
+  {
+    "dataSetId": "8ed6877a-471a-11e5-8b73-4d6bcd55f24c",
+    "stationType": "subway",
+    "stationName": "Филёвский парк",
+    "lineName": "Филёвская линия",
+    "Название ветки": "8ebf8f2a-471a-11e5-8473-298136d71f91",
+    "ID направления": "1f1b61e6-b2de-44db-1dbb-f7caaeff4dd1"
+  },
+  {
+    "dataSetId": "8ee30c0c-471a-11e5-91ff-9a8abbeadc7b",
+    "stationType": "subway",
+    "stationName": "Фили",
+    "lineName": "Филёвская линия",
+    "Название ветки": "8ebf8f2a-471a-11e5-8473-298136d71f91",
+    "ID направления": "1f1b61e6-b2de-44db-1dbb-f7caaeff4dd1"
+  },
+  {
+    "dataSetId": "8ee30c0c-471a-11e5-91ff-9a8abbeadc7b",
+    "stationType": "subway",
+    "stationName": "Фили",
+    "lineName": "Филёвская линия",
+    "Название ветки": "8ebf8f2a-471a-11e5-8473-298136d71f91",
+    "ID направления": "8ec46806-471a-11e5-ae78-3fd8b768ff2c"
+  },
+  {
+    "dataSetId": "bc6effc1-b3dd-4ada-be2f-35ba6442fbd0",
+    "stationType": "subway",
+    "stationName": "Фонвизинская",
+    "lineName": "Люблинско-Дмитровская линия",
+    "Название ветки": "91c9dd2e-471a-11e5-81d1-51d545884878",
+    "ID направления": "7eea0f10-ee85-ec1b-9b79-56aa7ec2fff5"
+  },
+  {
+    "dataSetId": "bc6effc1-b3dd-4ada-be2f-35ba6442fbd0",
+    "stationType": "subway",
+    "stationName": "Фонвизинская",
+    "lineName": "Люблинско-Дмитровская линия",
+    "Название ветки": "91c9dd2e-471a-11e5-81d1-51d545884878",
+    "ID направления": "91ce2082-471a-11e5-b30f-975bbc42b8bd"
+  },
+  {
+    "dataSetId": "919c154c-471a-11e5-b779-2426008715d0",
+    "stationType": "subway",
+    "stationName": "Фрунзенская",
+    "lineName": "Сокольническая линия",
+    "Название ветки": "913e8b8e-471a-11e5-bb05-091bc1fc53a1",
+    "ID направления": "91436c12-471a-11e5-a3c8-e5afa364d7cf"
+  },
+  {
+    "dataSetId": "919c154c-471a-11e5-b779-2426008715d0",
+    "stationType": "subway",
+    "stationName": "Фрунзенская",
+    "lineName": "Сокольническая линия",
+    "Название ветки": "913e8b8e-471a-11e5-bb05-091bc1fc53a1",
+    "ID направления": "c1fabf36-77c2-3be0-d3e2-186e28e7beba"
+  },
+  {
+    "dataSetId": "da2a1b01-96de-4e14-8258-4936e7b09fd0",
+    "stationType": "subway",
+    "stationName": "Ховрино",
+    "lineName": "Замоскворецкая линия",
+    "Название ветки": "8d9076b4-471a-11e5-9f41-f71b6003a10d",
+    "ID направления": "5626ca88-fc11-8df4-0f8b-d3841e177802"
+  },
+  {
+    "dataSetId": "da2a1b01-96de-4e14-8258-4936e7b09fd0",
+    "stationType": "subway",
+    "stationName": "Ховрино",
+    "lineName": "Замоскворецкая линия",
+    "Название ветки": "8d9076b4-471a-11e5-9f41-f71b6003a10d",
+    "ID направления": "8d95379e-471a-11e5-9c4d-a70a757d8e10"
+  },
+  {
+    "dataSetId": "840eb1d0-23f1-4193-9c64-3fe7559d32b9",
+    "stationType": "mcc",
+    "stationName": "Хорошёво",
+    "lineName": "МЦК",
+    "Название ветки": "812d7a2f-b6c7-4924-ad67-8c45e4dfdad3",
+    "ID направления": "c2eca0d1-5866-46d7-9414-82e8f73fe0dd"
+  },
+  {
+    "dataSetId": "840eb1d0-23f1-4193-9c64-3fe7559d32b9",
+    "stationType": "mcc",
+    "stationName": "Хорошёво",
+    "lineName": "МЦК",
+    "Название ветки": "812d7a2f-b6c7-4924-ad67-8c45e4dfdad3",
+    "ID направления": "40d606ae-c6f3-4981-91ba-27bd337db216"
+  },
+  {
+    "dataSetId": "6ac4fd06-3049-496a-b16c-2041d260ff67",
+    "stationType": "subway",
+    "stationName": "Хорошёвская",
+    "lineName": "Солнцевская линия",
+    "Название ветки": "92578142-471a-11e5-8bc7-00c742ecd372",
+    "ID направления": "916f3177-83f3-0538-5fa9-05c734f64fd7"
+  },
+  {
+    "dataSetId": "27254303-ec6b-4898-87b4-7b3514e13f4e",
+    "stationType": "subway",
+    "stationName": "Хорошёвская",
+    "lineName": "Большая кольцевая линия",
+    "Название ветки": "f5dfb41b-0bd9-4aa1-b14b-386de49b5c36",
+    "ID направления": "60c40a6e-e4f4-44f8-b651-1b39417c7009"
+  },
+  {
+    "dataSetId": "27254303-ec6b-4898-87b4-7b3514e13f4e",
+    "stationType": "subway",
+    "stationName": "Хорошёвская",
+    "lineName": "Большая кольцевая линия",
+    "Название ветки": "f5dfb41b-0bd9-4aa1-b14b-386de49b5c36",
+    "ID направления": "f15f59c0-6e3c-42d8-b6aa-22663e515d50"
+  },
+  {
+    "dataSetId": "6ac4fd06-3049-496a-b16c-2041d260ff67",
+    "stationType": "subway",
+    "stationName": "Хорошёвская",
+    "lineName": "Солнцевская линия",
+    "Название ветки": "92578142-471a-11e5-8bc7-00c742ecd372",
+    "ID направления": "55045d01-78a4-4ab7-a72d-ed5caab64169"
+  },
+  {
+    "dataSetId": "c78517a5-0324-41d6-bda6-0fd9eafee1a6",
+    "stationType": "subway",
+    "stationName": "Хотьково",
+    "lineName": "Электричка Москва-Александров",
+    "Название ветки": "31473533-3958-4e30-9ca7-d3d131d34039",
+    "ID направления": "7218184f-99b0-41b4-877a-224cabc7511f"
+  },
+  {
+    "dataSetId": "8e0583aa-471a-11e5-a2a0-d8c7c7a936ec",
+    "stationType": "subway",
+    "stationName": "Царицыно",
+    "lineName": "Замоскворецкая линия",
+    "Название ветки": "8d9076b4-471a-11e5-9f41-f71b6003a10d",
+    "ID направления": "8d95379e-471a-11e5-9c4d-a70a757d8e10"
+  },
+  {
+    "dataSetId": "8e0583aa-471a-11e5-a2a0-d8c7c7a936ec",
+    "stationType": "subway",
+    "stationName": "Царицыно",
+    "lineName": "Замоскворецкая линия",
+    "Название ветки": "8d9076b4-471a-11e5-9f41-f71b6003a10d",
+    "ID направления": "5626ca88-fc11-8df4-0f8b-d3841e177802"
+  },
+  {
+    "dataSetId": "8f7b258c-471a-11e5-962c-cbcdc37f0abe",
+    "stationType": "subway",
+    "stationName": "Цветной бульвар",
+    "lineName": "Серпуховско-Тимирязевская линия",
+    "Название ветки": "8f3ebfe8-471a-11e5-bf6f-39c67f1b8346",
+    "ID направления": "8f43d956-471a-11e5-ad3d-98f66d46e101"
+  },
+  {
+    "dataSetId": "8f7b258c-471a-11e5-962c-cbcdc37f0abe",
+    "stationType": "subway",
+    "stationName": "Цветной бульвар",
+    "lineName": "Серпуховско-Тимирязевская линия",
+    "Название ветки": "8f3ebfe8-471a-11e5-bf6f-39c67f1b8346",
+    "ID направления": "97347e3e-3e14-5beb-b6e7-44f293276b3c"
+  },
+  {
+    "dataSetId": "f9fadb44-2b2a-4528-b6d5-4e28d392f4ba",
+    "stationType": "subway",
+    "stationName": "ЦСКА",
+    "lineName": "Большая кольцевая линия",
+    "Название ветки": "f5dfb41b-0bd9-4aa1-b14b-386de49b5c36",
+    "ID направления": "f15f59c0-6e3c-42d8-b6aa-22663e515d50"
+  },
+  {
+    "dataSetId": "77094a53-bd20-439b-a21f-6380c5e50e9f",
+    "stationType": "subway",
+    "stationName": "ЦСКА",
+    "lineName": "Солнцевская линия",
+    "Название ветки": "92578142-471a-11e5-8bc7-00c742ecd372",
+    "ID направления": "916f3177-83f3-0538-5fa9-05c734f64fd7"
+  },
+  {
+    "dataSetId": "77094a53-bd20-439b-a21f-6380c5e50e9f",
+    "stationType": "subway",
+    "stationName": "ЦСКА",
+    "lineName": "Солнцевская линия",
+    "Название ветки": "92578142-471a-11e5-8bc7-00c742ecd372",
+    "ID направления": "55045d01-78a4-4ab7-a72d-ed5caab64169"
+  },
+  {
+    "dataSetId": "f9fadb44-2b2a-4528-b6d5-4e28d392f4ba",
+    "stationType": "subway",
+    "stationName": "ЦСКА",
+    "lineName": "Большая кольцевая линия",
+    "Название ветки": "f5dfb41b-0bd9-4aa1-b14b-386de49b5c36",
+    "ID направления": "60c40a6e-e4f4-44f8-b651-1b39417c7009"
+  },
+  {
+    "dataSetId": "1795d0dc-543e-4e47-9fee-78f86ce713d8",
+    "stationType": "subway",
+    "stationName": "Челюскинская",
+    "lineName": "Электричка Москва-Александров",
+    "Название ветки": "31473533-3958-4e30-9ca7-d3d131d34039",
+    "ID направления": "7218184f-99b0-41b4-877a-224cabc7511f"
+  },
+  {
+    "dataSetId": "914ed4a8-471a-11e5-bf4d-58f7f768a1e5",
+    "stationType": "subway",
+    "stationName": "Черкизовская",
+    "lineName": "Сокольническая линия",
+    "Название ветки": "913e8b8e-471a-11e5-bb05-091bc1fc53a1",
+    "ID направления": "c1fabf36-77c2-3be0-d3e2-186e28e7beba"
+  },
+  {
+    "dataSetId": "914ed4a8-471a-11e5-bf4d-58f7f768a1e5",
+    "stationType": "subway",
+    "stationName": "Черкизовская",
+    "lineName": "Сокольническая линия",
+    "Название ветки": "913e8b8e-471a-11e5-bb05-091bc1fc53a1",
+    "ID направления": "91436c12-471a-11e5-a3c8-e5afa364d7cf"
+  },
+  {
+    "dataSetId": "8fb2f0b6-471a-11e5-9ce9-e4fb8dee67b2",
+    "stationType": "subway",
+    "stationName": "Чертановская",
+    "lineName": "Серпуховско-Тимирязевская линия",
+    "Название ветки": "8f3ebfe8-471a-11e5-bf6f-39c67f1b8346",
+    "ID направления": "8f43d956-471a-11e5-ad3d-98f66d46e101"
+  },
+  {
+    "dataSetId": "8fb2f0b6-471a-11e5-9ce9-e4fb8dee67b2",
+    "stationType": "subway",
+    "stationName": "Чертановская",
+    "lineName": "Серпуховско-Тимирязевская линия",
+    "Название ветки": "8f3ebfe8-471a-11e5-bf6f-39c67f1b8346",
+    "ID направления": "97347e3e-3e14-5beb-b6e7-44f293276b3c"
+  },
+  {
+    "dataSetId": "8f81859e-471a-11e5-9fed-849fd67a5b95",
+    "stationType": "subway",
+    "stationName": "Чеховская",
+    "lineName": "Серпуховско-Тимирязевская линия",
+    "Название ветки": "8f3ebfe8-471a-11e5-bf6f-39c67f1b8346",
+    "ID направления": "97347e3e-3e14-5beb-b6e7-44f293276b3c"
+  },
+  {
+    "dataSetId": "8f81859e-471a-11e5-9fed-849fd67a5b95",
+    "stationType": "subway",
+    "stationName": "Чеховская",
+    "lineName": "Серпуховско-Тимирязевская линия",
+    "Название ветки": "8f3ebfe8-471a-11e5-bf6f-39c67f1b8346",
+    "ID направления": "8f43d956-471a-11e5-ad3d-98f66d46e101"
+  },
+  {
+    "dataSetId": "9176698c-471a-11e5-a17b-59187db303b7",
+    "stationType": "subway",
+    "stationName": "Чистые пруды",
+    "lineName": "Сокольническая линия",
+    "Название ветки": "913e8b8e-471a-11e5-bb05-091bc1fc53a1",
+    "ID направления": "c1fabf36-77c2-3be0-d3e2-186e28e7beba"
+  },
+  {
+    "dataSetId": "9176698c-471a-11e5-a17b-59187db303b7",
+    "stationType": "subway",
+    "stationName": "Чистые пруды",
+    "lineName": "Сокольническая линия",
+    "Название ветки": "913e8b8e-471a-11e5-bb05-091bc1fc53a1",
+    "ID направления": "91436c12-471a-11e5-a3c8-e5afa364d7cf"
+  },
+  {
+    "dataSetId": "91e22b18-471a-11e5-8a1a-862c0e9ff412",
+    "stationType": "subway",
+    "stationName": "Чкаловская",
+    "lineName": "Люблинско-Дмитровская линия",
+    "Название ветки": "91c9dd2e-471a-11e5-81d1-51d545884878",
+    "ID направления": "91ce2082-471a-11e5-b30f-975bbc42b8bd"
+  },
+  {
+    "dataSetId": "91e22b18-471a-11e5-8a1a-862c0e9ff412",
+    "stationType": "subway",
+    "stationName": "Чкаловская",
+    "lineName": "Люблинско-Дмитровская линия",
+    "Название ветки": "91c9dd2e-471a-11e5-81d1-51d545884878",
+    "ID направления": "7eea0f10-ee85-ec1b-9b79-56aa7ec2fff5"
+  },
+  {
+    "dataSetId": "8e7c921a-471a-11e5-b048-4dc87196b388",
+    "stationType": "subway",
+    "stationName": "Шаболовская",
+    "lineName": "Калужско-Рижская линия",
+    "Название ветки": "8e1e8da0-471a-11e5-91d7-40b6bdf6f348",
+    "ID направления": "3a5956c6-3156-5b03-c3d0-60d772da1d7f"
+  },
+  {
+    "dataSetId": "8e7c921a-471a-11e5-b048-4dc87196b388",
+    "stationType": "subway",
+    "stationName": "Шаболовская",
+    "lineName": "Калужско-Рижская линия",
+    "Название ветки": "8e1e8da0-471a-11e5-91d7-40b6bdf6f348",
+    "ID направления": "8e23b12c-471a-11e5-a985-ab8269731f9f"
+  },
+  {
+    "dataSetId": "a602aa55-fc2f-4ef0-90dc-49eeba0e1ac8",
+    "stationType": "subway",
+    "stationName": "Шелепиха",
+    "lineName": "Солнцевская линия",
+    "Название ветки": "92578142-471a-11e5-8bc7-00c742ecd372",
+    "ID направления": "916f3177-83f3-0538-5fa9-05c734f64fd7"
+  },
+  {
+    "dataSetId": "45dddd27-59ee-4f7e-ac7e-f43f4e27fe91",
+    "stationType": "subway",
+    "stationName": "Шелепиха",
+    "lineName": "Большая кольцевая линия",
+    "Название ветки": "f5dfb41b-0bd9-4aa1-b14b-386de49b5c36",
+    "ID направления": "f15f59c0-6e3c-42d8-b6aa-22663e515d50"
+  },
+  {
+    "dataSetId": "45dddd27-59ee-4f7e-ac7e-f43f4e27fe91",
+    "stationType": "subway",
+    "stationName": "Шелепиха",
+    "lineName": "Большая кольцевая линия",
+    "Название ветки": "f5dfb41b-0bd9-4aa1-b14b-386de49b5c36",
+    "ID направления": "60c40a6e-e4f4-44f8-b651-1b39417c7009"
+  },
+  {
+    "dataSetId": "a602aa55-fc2f-4ef0-90dc-49eeba0e1ac8",
+    "stationType": "subway",
+    "stationName": "Шелепиха",
+    "lineName": "Солнцевская линия",
+    "Название ветки": "92578142-471a-11e5-8bc7-00c742ecd372",
+    "ID направления": "55045d01-78a4-4ab7-a72d-ed5caab64169"
+  },
+  {
+    "dataSetId": "b3bdd76d-dd80-4def-950d-cbddffd9d48e",
+    "stationType": "mcc",
+    "stationName": "Шелепиха",
+    "lineName": "МЦК",
+    "Название ветки": "812d7a2f-b6c7-4924-ad67-8c45e4dfdad3",
+    "ID направления": "40d606ae-c6f3-4981-91ba-27bd337db216"
+  },
+  {
+    "dataSetId": "b3bdd76d-dd80-4def-950d-cbddffd9d48e",
+    "stationType": "mcc",
+    "stationName": "Шелепиха",
+    "lineName": "МЦК",
+    "Название ветки": "812d7a2f-b6c7-4924-ad67-8c45e4dfdad3",
+    "ID направления": "c2eca0d1-5866-46d7-9414-82e8f73fe0dd"
+  },
+  {
+    "dataSetId": "924c6118-471a-11e5-91f1-52f7a2dfc975",
+    "stationType": "subway",
+    "stationName": "Шипиловская",
+    "lineName": "Люблинско-Дмитровская линия",
+    "Название ветки": "91c9dd2e-471a-11e5-81d1-51d545884878",
+    "ID направления": "91ce2082-471a-11e5-b30f-975bbc42b8bd"
+  },
+  {
+    "dataSetId": "924c6118-471a-11e5-91f1-52f7a2dfc975",
+    "stationType": "subway",
+    "stationName": "Шипиловская",
+    "lineName": "Люблинско-Дмитровская линия",
+    "Название ветки": "91c9dd2e-471a-11e5-81d1-51d545884878",
+    "ID направления": "7eea0f10-ee85-ec1b-9b79-56aa7ec2fff5"
+  },
+  {
+    "dataSetId": "8d6f270c-471a-11e5-bda5-c0cbff6061ac",
+    "stationType": "subway",
+    "stationName": "Шоссе Энтузиастов",
+    "lineName": "Калининская линия",
+    "Название ветки": "8d4a6c28-471a-11e5-ba91-961782854ada",
+    "ID направления": "820a0a00-5145-ea22-766e-149ec5636607"
+  },
+  {
+    "dataSetId": "8d6f270c-471a-11e5-bda5-c0cbff6061ac",
+    "stationType": "subway",
+    "stationName": "Шоссе Энтузиастов",
+    "lineName": "Калининская линия",
+    "Название ветки": "8d4a6c28-471a-11e5-ba91-961782854ada",
+    "ID направления": "8d5075be-471a-11e5-949b-d1519b93204f"
+  },
+  {
+    "dataSetId": "dc1f255c-ea30-4d9c-ac51-ee7a087d194d",
+    "stationType": "mcc",
+    "stationName": "Шоссе Энтузиастов",
+    "lineName": "МЦК",
+    "Название ветки": "812d7a2f-b6c7-4924-ad67-8c45e4dfdad3",
+    "ID направления": "40d606ae-c6f3-4981-91ba-27bd337db216"
+  },
+  {
+    "dataSetId": "dc1f255c-ea30-4d9c-ac51-ee7a087d194d",
+    "stationType": "mcc",
+    "stationName": "Шоссе Энтузиастов",
+    "lineName": "МЦК",
+    "Название ветки": "812d7a2f-b6c7-4924-ad67-8c45e4dfdad3",
+    "ID направления": "c2eca0d1-5866-46d7-9414-82e8f73fe0dd"
+  },
+  {
+    "dataSetId": "8fe15b9a-471a-11e5-93b1-e840e2132458",
+    "stationType": "subway",
+    "stationName": "Щёлковская",
+    "lineName": "Арбатско-Покровская линия",
+    "Название ветки": "8fd77c4c-471a-11e5-9c19-aed022f77575",
+    "ID направления": "8fdc553c-471a-11e5-8f0b-6def8571b2e8"
+  },
+  {
+    "dataSetId": "8fe15b9a-471a-11e5-93b1-e840e2132458",
+    "stationType": "subway",
+    "stationName": "Щёлковская",
+    "lineName": "Арбатско-Покровская линия",
+    "Название ветки": "8fd77c4c-471a-11e5-9c19-aed022f77575",
+    "ID направления": "26e6acfc-127d-fbfa-9f0e-2a2f25643d6b"
+  },
+  {
+    "dataSetId": "907a5f16-471a-11e5-9c1e-393c01adb630",
+    "stationType": "subway",
+    "stationName": "Щукинская",
+    "lineName": "Таганско-Краснопресненская линия",
+    "Название ветки": "905c4c06-471a-11e5-b22f-5b1f00be12d1",
+    "ID направления": "09b196c8-2d04-ba4b-b7a4-430071e55f9f"
+  },
+  {
+    "dataSetId": "907a5f16-471a-11e5-9c1e-393c01adb630",
+    "stationType": "subway",
+    "stationName": "Щукинская",
+    "lineName": "Таганско-Краснопресненская линия",
+    "Название ветки": "905c4c06-471a-11e5-b22f-5b1f00be12d1",
+    "ID направления": "90614df0-471a-11e5-b25a-ba8676ed3b60"
+  },
+  {
+    "dataSetId": "8fff2b84-471a-11e5-87fe-24f90d40a37c",
+    "stationType": "subway",
+    "stationName": "Электрозаводская",
+    "lineName": "Арбатско-Покровская линия",
+    "Название ветки": "8fd77c4c-471a-11e5-9c19-aed022f77575",
+    "ID направления": "8fdc553c-471a-11e5-8f0b-6def8571b2e8"
+  },
+  {
+    "dataSetId": "8fff2b84-471a-11e5-87fe-24f90d40a37c",
+    "stationType": "subway",
+    "stationName": "Электрозаводская",
+    "lineName": "Арбатско-Покровская линия",
+    "Название ветки": "8fd77c4c-471a-11e5-9c19-aed022f77575",
+    "ID направления": "26e6acfc-127d-fbfa-9f0e-2a2f25643d6b"
+  },
+  {
+    "dataSetId": "a2c462aa-0814-4035-9e02-db5721254187",
+    "stationType": "subway",
+    "stationName": "Юго-Восточная",
+    "lineName": "Некрасовская линия",
+    "Название ветки": "efdc079f-0252-40ed-acf3-0bf67476f983",
+    "ID направления": "f7997692-638f-4360-acac-65431638ae6f"
+  },
+  {
+    "dataSetId": "a2c462aa-0814-4035-9e02-db5721254187",
+    "stationType": "subway",
+    "stationName": "Юго-Восточная",
+    "lineName": "Некрасовская линия",
+    "Название ветки": "efdc079f-0252-40ed-acf3-0bf67476f983",
+    "ID направления": "12b0b9cc-d160-4795-8a2f-bfcc18b51701"
+  },
+  {
+    "dataSetId": "91bc11bc-471a-11e5-9d78-1b0c583c0209",
+    "stationType": "subway",
+    "stationName": "Юго-Западная",
+    "lineName": "Сокольническая линия",
+    "Название ветки": "913e8b8e-471a-11e5-bb05-091bc1fc53a1",
+    "ID направления": "91436c12-471a-11e5-a3c8-e5afa364d7cf"
+  },
+  {
+    "dataSetId": "91bc11bc-471a-11e5-9d78-1b0c583c0209",
+    "stationType": "subway",
+    "stationName": "Юго-Западная",
+    "lineName": "Сокольническая линия",
+    "Название ветки": "913e8b8e-471a-11e5-bb05-091bc1fc53a1",
+    "ID направления": "c1fabf36-77c2-3be0-d3e2-186e28e7beba"
+  },
+  {
+    "dataSetId": "8fb9238c-471a-11e5-b7a0-1e80d922d986",
+    "stationType": "subway",
+    "stationName": "Южная",
+    "lineName": "Серпуховско-Тимирязевская линия",
+    "Название ветки": "8f3ebfe8-471a-11e5-bf6f-39c67f1b8346",
+    "ID направления": "8f43d956-471a-11e5-ad3d-98f66d46e101"
+  },
+  {
+    "dataSetId": "8fb9238c-471a-11e5-b7a0-1e80d922d986",
+    "stationType": "subway",
+    "stationName": "Южная",
+    "lineName": "Серпуховско-Тимирязевская линия",
+    "Название ветки": "8f3ebfe8-471a-11e5-bf6f-39c67f1b8346",
+    "ID направления": "97347e3e-3e14-5beb-b6e7-44f293276b3c"
+  },
+  {
+    "dataSetId": "8eb29702-471a-11e5-a07c-6d858e8f8d61",
+    "stationType": "subway",
+    "stationName": "Ясенево",
+    "lineName": "Калужско-Рижская линия",
+    "Название ветки": "8e1e8da0-471a-11e5-91d7-40b6bdf6f348",
+    "ID направления": "3a5956c6-3156-5b03-c3d0-60d772da1d7f"
+  },
+  {
+    "dataSetId": "8eb29702-471a-11e5-a07c-6d858e8f8d61",
+    "stationType": "subway",
+    "stationName": "Ясенево",
+    "lineName": "Калужско-Рижская линия",
+    "Название ветки": "8e1e8da0-471a-11e5-91d7-40b6bdf6f348",
+    "ID направления": "8e23b12c-471a-11e5-a985-ab8269731f9f"
+  },
+  {
+    "dataSetId": "1cfab4ec-aade-43c1-957f-a27129e318ce",
+    "stationType": "subway",
+    "stationName": "Яуза",
+    "lineName": "Электричка Москва-Александров",
+    "Название ветки": "31473533-3958-4e30-9ca7-d3d131d34039",
+    "ID направления": "7218184f-99b0-41b4-877a-224cabc7511f"
+  }
+]

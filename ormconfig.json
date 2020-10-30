@@ -1,0 +1,13 @@
+{
+    "name": "default",
+    "type": "postgres",
+    "host": "176.99.12.58",
+    "port": 5432,
+    "username": "postgres",
+    "password": "Denter23",
+    "database": "tubeMap",
+    "synchronize": true,
+    "entities": [
+        "src/entities/*.entity.ts"
+    ]
+}
