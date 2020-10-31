@@ -4,9 +4,11 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
+    "@types/jsdom": "^16.2.5",
     "@types/node": "^14.14.6",
     "class-validator": "^0.12.2",
     "dvk-log": "^1.1.8",
+    "jsdom": "^16.4.0",
     "pg": "^8.4.2",
     "ts-node": "^9.0.0",
     "typeorm": "^0.2.28",

@@ -1,4 +1,4 @@
-import { readFileSync } from 'fs';
+import { readFileSync, writeFileSync } from 'fs';
 import { resolve } from 'path';
 import { createConnection } from 'typeorm';
 import LineEntity from './entities/Line.entity';
@@ -7,16 +7,43 @@ import IStation from './intefaces/IStation';
 import ITransfer from './intefaces/ITransfer';
 import logger from './utils/logger';
 
+import {JSDOM} from 'jsdom';
+
 createConnection().then(async () => {
 	logger.success('Db inited');
 
     // await loadStationsToDb();
     // await loadTransfersToDb();
 
-    await loadTransfersRelToDb();
+    // await loadTransfersRelToDb();
+	await exportStations();
 
+	// await modifySvg();
 	logger.success('data uploaded');
 });
+
+async function modifySvg() {
+	const svg = readFileSync(resolve(__dirname, '../map.svg'));
+
+	const dom = await JSDOM.fromFile(resolve(__dirname, '../map.svg'));
+
+	const nodes = dom.window.document.querySelectorAll<HTMLDivElement>(`[id^='white-base']`);
+
+	nodes.forEach(node => {
+		node.parentElement?.removeChild(node);
+	})
+
+
+	writeFileSync(resolve(__dirname, '../map.svg'), dom.serialize());
+}
+
+async function exportStations() {
+	const stations = await StationEntity.find({
+		relations: ['line', 'transfersRel']
+	});
+
+	writeFileSync(resolve(__dirname, '../result.json'), JSON.stringify(stations));
+}
 
 async function loadTransfersRelToDb() {
     const json = <string>(<unknown>readFileSync(resolve(__dirname, '../transfers.json')));
@@ -122,3 +149,4 @@ async function loadStationsToDb() {
 		await station.save();
 	}
 }
+
